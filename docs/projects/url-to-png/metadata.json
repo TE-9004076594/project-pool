@@ -1,0 +1,31 @@
+{
+  "category": "Miscellaneous",
+  "name": "URL-to-PNG",
+  "url": "https://github.com/jasonraimondi/url-to-png",
+  "description_en": "URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 247,
+  "forks_count": 37,
+  "open_issues_count": 3,
+  "topics": [
+    "amazon-s3",
+    "couchdb",
+    "docker",
+    "nestjs",
+    "node",
+    "playwright",
+    "s3",
+    "screenshots",
+    "selfhosted",
+    "url-to-image",
+    "url-to-png"
+  ],
+  "homepage": "https://jasonraimondi.github.io/url-to-png/",
+  "description": "Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB",
+  "updated_at": "2026-06-28T05:23:24Z",
+  "pushed_at": "2026-06-19T21:51:57Z",
+  "full_name": "jasonraimondi/url-to-png",
+  "readme_preview": "<h1 align=\"center\"> <img height=\"100\" src=\"https://res.cloudinary.com/jmondi/image/upload/v1536798191/jasonraimondi.com/url-to-img/url-to-png-logo.png\" alt=\"URL to PNG logo\" /> <br /> URL to PNG </h1>\n\nA URL to PNG generator over HTTP with a fairly simple API accessed via query params passed to the server.\n\n- Generate PNG images from URLs - Customizable image dimensions and viewport size - Support for mobile user agent and dark mode rendering - Caching of generated images - Allow list for...",
+  "slug": "url-to-png"
+}

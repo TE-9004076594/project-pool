@@ -1,0 +1,19 @@
+{
+  "category": "Wikis",
+  "name": "XWiki",
+  "url": "https://www.xwiki.org",
+  "description_en": "Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://www.xwikiplayground.org/xwiki/bin/view/Main/), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java/Docker/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "xwiki"
+}

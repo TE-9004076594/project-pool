@@ -1,0 +1,19 @@
+{
+  "category": "Self-hosting Solutions",
+  "name": "Dropserver",
+  "url": "https://dropserver.org",
+  "description_en": "An application platform for your personal web services. ([Source Code](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "dropserver"
+}

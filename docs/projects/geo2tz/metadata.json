@@ -1,0 +1,24 @@
+{
+  "category": "Maps and Global Positioning System (GPS)",
+  "name": "Geo2tz",
+  "url": "https://github.com/noandrea/geo2tz",
+  "description_en": "Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 95,
+  "forks_count": 17,
+  "open_issues_count": 2,
+  "topics": [
+    "api",
+    "geo",
+    "rest",
+    "timezones"
+  ],
+  "homepage": "",
+  "description": "A self-hostable REST-like API to get the time zone from geo coordinates",
+  "updated_at": "2026-07-01T20:29:21Z",
+  "pushed_at": "2026-07-01T20:29:31Z",
+  "full_name": "noandrea/geo2tz",
+  "readme_preview": "A self-hostable service to get the timezone given geo-coordinates (lat/lng)\n\nTimezone data comes from [github.com/evansiroky/timezone-boundary-builder](https://github.com/evansiroky/timezone-boundary-builder).\n\nThis project is considered mature and stable, having undergone extensive testing and refinement over time. It is now in a state where it can be reliably used in production environments. The badge below shows the number of Docker pulls for the project:",
+  "slug": "geo2tz"
+}

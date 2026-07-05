@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Social Networks and Forums",
+  "name": "Isso",
+  "url": "https://isso-comments.de/",
+  "description_en": "Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/isso-comments/isso)) `MIT` `Python/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "isso"
+}

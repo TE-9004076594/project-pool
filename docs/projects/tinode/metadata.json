@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Tinode",
+  "url": "https://github.com/tinode",
+  "description_en": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code](https://github.com/tinode/chat), [Clients](https://github.com/tinode/webapp)) `GPL-3.0` `Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "tinode"
+}

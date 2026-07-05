@@ -1,0 +1,26 @@
+{
+  "category": "Community-Supported Agriculture (CSA)",
+  "name": "teikei",
+  "url": "https://github.com/teikei/teikei",
+  "description_en": "A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 66,
+  "forks_count": 12,
+  "open_issues_count": 3,
+  "topics": [
+    "crowdsourcing",
+    "csa",
+    "javascript",
+    "leafletjs",
+    "nodejs",
+    "react"
+  ],
+  "homepage": "https://ernte-teilen.org/karte",
+  "description": "A web application that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.",
+  "updated_at": "2026-07-05T14:27:06Z",
+  "pushed_at": "2026-07-05T14:27:04Z",
+  "full_name": "teikei/teikei",
+  "readme_preview": "**Production**\n\n![Map CI](https://github.com/teikei/teikei/actions/workflows/map-ci.yml/badge.svg) ![API CI](https://github.com/teikei/teikei/actions/workflows/api-ci.yml/badge.svg) ![Admin CI](https://github.com/teikei/teikei/actions/workflows/admin-ci.yml/badge.svg)\n\n**Preview**",
+  "slug": "teikei"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Feed Readers",
+  "name": "Miniflux",
+  "url": "https://miniflux.app/",
+  "description_en": "Minimalist news reader. ([Source Code](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "miniflux"
+}

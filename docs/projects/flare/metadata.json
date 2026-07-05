@@ -1,0 +1,32 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Flare",
+  "url": "https://github.com/FlintSH/Flare",
+  "description_en": "A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more. `MIT` `Docker/Nodejs`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 121,
+  "forks_count": 6,
+  "open_issues_count": 4,
+  "topics": [
+    "docker",
+    "file-management",
+    "file-sharing",
+    "flameshot",
+    "kde",
+    "nextjs",
+    "nextjs15",
+    "react",
+    "self-hosted",
+    "server",
+    "sharex",
+    "spectacle"
+  ],
+  "homepage": "",
+  "description": "A modern, lightning-fast file sharing platform built for self-hosting. Created with support for ShareX, KDE Spectacle, Flameshot, and easy to set up. ",
+  "updated_at": "2026-07-01T21:26:54Z",
+  "pushed_at": "2026-07-01T21:57:29Z",
+  "full_name": "FlintSH/Flare",
+  "readme_preview": "<div align=\"center\"> <img src=\"./public/banner.png\" alt=\"Flare Banner\" width=\"600px\" /> <p><small><i>Icon designed by <a href=\"https://ko-fi.com/xnefas/\">xNefas</a></i></small></p>\n\n</div> Flare is a modern, self-hostable file sharing platform designed to work seamlessly with popular screenshot and sharing tools like ShareX, Flameshot, and KDE Spectacle. Built with Next.js and designed with simplicity in mind, it offers a complete solution for all your file sharing needs with a strong focus on...",
+  "slug": "flare"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "sE2EEnd",
+  "url": "https://github.com/sE2EEnd/sE2EEnd",
+  "description_en": "End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. `AGPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 4,
+  "forks_count": 0,
+  "open_issues_count": 7,
+  "topics": [
+    "e2e-encryption",
+    "e2ee",
+    "e2ee-encryption",
+    "encryption",
+    "file-transfer",
+    "filetransfer"
+  ],
+  "homepage": "https://se2eend.github.io/sE2EEnd/",
+  "description": "File transfer solution with end-to-end encryption.",
+  "updated_at": "2026-07-02T00:09:15Z",
+  "pushed_at": "2026-07-02T22:30:01Z",
+  "full_name": "sE2EEnd/sE2EEnd",
+  "readme_preview": "<div align=\"center\">\n\n<img src=\"docs/screenshots/title.svg\" alt=\"sE2EEnd\" height=\"90\" />\n\n**Encrypted file transfer, under your control.**",
+  "slug": "se2eend"
+}

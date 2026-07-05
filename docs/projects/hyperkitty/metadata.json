@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Mailing Lists and Newsletters",
+  "name": "HyperKitty",
+  "url": "https://wiki.list.org/HyperKitty",
+  "description_en": "Access GNU Mailman v3 archives. ([Demo](https://lists.mailman3.org/), [Source Code](https://gitlab.com/mailman/hyperkitty)) `GPL-3.0` `Python`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "hyperkitty"
+}

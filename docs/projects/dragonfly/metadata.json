@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Mail Transfer Agents",
+  "name": "DragonFly",
+  "url": "https://github.com/corecode/dma",
+  "description_en": "A small MTA for home and office use. Works on Linux and FreeBSD. `BSD-3-Clause` `C`",
+  "language": "C",
+  "license": "NOASSERTION",
+  "stargazers_count": 259,
+  "forks_count": 59,
+  "open_issues_count": 43,
+  "topics": [],
+  "homepage": "",
+  "description": "The DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.",
+  "updated_at": "2026-06-22T17:02:46Z",
+  "pushed_at": "2026-05-29T03:42:24Z",
+  "full_name": "corecode/dma",
+  "readme_preview": "dma -- DragonFly Mail Agent ===========================\n\ndma is a small Mail Transport Agent (MTA), designed for home and office use.  It accepts mails from locally installed Mail User Agents (MUA) and delivers the mails either locally or to a remote destination. Remote delivery includes several features like TLS/SSL support and SMTP authentication.\n\ndma is not intended as a replacement for real, big MTAs like sendmail(8) or postfix(1).  Consequently, dma does not listen on port 25 for incoming...",
+  "slug": "dragonfly"
+}

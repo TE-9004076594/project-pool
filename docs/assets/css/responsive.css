@@ -1,0 +1,156 @@
+/* Responsive Design */
+
+/* Tablet: 768px - 1024px */
+@media (max-width: 1024px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .category-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Mobile: < 768px */
+@media (max-width: 768px) {
+    .hero {
+        padding: 40px 16px;
+    }
+
+    .hero-title {
+        font-size: 1.6rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1rem;
+    }
+
+    .hero-search {
+        flex-direction: column;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .stats-grid .stat-card {
+        padding: 16px;
+    }
+
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .category-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .section {
+        padding: 16px;
+    }
+
+    .section-title {
+        font-size: 1.3rem;
+    }
+
+    .project-header h1 {
+        font-size: 1.5rem;
+    }
+
+    .card-header {
+        flex-direction: column;
+    }
+
+    .card-meta {
+        gap: 8px;
+    }
+
+    .badge-group {
+        gap: 4px;
+    }
+
+    .badge {
+        font-size: 0.7rem;
+        padding: 3px 8px;
+    }
+
+    .tech-table th {
+        width: 80px;
+        font-size: 0.85rem;
+    }
+
+    .tech-table td {
+        font-size: 0.85rem;
+    }
+
+    .filter-panel {
+        padding: 12px;
+    }
+
+    .filter-options {
+        gap: 4px;
+    }
+
+    .filter-chip {
+        padding: 4px 10px;
+        font-size: 0.8rem;
+    }
+
+    .sort-controls {
+        flex-wrap: wrap;
+    }
+
+    .virtual-scroll-container {
+        height: 400px;
+    }
+
+    .action-buttons {
+        flex-direction: column;
+    }
+
+    .action-buttons .mdc-button {
+        width: 100%;
+    }
+}
+
+/* Small Mobile: < 480px */
+@media (max-width: 480px) {
+    .hero {
+        padding: 32px 12px;
+    }
+
+    .hero-title {
+        font-size: 1.4rem;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .stat-value {
+        font-size: 1.3rem;
+    }
+
+    .language-chips {
+        gap: 6px;
+    }
+
+    .language-chip {
+        font-size: 0.8rem;
+        padding: 6px 12px;
+    }
+
+    .star-range {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .star-range input {
+        width: auto;
+    }
+}

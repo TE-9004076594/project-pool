@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Web-based File Managers",
+  "name": "Directory Lister",
+  "url": "https://www.directorylister.com/",
+  "description_en": "Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "directory-lister"
+}

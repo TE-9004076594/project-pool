@@ -1,0 +1,25 @@
+{
+  "category": "Feed Readers",
+  "name": "Leed",
+  "url": "https://github.com/LeedRSS/Leed",
+  "description_en": "Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`",
+  "language": "PHP",
+  "license": null,
+  "stargazers_count": 232,
+  "forks_count": 41,
+  "open_issues_count": 36,
+  "topics": [
+    "atom",
+    "leed",
+    "reader",
+    "rss",
+    "self-hosted"
+  ],
+  "homepage": "",
+  "description": "Leed (contraction de Light Feed) est un agrégateur RSS libre et minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive.",
+  "updated_at": "2026-06-30T12:23:07Z",
+  "pushed_at": "2026-04-24T16:22:08Z",
+  "full_name": "LeedRSS/Leed",
+  "readme_preview": "> Français - [English](#leed-english-documentation) - [Español](#leed-documentaci%C3%B3n-espa%C3%B1ola)\n\nLeed (contraction de Light Feed) est un agrégateur [RSS](https://fr.wikipedia.org/wiki/Rss)/[ATOM](https://fr.wikipedia.org/wiki/Atom_Syndication_Format) minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive.\n\nCet agrégateur peut s'installer sur votre propre serveur et fonctionne avec un système de tâches [cron](https://fr.wikipedia.org/wiki/Cron) afin de...",
+  "slug": "leed"
+}

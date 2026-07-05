@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - Low Code",
+  "name": "PocketBase",
+  "url": "https://pocketbase.io/",
+  "description_en": "Backend for your next SaaS and Mobile app in one file. ([Source Code](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "pocketbase"
+}

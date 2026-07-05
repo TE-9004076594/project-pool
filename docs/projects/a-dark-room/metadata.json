@@ -1,0 +1,19 @@
+{
+  "category": "Games",
+  "name": "A Dark Room",
+  "url": "https://github.com/doublespeakgames/adarkroom",
+  "description_en": "Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `Javascript`",
+  "language": "JavaScript",
+  "license": "MPL-2.0",
+  "stargazers_count": 8162,
+  "forks_count": 1760,
+  "open_issues_count": 149,
+  "topics": [],
+  "homepage": null,
+  "description": "A Dark Room - A Minimalist Text Adventure",
+  "updated_at": "2026-07-05T04:40:48Z",
+  "pushed_at": "2025-05-23T15:33:06Z",
+  "full_name": "doublespeakgames/adarkroom",
+  "readme_preview": "A Dark Room =========== > \"awake. head throbbing. vision blurry. come light the fire.\"\n\na minimalist text adventure game for your browser\n\n<table> <tr><th colspan=4>Available Languages</tr> <tr> <td><a href=\"http://adarkroom.doublespeakgames.com/?lang=zh_cn\">Chinese (Simplified)</a></td> <td><a href=\"http://adarkroom.doublespeakgames.com/?lang=zh_tw\">Chinese (Traditional)</a></td> <td><a href=\"http://adarkroom.doublespeakgames.com/?lang=en\">English</a></td> <td><a...",
+  "slug": "a-dark-room"
+}

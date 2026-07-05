@@ -1,0 +1,29 @@
+{
+  "category": "Internet of Things (IoT)",
+  "name": "LHA",
+  "url": "https://github.com/javalikescript/lha",
+  "description_en": "Light Home Automation application that is fully extensible using Blockly, HTML or Lua. It includes extensions such as ConBee, Philips Hue or Z-Wave JS. `MIT` `Lua`",
+  "language": "Lua",
+  "license": "MIT",
+  "stargazers_count": 12,
+  "forks_count": 3,
+  "open_issues_count": 0,
+  "topics": [
+    "blockly",
+    "home-automation",
+    "iot",
+    "lua",
+    "mqtt",
+    "raspberry-pi",
+    "webthings",
+    "zigbee",
+    "zwave"
+  ],
+  "homepage": "",
+  "description": "light home automation application",
+  "updated_at": "2026-06-20T15:42:36Z",
+  "pushed_at": "2026-06-20T15:42:31Z",
+  "full_name": "javalikescript/lha",
+  "readme_preview": "lha is a light home automation application\n\nThe lha application allows to * enrich your existing gateway such as the [Hue](https://www.philips-hue.com/) bridge * record and display historical device values such as temperature * interact between incompatible protocols such as _ZigBee_ and _Z-Wave_ * compose advanced automations using [Blockly](https://developers.google.com/blockly/) scripts * design web views using [HTML](https://html.spec.whatwg.org/) and [Vue.js](https://v2.vuejs.org/) *...",
+  "slug": "lha"
+}

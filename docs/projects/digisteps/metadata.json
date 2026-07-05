@@ -1,0 +1,19 @@
+{
+  "category": "Miscellaneous",
+  "name": "Digisteps",
+  "url": "https://ladigitale.dev/digisteps/",
+  "description_en": "A simple application for creating online educational paths (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digisteps)) `AGPL-3.0` `Nodejs/PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "digisteps"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Database Management",
+  "name": "d9",
+  "url": "https://d9.webcapsule.io",
+  "description_en": "Turn SQL databases into secure APIs through an intuitive admin interface. Data platform and headless CMS (fork of Directus). ([Source Code](https://github.com/LaWebcapsule/d9)) `GPL-3.0` `Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "d9"
+}

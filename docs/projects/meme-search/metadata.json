@@ -1,0 +1,28 @@
+{
+  "category": "Search Engines",
+  "name": "Meme Search",
+  "url": "https://github.com/neonwatty/meme-search",
+  "description_en": "AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. `Apache-2.0` `Docker`",
+  "language": "Ruby",
+  "license": "Apache-2.0",
+  "stargazers_count": 687,
+  "forks_count": 27,
+  "open_issues_count": 2,
+  "topics": [
+    "ai",
+    "docker",
+    "homelab",
+    "machine-learning",
+    "meme",
+    "self-hosted",
+    "semantic-search",
+    "vector-database"
+  ],
+  "homepage": "https://neonwatty.github.io/meme-search/",
+  "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+  "updated_at": "2026-07-02T16:00:02Z",
+  "pushed_at": "2026-05-31T22:41:25Z",
+  "full_name": "neonwatty/meme-search",
+  "readme_preview": "Use AI to index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.\n\nBy default, processing from image-to-text extraction, to vector embedding, to search is performed locally. You can also use an OpenAI-compatible vision API for description generation while keeping embeddings and search local.\n\n<p align=\"center\"> <img src=\"https://github.com/user-attachments/assets/0529764f-a009-4e17-8947-63c7c96075a5\" alt=\"meme-search-2.0-demo\"> </p>",
+  "slug": "meme-search"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Content Management Systems (CMS)",
+  "name": "Pimcore",
+  "url": "http://www.pimcore.com/",
+  "description_en": "Multi-channel experience and engagement management platform. ([Source Code](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "pimcore"
+}

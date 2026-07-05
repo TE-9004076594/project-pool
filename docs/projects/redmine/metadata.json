@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - Project Management",
+  "name": "Redmine",
+  "url": "https://www.redmine.org/",
+  "description_en": "Flexible project management web application. ([Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "redmine"
+}

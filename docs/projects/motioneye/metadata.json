@@ -1,0 +1,25 @@
+{
+  "category": "Video Surveillance",
+  "name": "motionEye",
+  "url": "https://github.com/motioneye-project/motioneye",
+  "description_en": "Online interface for the software Motion, a video surveillance program with motion detection. `GPL-3.0` `Python/Docker`",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "stargazers_count": 4622,
+  "forks_count": 706,
+  "open_issues_count": 966,
+  "topics": [
+    "camera",
+    "motion-detection",
+    "python",
+    "python3",
+    "raspberrypi"
+  ],
+  "homepage": "",
+  "description": "A web frontend for the motion daemon.",
+  "updated_at": "2026-07-05T10:12:17Z",
+  "pushed_at": "2026-07-02T20:06:26Z",
+  "full_name": "motioneye-project/motioneye",
+  "readme_preview": "**motionEye** is an online interface for the software [_motion_](https://motion-project.github.io/), a video surveillance program with motion detection.\n\nCheck out the [__wiki__](https://github.com/motioneye-project/motioneye/wiki) for more details. Changelog is available on the [__releases page__](https://github.com/motioneye-project/motioneye/releases).\n\nFrom version 0.43, **motionEye** is multilingual:",
+  "slug": "motioneye"
+}

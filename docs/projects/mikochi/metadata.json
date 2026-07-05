@@ -1,0 +1,24 @@
+{
+  "category": "File Transfer - Web-based File Managers",
+  "name": "mikochi",
+  "url": "https://github.com/zer0tonin/Mikochi",
+  "description_en": "Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 364,
+  "forks_count": 15,
+  "open_issues_count": 7,
+  "topics": [
+    "file-manager",
+    "go",
+    "preact",
+    "self-hosted"
+  ],
+  "homepage": "",
+  "description": "A minimalist file-manager with streaming capabilities",
+  "updated_at": "2026-06-22T17:02:27Z",
+  "pushed_at": "2026-06-05T13:23:47Z",
+  "full_name": "zer0tonin/Mikochi",
+  "readme_preview": "Mikochi is a remote file browser for your self-hosted server or NAS. It allows you to browse remote folders, upload, delete, rename and download files. You can also use it to generate streaming links which can be played using VLC or mpv\n\n<img width=\"888\" height=\"480\" alt=\"mikochi\" src=\"https://github.com/user-attachments/assets/48141ba4-7015-45fa-81ee-dfecb347c48f\" />\n\n* Browse files on you remote server * Fuzzy search * Upload new files and create folders * Rename and delete files * Download...",
+  "slug": "mikochi"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "PsiTransfer",
+  "url": "https://github.com/psi-4ward/psitransfer",
+  "description_en": "Simple file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`",
+  "language": "JavaScript",
+  "license": "BSD-2-Clause",
+  "stargazers_count": 1903,
+  "forks_count": 247,
+  "open_issues_count": 111,
+  "topics": [
+    "file-sharing",
+    "pastebin",
+    "transfer-files",
+    "upload"
+  ],
+  "homepage": "",
+  "description": "Simple open source self-hosted file sharing solution.  ",
+  "updated_at": "2026-07-04T15:16:50Z",
+  "pushed_at": "2026-06-02T09:26:53Z",
+  "full_name": "psi-4ward/psitransfer",
+  "readme_preview": "Simple open source self-hosted file sharing solution. It's an alternative to paid services like Dropbox, WeTransfer.\n\n* No accounts, no logins * Mobile friendly responsive interface * Supports many and very big files (Streams ftw) * Resumable up- and downloads ([tus.io](https://tus.io)) * Set an expire-time for your upload bucket * One-time downloads * Download all files as zip/tar.gz archive * Modal-style file preview * Requires Node >=7.4 or use `--harmony-async-await` flag * Password...",
+  "slug": "psitransfer"
+}

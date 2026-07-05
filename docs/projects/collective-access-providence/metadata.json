@@ -1,0 +1,19 @@
+{
+  "category": "Archiving and Digital Preservation (DP)",
+  "name": "Collective Access - Providence",
+  "url": "https://collectiveaccess.org/",
+  "description_en": "Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code](https://github.com/collectiveaccess/providence)) `GPL-3.0` `PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "collective-access-providence"
+}

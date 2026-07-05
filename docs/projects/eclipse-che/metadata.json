@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - IDE & Tools",
+  "name": "Eclipse Che",
+  "url": "https://www.eclipse.org/che/",
+  "description_en": "Open source workspace server and cloud IDE. ([Source Code](https://github.com/eclipse-che/che)) `EPL-1.0` `Docker/Java`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "eclipse-che"
+}

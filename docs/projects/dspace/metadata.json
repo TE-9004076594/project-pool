@@ -1,0 +1,19 @@
+{
+  "category": "Document Management - Institutional Repository and Digital Library Software",
+  "name": "DSpace",
+  "url": "http://www.dspace.org/",
+  "description_en": "Turnkey repository application providing durable access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "dspace"
+}

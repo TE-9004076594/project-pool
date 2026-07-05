@@ -1,0 +1,28 @@
+{
+  "category": "Media Streaming - Audio Streaming",
+  "name": "Supysonic",
+  "url": "https://github.com/spl0k/supysonic",
+  "description_en": "Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "stargazers_count": 289,
+  "forks_count": 64,
+  "open_issues_count": 25,
+  "topics": [
+    "audio",
+    "audio-streaming",
+    "music",
+    "python",
+    "self-hosted",
+    "server",
+    "streaming",
+    "subsonic"
+  ],
+  "homepage": "https://supysonic.readthedocs.io",
+  "description": "Supysonic is a Python implementation of the Subsonic server API.",
+  "updated_at": "2026-07-05T16:15:04Z",
+  "pushed_at": "2026-07-05T16:15:00Z",
+  "full_name": "spl0k/supysonic",
+  "readme_preview": "Supysonic is a Python implementation of the [Subsonic][] server API.\n\n![Build Status](https://github.com/spl0k/supysonic/workflows/Tests/badge.svg)\n\n![Python](https://img.shields.io/badge/python-3.10+-blue.svg)",
+  "slug": "supysonic"
+}

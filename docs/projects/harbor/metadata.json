@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Object Storage & File Servers",
+  "name": "Harbor",
+  "url": "https://goharbor.io/",
+  "description_en": "Cloud native image registry that stores, signs, and scans content. ([Source Code](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "harbor"
+}

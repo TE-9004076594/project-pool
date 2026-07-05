@@ -1,0 +1,19 @@
+{
+  "category": "Database Management",
+  "name": "Kottster",
+  "url": "https://kottster.app/",
+  "description_en": "Low-code admin panel that connects to your database and automatically generates pages to view and manage your data. ([Demo](https://demo.kottster.app/), [Source Code](https://github.com/kottster/kottster)) `Apache-2.0` `Nodejs/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "kottster"
+}

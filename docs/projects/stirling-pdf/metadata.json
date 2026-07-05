@@ -1,0 +1,33 @@
+{
+  "category": "Document Management",
+  "name": "Stirling-PDF",
+  "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "description_en": "Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "stargazers_count": 86169,
+  "forks_count": 7531,
+  "open_issues_count": 476,
+  "topics": [
+    "docker",
+    "hacktoberfest",
+    "java",
+    "pdf",
+    "pdf-converter",
+    "pdf-editor",
+    "pdf-manipulation",
+    "pdf-merger",
+    "pdf-ocr",
+    "pdf-tools",
+    "pdf-web-apps",
+    "pdfmerger",
+    "self-hosted"
+  ],
+  "homepage": "https://stirling.com",
+  "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+  "updated_at": "2026-07-05T16:26:25Z",
+  "pushed_at": "2026-07-04T22:26:26Z",
+  "full_name": "Stirling-Tools/Stirling-PDF",
+  "readme_preview": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/main/docs/stirling.png\" width=\"80\" alt=\"Stirling PDF logo\"> </p>\n\n<h1 align=\"center\">Stirling PDF - The Open-Source PDF Platform</h1>\n\nStirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services.",
+  "slug": "stirling-pdf"
+}

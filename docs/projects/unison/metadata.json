@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer & Synchronization",
+  "name": "Unison",
+  "url": "https://www.cis.upenn.edu/~bcpierce/unison/",
+  "description_en": "Unison is a file-synchronization tool for OSX, Unix, and Windows. ([Source Code](https://github.com/bcpierce00/unison)) `GPL-3.0` `deb/OCaml`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "unison"
+}

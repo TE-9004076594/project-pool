@@ -1,0 +1,28 @@
+{
+  "category": "Miscellaneous",
+  "name": "Baby Buddy",
+  "url": "https://github.com/babybuddy/babybuddy",
+  "description_en": "Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://github.com/babybuddy/babybuddy#-demo)) `BSD-2-Clause` `Python`",
+  "language": "Python",
+  "license": "BSD-2-Clause",
+  "stargazers_count": 2819,
+  "forks_count": 369,
+  "open_issues_count": 147,
+  "topics": [
+    "baby",
+    "dashboard",
+    "django",
+    "parenting",
+    "parents",
+    "python",
+    "self-hosted",
+    "tracker"
+  ],
+  "homepage": "http://docs.baby-buddy.net/",
+  "description": "A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.",
+  "updated_at": "2026-07-03T14:42:11Z",
+  "pushed_at": "2026-06-07T17:55:14Z",
+  "full_name": "babybuddy/babybuddy",
+  "readme_preview": "<img src=\"babybuddy/static_src/logo/icon.png\" height=\"150\" align=\"left\">\n\nA buddy for babies! Helps caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (_as much_) guess work.\n\n![Baby Buddy desktop view](screenshot.png)",
+  "slug": "baby-buddy"
+}

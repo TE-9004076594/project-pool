@@ -1,0 +1,29 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Picsur",
+  "url": "https://github.com/CaramelFur/Picsur",
+  "description_en": "Simple imaging hosting platform that allows you to easily host, edit, and share images. `AGPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 1239,
+  "forks_count": 66,
+  "open_issues_count": 39,
+  "topics": [
+    "docker",
+    "image",
+    "imgur",
+    "nodejs",
+    "picsur",
+    "postgresql",
+    "self-hosted",
+    "sharing",
+    "upload"
+  ],
+  "homepage": "https://picsur.org/",
+  "description": "An easy to use, selfhostable image sharing service like Imgur with built in converting",
+  "updated_at": "2026-07-04T18:15:35Z",
+  "pushed_at": "2025-10-12T16:03:45Z",
+  "full_name": "CaramelFur/Picsur",
+  "readme_preview": "<img align=\"left\" width=\"100\" height=\"100\" style=\"border-radius: 15%\" src=\"branding/logo/picsur.svg\"/>\n\n<a  href=\"https://discord.gg/GPZNwV3VKE\"> <img align=\"right\" style=\"margin: 5px\" src=\"https://img.shields.io/discord/986634827337965638?color=454FBF&label=Chat%20on%20Discord\"/> </a>\n\n> Totally not an Imgur clone",
+  "slug": "picsur"
+}

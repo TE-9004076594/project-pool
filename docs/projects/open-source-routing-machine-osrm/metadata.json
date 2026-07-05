@@ -1,0 +1,19 @@
+{
+  "category": "Maps and Global Positioning System (GPS)",
+  "name": "Open Source Routing Machine (OSRM)",
+  "url": "http://project-osrm.org/",
+  "description_en": "High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "open-source-routing-machine-osrm"
+}

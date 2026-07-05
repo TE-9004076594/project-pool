@@ -1,0 +1,19 @@
+{
+  "category": "Community-Supported Agriculture (CSA)",
+  "name": "Foodsoft",
+  "url": "https://foodcoops.net/",
+  "description_en": "Manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "foodsoft"
+}

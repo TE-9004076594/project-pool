@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Mail Transfer Agents",
+  "name": "Exim",
+  "url": "https://www.exim.org/",
+  "description_en": "Message transfer agent (MTA) developed at the University of Cambridge. ([Source Code](https://git.exim.org/exim.git)) `GPL-3.0` `C/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "exim"
+}

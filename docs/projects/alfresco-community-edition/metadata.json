@@ -1,0 +1,19 @@
+{
+  "category": "Content Management Systems (CMS)",
+  "name": "Alfresco Community Edition",
+  "url": "https://www.alfresco.com/products/community/download",
+  "description_en": "The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "alfresco-community-edition"
+}

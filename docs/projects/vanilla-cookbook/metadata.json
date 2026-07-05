@@ -1,0 +1,19 @@
+{
+  "category": "Recipe Management",
+  "name": "Vanilla Cookbook",
+  "url": "https://vanilla-cookbook.readthedocs.io/en/",
+  "description_en": "Recipe manager designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible. ([Source Code](https://github.com/jt196/vanilla-cookbook)) `GPL-3.0` `Docker/Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "vanilla-cookbook"
+}

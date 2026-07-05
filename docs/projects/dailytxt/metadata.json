@@ -1,0 +1,19 @@
+{
+  "category": "Note-taking & Editors",
+  "name": "DailyTxT",
+  "url": "https://github.com/PhiTux/DailyTxT",
+  "description_en": "Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. ([Demo](https://dailytxt.phitux.de)) `MIT` `Docker`",
+  "language": "Svelte",
+  "license": "MIT",
+  "stargazers_count": 486,
+  "forks_count": 42,
+  "open_issues_count": 3,
+  "topics": [],
+  "homepage": "https://hub.docker.com/r/phitux/dailytxt/",
+  "description": "Encrypted Diary Web-App",
+  "updated_at": "2026-07-05T02:40:52Z",
+  "pushed_at": "2026-06-07T21:24:21Z",
+  "full_name": "PhiTux/DailyTxT",
+  "readme_preview": "![Docker Image Version (latest by date)](https://img.shields.io/docker/v/phitux/dailytxt?label=latest%20docker%20version) ![Docker Pulls](https://img.shields.io/docker/pulls/phitux/dailytxt) ![GitHub](https://img.shields.io/github/license/PhiTux/DailyTxT)\n\n> [!WARNING] > - When you are coming from version 1 (most likely 1.0.15), you MUST read the [Migration Instructions](#migration-instructions) below! > - Note: A tag like `...-testing.1` is a <ins>**non-stable**</ins> version and (obviously)...",
+  "slug": "dailytxt"
+}

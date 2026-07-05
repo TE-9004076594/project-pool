@@ -1,0 +1,30 @@
+{
+  "category": "Document Management - E-books",
+  "name": "BookLogr",
+  "url": "https://github.com/Mozzo1000/booklogr",
+  "description_en": "Manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "stargazers_count": 586,
+  "forks_count": 33,
+  "open_issues_count": 20,
+  "topics": [
+    "books",
+    "bookshelf",
+    "catalog",
+    "flask",
+    "library",
+    "logging",
+    "python",
+    "react",
+    "self-hosted",
+    "selfhosted"
+  ],
+  "homepage": "https://booklogr.app",
+  "description": " A simple, self-hosted service to keep track of your personal library 📚",
+  "updated_at": "2026-07-05T15:20:52Z",
+  "pushed_at": "2026-07-02T19:18:45Z",
+  "full_name": "Mozzo1000/booklogr",
+  "readme_preview": "<br /> <div align=\"center\"> <a href=\"https://github.com/Mozzo1000/booklogr\"> <img src=\"assets/logo.svg\" height=\"120px\" width=\"120px\"/> </a>\n\n<h3 align=\"center\">BookLogr</h3>\n\n<p align=\"center\"> A simple, self-hosted service to keep track of your personal library. <br /> <a href=\"https://booklogr.app/docs/Getting%20started\"><strong>🗒️Explore the docs »</strong></a> <br /> <br /> <a href=\"https://demo.booklogr.app\">💻View Demo</a> | <a href=\"https://github.com/Mozzo1000/booklogr/issues\">🐞Report...",
+  "slug": "booklogr"
+}

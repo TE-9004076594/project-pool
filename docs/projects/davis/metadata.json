@@ -1,0 +1,25 @@
+{
+  "category": "Calendar & Contacts",
+  "name": "Davis",
+  "url": "https://github.com/tchapi/davis",
+  "description_en": "A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`",
+  "language": "PHP",
+  "license": "MIT",
+  "stargazers_count": 717,
+  "forks_count": 44,
+  "open_issues_count": 14,
+  "topics": [
+    "bootstrap5",
+    "caldav",
+    "carddav",
+    "symfony",
+    "webdav"
+  ],
+  "homepage": "https://github.com/users/tchapi/projects/1/views/1",
+  "description": "🗓 A modern, simple, feature-packed, fully translatable admin interface for sabre/dav based on Symfony 7 and Bootstrap",
+  "updated_at": "2026-07-03T12:51:26Z",
+  "pushed_at": "2026-06-16T22:25:56Z",
+  "full_name": "tchapi/davis",
+  "readme_preview": "Davis\n\n![Platform](https://img.shields.io/badge/platform-amd64%20%7C%20arm64-blue?logo=docker) ![PHP Version](https://img.shields.io/badge/php-8.2%20%7C%208.3%20%7C%208.4-777BB4?logo=php&logoColor=white)\n\nA modern, simple, feature-packed, fully translatable DAV server, admin interface and frontend based on `sabre/dav`, built with [Symfony 7](https://symfony.com/) and [Bootstrap 5](https://getbootstrap.com/), initially inspired by [Baïkal](https://github.com/sabre-io/Baikal) (_see dependencies...",
+  "slug": "davis"
+}

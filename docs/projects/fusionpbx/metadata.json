@@ -1,0 +1,19 @@
+{
+  "category": "Communication - SIP",
+  "name": "FusionPBX",
+  "url": "https://www.fusionpbx.com/",
+  "description_en": "Web interface for multi-platform voice switch called FreeSWITCH. ([Source Code](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "fusionpbx"
+}

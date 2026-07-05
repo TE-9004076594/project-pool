@@ -1,0 +1,27 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Plik",
+  "url": "https://github.com/root-gg/plik",
+  "description_en": "Scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "stargazers_count": 1789,
+  "forks_count": 194,
+  "open_issues_count": 36,
+  "topics": [
+    "docker",
+    "e2ee",
+    "file-sharing",
+    "file-upload",
+    "golang",
+    "mcp",
+    "self-hosted"
+  ],
+  "homepage": "https://plik.root.gg",
+  "description": "Plik is a temporary file upload system (Wetransfer like) in Go.",
+  "updated_at": "2026-07-04T09:50:37Z",
+  "pushed_at": "2026-07-04T09:51:51Z",
+  "full_name": "root-gg/plik",
+  "readme_preview": "Want to access the documentation? **https://root-gg.github.io/plik**\n\nWant to see a live demo ? **https://plik.root.gg**\n\nWant to chat with us ? Telegram group : **https://t.me/plik_rootgg**",
+  "slug": "plik"
+}

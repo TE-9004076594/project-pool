@@ -1,0 +1,19 @@
+{
+  "category": "Feed Readers",
+  "name": "Feeds Fun",
+  "url": "https://feeds.fun/",
+  "description_en": "News reader with tags, scoring, and AI. ([Source Code](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "feeds-fun"
+}

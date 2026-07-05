@@ -1,0 +1,30 @@
+{
+  "category": "Miscellaneous",
+  "name": "2FAuth",
+  "url": "https://github.com/Bubka/2FAuth",
+  "description_en": "Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`",
+  "language": "PHP",
+  "license": "AGPL-3.0",
+  "stargazers_count": 4031,
+  "forks_count": 293,
+  "open_issues_count": 19,
+  "topics": [
+    "2fa",
+    "2factor",
+    "hotp",
+    "otp",
+    "qrcode",
+    "self-hosted",
+    "totp",
+    "two-factor",
+    "two-factor-authentication",
+    "webapp"
+  ],
+  "homepage": "https://docs.2fauth.app/",
+  "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+  "updated_at": "2026-07-04T16:56:50Z",
+  "pushed_at": "2026-07-01T07:26:24Z",
+  "full_name": "Bubka/2FAuth",
+  "readme_preview": "![Docker build status](https://img.shields.io/github/actions/workflow/status/bubka/2fauth/ci-docker-test.yml?branch=master&style=flat-square) ![https://codecov.io/gh/Bubka/2FAuth](https://img.shields.io/codecov/c/github/Bubka/2FAuth?style=flat-square) ![https://github.com/Bubka/2FAuth/blob/master/LICENSE](https://img.shields.io/github/license/Bubka/2FAuth.svg?style=flat-square)\n\nA web app to manage your Two-Factor Authentication (2FA) accounts and generate their security...",
+  "slug": "2fauth"
+}

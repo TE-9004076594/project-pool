@@ -1,0 +1,27 @@
+{
+  "category": "Automation",
+  "name": "feedmixer",
+  "url": "https://github.com/cristoper/feedmixer",
+  "description_en": "Micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed (returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1)) `WTFPL` `Python`",
+  "language": "Python",
+  "license": "WTFPL",
+  "stargazers_count": 234,
+  "forks_count": 15,
+  "open_issues_count": 9,
+  "topics": [
+    "api-server",
+    "atom",
+    "atom-feed",
+    "feed",
+    "python",
+    "rss",
+    "self-hosted"
+  ],
+  "homepage": "",
+  "description": "A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)",
+  "updated_at": "2026-06-29T17:22:26Z",
+  "pushed_at": "2025-09-05T22:45:21Z",
+  "full_name": "cristoper/feedmixer",
+  "readme_preview": "FeedMixer ========= FeedMixer is a little web service (Python3/WSGI) which takes a list of feed URLs and  combines them into a single (Atom, RSS, or JSON) feed. Useful for personal news aggregators, \"planet\"-like websites, etc.\n\nStatus\n\nChangelog ~~~~~~~~~",
+  "slug": "feedmixer"
+}

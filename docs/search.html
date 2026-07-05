@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>搜索项目 - Awesome Selfhosted</title>
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+    <a href="index.html" style="display:inline-block;padding:16px;color:#1976d2;text-decoration:none;">← 返回首页</a>
+    <div class="search-page">
+        <div class="search-header">
+            <h1>搜索项目</h1>
+            <p>在 1175 个自托管项目中搜索</p>
+            <div style="display:flex;gap:8px;margin-bottom:16px;">
+                <input type="text" id="search-input" class="search-input"
+                       placeholder="输入关键词搜索..." style="flex:1;padding:12px;border:1px solid #e0e0e0;border-radius:4px;font-size:16px;">
+            </div>
+            <div class="search-result-count" id="result-count">共找到 0 个项目</div>
+        </div>
+
+        <div class="filter-panel">
+            <div class="filter-section">
+                <div class="filter-section-title">分类</div>
+                <div class="filter-options" id="filter-categories"></div>
+            </div>
+            <div class="filter-section">
+                <div class="filter-section-title">语言</div>
+                <div class="filter-options" id="filter-languages"></div>
+            </div>
+            <div class="filter-section">
+                <div class="filter-section-title">Star 数量</div>
+                <div class="star-range">
+                    <input type="number" id="star-min" placeholder="最小值" min="0" onchange="search.setStarRange(this.value, document.getElementById('star-max').value)">
+                    <span>—</span>
+                    <input type="number" id="star-max" placeholder="最大值" min="0" onchange="search.setStarRange(document.getElementById('star-min').value, this.value)">
+                    <button class="mdc-button mdc-button--outlined" onclick="search.resetFilters()" style="padding:6px 12px;">重置过滤</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="sort-controls">
+            <label>排序:</label>
+            <select id="sort-by" onchange="search.setSort(this.value, document.getElementById('sort-order').value)">
+                <option value="stars">Star 数</option>
+                <option value="name">名称</option>
+                <option value="updated">更新时间</option>
+            </select>
+            <select id="sort-order" onchange="search.setSort(document.getElementById('sort-by').value, this.value)">
+                <option value="desc">降序</option>
+                <option value="asc">升序</option>
+            </select>
+        </div>
+
+        <div id="search-results"></div>
+        <div class="loading-indicator" id="search-loading">加载中...</div>
+    </div>
+
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/virtual_scroller.js"></script>
+    <script>
+        const search = new ProjectSearch({
+            onFilterChange: function() {
+                const query = document.getElementById('search-input').value;
+                search.search(query);
+            }
+        });
+
+        window.searchInstance = search;
+
+        // 初始化搜索
+        search.loadIndex('search-index.json').then(function(success) {
+            if (success) {
+                search.search('');
+
+                // 绑定搜索框
+                document.getElementById('search-input').addEventListener('input', function(e) {
+                    search.search(e.target.value);
+                });
+                document.getElementById('search-input').addEventListener('keydown', function(e) {
+                    if (e.key === 'Escape') {
+                        this.value = '';
+                        search.search('');
+                        this.blur();
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

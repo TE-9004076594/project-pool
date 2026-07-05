@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Complete Solutions",
+  "name": "Mail-in-a-Box",
+  "url": "https://mailinabox.email/",
+  "description_en": "Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "mail-in-a-box"
+}

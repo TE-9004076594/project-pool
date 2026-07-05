@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Mail Delivery Agents",
+  "name": "Cyrus IMAP",
+  "url": "https://www.cyrusimap.org/",
+  "description_en": "Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd)) `BSD-3-Clause-Attribution` `C`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "cyrus-imap"
+}

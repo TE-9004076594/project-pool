@@ -1,0 +1,28 @@
+{
+  "category": "Games - Administrative Utilities & Control Panels",
+  "name": "Ownfoil",
+  "url": "https://github.com/a1ex4/ownfoil",
+  "description_en": "Nintendo Switch library manager, with automated management tasks (file identification and organization, missing updates/DLC), serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication. `AGPL-3.0` `Docker/Python`",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "stargazers_count": 860,
+  "forks_count": 86,
+  "open_issues_count": 38,
+  "topics": [
+    "atmosphere",
+    "homebrew",
+    "nintendo-switch",
+    "nintendo-switch-hacking",
+    "self-hosted",
+    "sigpatches",
+    "switch",
+    "tinfoil"
+  ],
+  "homepage": "",
+  "description": "Switch library manager, with a self-hosted Tinfoil Shop.",
+  "updated_at": "2026-07-05T06:11:10Z",
+  "pushed_at": "2026-06-22T21:32:23Z",
+  "full_name": "a1ex4/ownfoil",
+  "readme_preview": "![Image archs](https://img.shields.io/badge/platforms-amd64%20%7C%20%20arm64%2Fv8%20%7C%20arm%2Fv7%20%7C%20arm%2Fv6-8A2BE2)\n\nOwnfoil is a Nintendo Switch library manager, that will also turn your library into a fully customizable and self-hosted Shop, supporting multiple clients. The goal of this project is to manage your library, identify any missing content (DLCs or updates) and provide a user friendly way to browse and install your content. Some of the features include: - [x] multi user...",
+  "slug": "ownfoil"
+}

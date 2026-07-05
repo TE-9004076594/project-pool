@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "goploader",
+  "url": "https://depado.github.io/goploader/",
+  "description_en": "Easy file sharing with server-side encryption, curl/httpie/wget compliant. ([Source Code](https://github.com/Depado/goploader)) `MIT` `Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "goploader"
+}

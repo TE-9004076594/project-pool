@@ -1,0 +1,28 @@
+{
+  "category": "Feed Readers",
+  "name": "RSS-Bridge",
+  "url": "https://github.com/RSS-Bridge/rss-bridge",
+  "description_en": "Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`",
+  "language": "PHP",
+  "license": "Unlicense",
+  "stargazers_count": 9049,
+  "forks_count": 1223,
+  "open_issues_count": 316,
+  "topics": [
+    "atom-feed",
+    "hacktoberfest",
+    "json-feed",
+    "php",
+    "rss",
+    "rss-bridge",
+    "rss-feed",
+    "unlicense"
+  ],
+  "homepage": "https://rss-bridge.org/bridge01/",
+  "description": "The RSS feed for websites missing it",
+  "updated_at": "2026-07-05T15:50:08Z",
+  "pushed_at": "2026-06-30T20:49:27Z",
+  "full_name": "RSS-Bridge/rss-bridge",
+  "readme_preview": "![RSS-Bridge](static/logo_600px.png)\n\nRSS-Bridge is a PHP web application.\n\nIt generates web feeds for websites that don't have one.",
+  "slug": "rss-bridge"
+}

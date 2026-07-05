@@ -1,0 +1,33 @@
+{
+  "category": "Document Management - E-books",
+  "name": "Calibre Web Automated",
+  "url": "https://github.com/crocodilestick/Calibre-Web-Automated",
+  "description_en": "All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 5855,
+  "forks_count": 457,
+  "open_issues_count": 460,
+  "topics": [
+    "automation",
+    "calibre",
+    "calibre-web",
+    "conversion",
+    "docker",
+    "ebook",
+    "ebooks",
+    "epub",
+    "import",
+    "kepub",
+    "kindle",
+    "kobo",
+    "self-hosted"
+  ],
+  "homepage": "https://github.com/crocodilestick/Calibre-Web-Automated",
+  "description": "Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!",
+  "updated_at": "2026-07-05T13:48:44Z",
+  "pushed_at": "2026-07-05T13:13:31Z",
+  "full_name": "crocodilestick/Calibre-Web-Automated",
+  "readme_preview": "![Calibre-Web Automated](README_images/CWA-banner.png \"Calibre-Web Automated\")\n\n![Docker Pulls](https://img.shields.io/docker/pulls/crocodilestick/calibre-web-automated) ![GitHub Release](https://img.shields.io/github/v/release/crocodilestick/calibre-web-automated) ![GitHub commits since latest release](https://img.shields.io/github/commits-since/crocodilestick/calibre-web-automated/latest) ![OAuth 2.0 + OIDC](https://img.shields.io/badge/OAuth-2.0%20%2B%20OIDC-blue?style=flat&logo=oauth)\n\nCWA...",
+  "slug": "calibre-web-automated"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "Maps and Global Positioning System (GPS)",
+  "name": "wanderer",
+  "url": "https://github.com/open-wanderer/wanderer",
+  "description_en": "Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "stargazers_count": 3713,
+  "forks_count": 181,
+  "open_issues_count": 57,
+  "topics": [
+    "geography",
+    "gps",
+    "meilisearch",
+    "pocketbase",
+    "selfhosted",
+    "sveltekit"
+  ],
+  "homepage": "https://wanderer.to",
+  "description": "wanderer is a self-hosted trail database. Save your adventures!",
+  "updated_at": "2026-07-05T10:25:55Z",
+  "pushed_at": "2026-07-05T16:14:35Z",
+  "full_name": "open-wanderer/wanderer",
+  "readme_preview": "<div align=\"center\">\n\n<img src=\"web/static/svgs/logo_text_two_line_dark.svg\" height=\"256\" width=\"256\">\n\n<h4>The trail catalogue that makes your GPS data searchable</h4>",
+  "slug": "wanderer"
+}

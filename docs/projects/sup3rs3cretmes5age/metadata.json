@@ -1,0 +1,25 @@
+{
+  "category": "Pastebins",
+  "name": "Sup3rS3cretMes5age",
+  "url": "https://github.com/algolia/sup3rS3cretMes5age",
+  "description_en": "Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 567,
+  "forks_count": 83,
+  "open_issues_count": 5,
+  "topics": [
+    "golang",
+    "hashicorp-vault",
+    "secrets",
+    "security",
+    "vault"
+  ],
+  "homepage": "",
+  "description": "Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend",
+  "updated_at": "2026-06-22T16:29:51Z",
+  "pushed_at": "2026-06-22T08:43:52Z",
+  "full_name": "algolia/sup3rS3cretMes5age",
+  "readme_preview": "A simple, secure, **self-destructing message service** that uses HashiCorp Vault as a backend for temporary secret storage. Share sensitive information with confidence knowing it will be automatically deleted after being read once.\n\n![self-destruct](https://media.giphy.com/media/LBlyAAFJ71eMw/giphy.gif)\n\n> 🔐 **Security First**: Messages are stored in Vault's cubbyhole backend with one-time tokens and automatic expiration.",
+  "slug": "sup3rs3cretmes5age"
+}

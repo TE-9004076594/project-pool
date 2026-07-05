@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Rocket.Chat",
+  "url": "https://rocket.chat/",
+  "description_en": "Communications platform that puts data protection first (alternative to Gitter.im and Slack). ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs/Docker/K8S`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "rocketchat"
+}

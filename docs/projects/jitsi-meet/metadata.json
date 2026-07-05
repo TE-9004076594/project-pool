@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Video Conferencing",
+  "name": "Jitsi Meet",
+  "url": "https://jitsi.org/Projects/JitsiMeet",
+  "description_en": "WebRTC application that uses Jitsi Videobridge to provide high quality, scalable video conferences. ([Demo](https://meet.jit.si), [Source Code](https://github.com/jitsi/jitsi-meet)) `Apache-2.0` `Nodejs/Docker/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "jitsi-meet"
+}

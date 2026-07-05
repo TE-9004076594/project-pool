@@ -1,0 +1,26 @@
+{
+  "category": "Note-taking & Editors",
+  "name": "flatnotes",
+  "url": "https://github.com/dullage/flatnotes",
+  "description_en": "Database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`",
+  "language": "Vue",
+  "license": "MIT",
+  "stargazers_count": 3139,
+  "forks_count": 190,
+  "open_issues_count": 122,
+  "topics": [
+    "markdown",
+    "note",
+    "note-taking",
+    "notes",
+    "notes-app",
+    "wiki"
+  ],
+  "homepage": "",
+  "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+  "updated_at": "2026-07-05T15:14:48Z",
+  "pushed_at": "2026-02-17T12:43:44Z",
+  "full_name": "dullage/flatnotes",
+  "readme_preview": "<p align=\"center\"> <img src=\"docs/logo.svg\" width=\"300px\"></img> </p> <p align=\"center\"> <img alt=\"Docker Pulls\" src=\"https://img.shields.io/docker/pulls/dullage/flatnotes?style=for-the-badge\"> </p>\n\nA self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage.\n\nLog into the [demo site](https://demo.flatnotes.io) and take a look around. *Note: This site resets every 15 minutes.*",
+  "slug": "flatnotes"
+}

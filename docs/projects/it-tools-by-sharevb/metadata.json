@@ -1,0 +1,19 @@
+{
+  "category": "Miscellaneous",
+  "name": "IT-Tools by sharevb",
+  "url": "https://github.com/sharevb/it-tools",
+  "description_en": "Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools)). ([Demo](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`",
+  "language": "Vue",
+  "license": "GPL-3.0",
+  "stargazers_count": 1472,
+  "forks_count": 143,
+  "open_issues_count": 35,
+  "topics": [],
+  "homepage": "https://sharevb-it-tools.vercel.app",
+  "description": "My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )",
+  "updated_at": "2026-07-05T16:07:31Z",
+  "pushed_at": "2026-07-05T16:17:16Z",
+  "full_name": "sharevb/it-tools",
+  "readme_preview": "Since the *base image* is now `nginx-unpriviledged` the container will now listen to port **8080** and not 80. So you need to update your port mapping, i.e. from `8080:80` to `8080:8080`.\n\nYou can override listening port using environment variable `PORT` (docker option `-e PORT=8888`).\n\nIf the container needs to listen to IPv6, it needs to be enabled: https://serverfault.com/questions/1147296/how-to-enable-ipv6-on-ubuntu-20-04. Alternatively, you can mount your own `nginx.conf` own using docker...",
+  "slug": "it-tools-by-sharevb"
+}

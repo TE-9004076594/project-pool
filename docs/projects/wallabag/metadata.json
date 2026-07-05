@@ -1,0 +1,19 @@
+{
+  "category": "Archiving and Digital Preservation (DP)",
+  "name": "Wallabag",
+  "url": "https://www.wallabag.org",
+  "description_en": "Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "wallabag"
+}

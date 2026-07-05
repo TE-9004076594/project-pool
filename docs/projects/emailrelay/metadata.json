@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Mail Transfer Agents",
+  "name": "EmailRelay",
+  "url": "https://emailrelay.sourceforge.net/",
+  "description_en": "A small and easy to configure SMTP and POP3 server for Windows and Linux. ([Source Code](https://sourceforge.net/p/emailrelay/code/HEAD/tree/)) `GPL-3.0` `C++`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "emailrelay"
+}

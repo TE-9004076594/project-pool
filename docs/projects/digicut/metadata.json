@@ -1,0 +1,19 @@
+{
+  "category": "Miscellaneous",
+  "name": "Digicut",
+  "url": "https://ladigitale.dev/digicut/",
+  "description_en": "Cut audio and video files using FFMPEG.wasm (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digicut)) `AGPL-3.0` `Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "digicut"
+}

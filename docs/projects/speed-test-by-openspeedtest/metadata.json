@@ -1,0 +1,19 @@
+{
+  "category": "Network Utilities",
+  "name": "Speed Test by OpenSpeedTest™",
+  "url": "https://openspeedtest.com/",
+  "description_en": "Free & Open-Source HTML5 Network Performance Estimation Tool. ([Source Code](https://github.com/openspeedtest/Speed-Test)) `MIT` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "speed-test-by-openspeedtest"
+}

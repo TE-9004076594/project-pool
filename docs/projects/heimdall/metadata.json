@@ -1,0 +1,19 @@
+{
+  "category": "Personal Dashboards",
+  "name": "Heimdall",
+  "url": "https://heimdall.site/",
+  "description_en": "Elegant solution to organise all your web applications. ([Source Code](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "heimdall"
+}

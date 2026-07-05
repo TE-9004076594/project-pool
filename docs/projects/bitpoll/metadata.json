@@ -1,0 +1,23 @@
+{
+  "category": "Polls and Events",
+  "name": "Bitpoll",
+  "url": "https://github.com/fsinfuhh/Bitpoll",
+  "description_en": "Conduct polls about dates, times or general questions. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "stargazers_count": 309,
+  "forks_count": 39,
+  "open_issues_count": 63,
+  "topics": [
+    "django",
+    "polling",
+    "python3"
+  ],
+  "homepage": "",
+  "description": "A web application for scheduling meetings and general polling.",
+  "updated_at": "2026-07-05T10:35:32Z",
+  "pushed_at": "2026-06-24T21:09:36Z",
+  "full_name": "fsinfuhh/Bitpoll",
+  "readme_preview": "Bitpoll is a software to conduct polls about Dates, Times or general Questions.\n\nThis is a new version of the Dudel from opatut (<https://github.com/opatut/dudel>) used on <https://bitpoll.de>, rewritten using the Django framework as a backend.\n\n* set if anonymous votes are casted or if the user must provide it's name * set if registration is required for voting * allow the creation of private event only accessible to thoses invited * Poll can be created for full day event or just a few hours....",
+  "slug": "bitpoll"
+}

@@ -1,0 +1,33 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "PushBits",
+  "url": "https://github.com/pushbits/server",
+  "description_en": "Notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`",
+  "language": "Go",
+  "license": "ISC",
+  "stargazers_count": 361,
+  "forks_count": 19,
+  "open_issues_count": 9,
+  "topics": [
+    "cloud",
+    "gotify",
+    "matrix-org",
+    "notifications",
+    "privacy",
+    "push-notifications",
+    "pushbits",
+    "pushnotification",
+    "pushnotifications",
+    "pushover",
+    "self-hosted",
+    "selfhosted",
+    "selfhosting"
+  ],
+  "homepage": "https://pushbits.github.io/",
+  "description": "A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯",
+  "updated_at": "2026-06-22T17:02:28Z",
+  "pushed_at": "2026-01-10T16:49:35Z",
+  "full_name": "pushbits/server",
+  "readme_preview": "| :exclamation:  **This software is currently in alpha phase.**   | |-----------------------------------------------------------------|\n\n<div align=\"center\"> <a href=\"https://github.com/pushbits/logo\"> <img height=\"200px\" src=\"https://raw.githubusercontent.com/pushbits/server/master/.github/logo.png\" /> </a> </div>\n\n<div align=\"center\"> <h1>PushBits</h1> <p align=\"center\"><b>Receive your important notifications immediately, over <a href=\"https://matrix.org/\">Matrix</a>.</b></p> <p>PushBits...",
+  "slug": "pushbits"
+}

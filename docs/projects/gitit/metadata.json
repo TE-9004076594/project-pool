@@ -1,0 +1,19 @@
+{
+  "category": "Wikis",
+  "name": "Gitit",
+  "url": "https://github.com/jgm/gitit",
+  "description_en": "Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`",
+  "language": "Haskell",
+  "license": "GPL-2.0",
+  "stargazers_count": 2275,
+  "forks_count": 233,
+  "open_issues_count": 208,
+  "topics": [],
+  "homepage": "",
+  "description": "A wiki using HAppS, pandoc, and git",
+  "updated_at": "2026-06-30T15:17:32Z",
+  "pushed_at": "2026-06-10T09:37:44Z",
+  "full_name": "jgm/gitit",
+  "readme_preview": "Gitit =====\n\nGitit is a wiki program written in Haskell. It uses [Happstack] for the web server and [pandoc] for markup processing. Pages and uploaded files are stored in a [git], [darcs], or [mercurial] repository and may be modified either by using the VCS's command-line tools or through the wiki's web interface. By default, pandoc's extended version of markdown is used as a markup language, but reStructuredText, LaTeX, HTML, DocBook, or Emacs Org-mode markup can also be used.  Gitit can be...",
+  "slug": "gitit"
+}

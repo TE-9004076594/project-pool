@@ -1,0 +1,29 @@
+{
+  "category": "External Links",
+  "name": "Awesome Sysadmin",
+  "url": "https://github.com/awesome-foss/awesome-sysadmin",
+  "description_en": "Curated list of amazingly awesome open source sysadmin resources.",
+  "language": null,
+  "license": "NOASSERTION",
+  "stargazers_count": 34509,
+  "forks_count": 2075,
+  "open_issues_count": 0,
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "devops",
+    "list",
+    "ops",
+    "self-hosted",
+    "software",
+    "sre",
+    "sysadmin"
+  ],
+  "homepage": "https://sysadmin.awesome-selfhosted.net",
+  "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+  "updated_at": "2026-07-05T15:08:36Z",
+  "pushed_at": "2026-06-20T20:39:14Z",
+  "full_name": "awesome-foss/awesome-sysadmin",
+  "readme_preview": "**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Contributing](#contributing) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly. Please consider contributing to fix one of the pinned [issues](https://github.com/awesome-foss/awesome-sysadmin-data/issues) if your time allows.\n\n**[HTML version](https://sysadmin.awesome-selfhosted.net/) (recommended)**, **[Markdown...",
+  "slug": "awesome-sysadmin"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "Automation",
+  "name": "HandBrake Web",
+  "url": "https://github.com/TheNickOfTime/handbrake-web",
+  "description_en": "Use one or more instances of HandBrake video transcoder on a headless device via a web interface. `AGPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 782,
+  "forks_count": 18,
+  "open_issues_count": 35,
+  "topics": [
+    "docker",
+    "foss",
+    "handbrake",
+    "nodejs",
+    "react",
+    "self-hosted",
+    "typescript",
+    "video-processing",
+    "video-transcoding"
+  ],
+  "homepage": "",
+  "description": "A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.",
+  "updated_at": "2026-07-04T21:53:37Z",
+  "pushed_at": "2026-03-27T02:31:22Z",
+  "full_name": "TheNickOfTime/handbrake-web",
+  "readme_preview": "<div align='center'> <h1 style='{text-decoration: none}'>HandBrake Web</h1> <div align='center'> <a href='https://github.com/TheNickOfTime/handbrake-web/blob/main/LICENSE'> <img alt=\"GitHub License\" src=\"https://img.shields.io/github/license/thenickoftime/handbrake-web?style=flat-square\"> </a> <a href='https://github.com/TheNickOfTime/handbrake-web/releases/latest'> <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/thenickoftime/handbrake-web?style=flat-square\"> </a> <a...",
+  "slug": "handbrake-web"
+}

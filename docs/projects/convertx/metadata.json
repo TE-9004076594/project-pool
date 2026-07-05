@@ -1,0 +1,33 @@
+{
+  "category": "Miscellaneous",
+  "name": "ConvertX",
+  "url": "https://github.com/C4illin/ConvertX",
+  "description_en": "Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 17114,
+  "forks_count": 939,
+  "open_issues_count": 108,
+  "topics": [
+    "bun",
+    "conversion",
+    "convert",
+    "converter",
+    "document-conversion",
+    "elysia",
+    "file-conversion",
+    "file-converter",
+    "hacktoberfest",
+    "pdf-converter",
+    "self-hosted",
+    "tailwindcss",
+    "typescript"
+  ],
+  "homepage": "",
+  "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+  "updated_at": "2026-07-05T12:03:57Z",
+  "pushed_at": "2026-06-22T20:29:27Z",
+  "full_name": "C4illin/ConvertX",
+  "readme_preview": "![ConvertX](images/logo.png)\n\n![GitHub commits since latest release](https://img.shields.io/github/commits-since/C4illin/ConvertX/latest) ![GitHub repo size](https://img.shields.io/github/repo-size/C4illin/ConvertX) ![Docker container size](https://ghcr-badge.egpl.dev/c4illin/convertx/size?color=%230375b6&tag=latest&label=image+size&trim=)\n\n<a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13818\" alt=\"C4illin%2FConvertX |...",
+  "slug": "convertx"
+}

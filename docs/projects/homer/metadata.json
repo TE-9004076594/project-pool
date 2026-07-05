@@ -1,0 +1,26 @@
+{
+  "category": "Personal Dashboards",
+  "name": "Homer",
+  "url": "https://github.com/bastienwirtz/homer",
+  "description_en": "Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. ([Demo](https://homer-demo.netlify.app)) `Apache-2.0` `Docker/K8S/Nodejs`",
+  "language": "Vue",
+  "license": "Apache-2.0",
+  "stargazers_count": 11450,
+  "forks_count": 920,
+  "open_issues_count": 169,
+  "topics": [
+    "dashboard",
+    "hacktoberfest",
+    "homepage",
+    "self-hosted",
+    "toolbox",
+    "vuejs"
+  ],
+  "homepage": "https://homer-demo.netlify.app/",
+  "description": "A very simple static homepage for your server.",
+  "updated_at": "2026-07-05T13:54:27Z",
+  "pushed_at": "2026-07-05T13:54:23Z",
+  "full_name": "bastienwirtz/homer",
+  "readme_preview": "<h1 align=\"center\"> <img width=\"180\" alt=\"Homer's donut\" src=\"https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png\"> <br/> Homer </h1>\n\n<h4 align=\"center\"> A dead simple static <strong>HOM</strong>epage for your serv<strong>ER</strong> to keep your services on hand, from a simple <code>yaml</code> configuration file. </h4> <p align=\"center\"> <a href=\"https://www.buymeacoffee.com/bastien\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/default-yellow.png\"...",
+  "slug": "homer"
+}

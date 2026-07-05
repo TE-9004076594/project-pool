@@ -1,0 +1,25 @@
+{
+  "category": "Feed Readers",
+  "name": "Stringer",
+  "url": "https://github.com/stringer-rss/stringer",
+  "description_en": "Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`",
+  "language": "Ruby",
+  "license": "MIT",
+  "stargazers_count": 4118,
+  "forks_count": 392,
+  "open_issues_count": 25,
+  "topics": [
+    "feed-reader",
+    "feedjira",
+    "rss",
+    "rss-reader",
+    "ruby"
+  ],
+  "homepage": "",
+  "description": "A self-hosted, anti-social RSS reader.",
+  "updated_at": "2026-07-04T22:03:16Z",
+  "pushed_at": "2026-07-04T17:13:33Z",
+  "full_name": "stringer-rss/stringer",
+  "readme_preview": "Stringer has no external dependencies, no social recommendations/sharing, and no fancy machine learning algorithms.\n\nBut it does have keyboard shortcuts and was made with love!\n\n![](screenshots/instructions.png) ![](screenshots/stories.png) ![](screenshots/feed.png)",
+  "slug": "stringer"
+}

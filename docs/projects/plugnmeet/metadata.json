@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Video Conferencing",
+  "name": "plugNmeet",
+  "url": "https://www.plugnmeet.org/",
+  "description_en": "Scalable and high performance web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "plugnmeet"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "Search Engines",
+  "name": "sist2",
+  "url": "https://github.com/sist2app/sist2",
+  "description_en": "Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`",
+  "language": "C",
+  "license": "GPL-3.0",
+  "stargazers_count": 1272,
+  "forks_count": 77,
+  "open_issues_count": 85,
+  "topics": [
+    "c",
+    "elasticsearch",
+    "sqlite",
+    "vuejs"
+  ],
+  "homepage": "",
+  "description": "Lightning-fast file system indexer and search tool",
+  "updated_at": "2026-06-29T23:46:55Z",
+  "pushed_at": "2025-07-05T23:40:22Z",
+  "full_name": "sist2app/sist2",
+  "readme_preview": "![GitHub](https://img.shields.io/github/license/sist2app/sist2.svg)\n\n**Demo**: [sist2.simon987.net](https://sist2.simon987.net/)\n\n**Community URL:** [Discord](https://discord.gg/2PEjDy3Rfs)",
+  "slug": "sist2"
+}

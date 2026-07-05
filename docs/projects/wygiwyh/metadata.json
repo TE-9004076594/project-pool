@@ -1,0 +1,27 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "WYGIWYH",
+  "url": "https://github.com/eitchtee/WYGIWYH",
+  "description_en": "Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Python`",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "stargazers_count": 860,
+  "forks_count": 40,
+  "open_issues_count": 19,
+  "topics": [
+    "django",
+    "dollar-cost-averaging",
+    "expense-tracker",
+    "finance",
+    "money",
+    "multi-currency",
+    "self-hosted"
+  ],
+  "homepage": "https://wygiwyh-demo.herculino.com",
+  "description": "A simple but powerful self-hosted finance tracker",
+  "updated_at": "2026-07-04T19:59:11Z",
+  "pushed_at": "2026-07-05T15:57:21Z",
+  "full_name": "eitchtee/WYGIWYH",
+  "readme_preview": "<h1 align=\"center\"> <br> <img alt=\"WYGIWYH\" title=\"WYGIWYH\" src=\"./.github/img/logo.png\" /> <br> WYGIWYH <br> </h1>\n\n<h4 align=\"center\">An opinionated and powerful finance tracker.</h4>\n\n<p align=\"center\"> <a href=\"#why-wygiwyh\">Why</a> • <a href=\"#key-features\">Features</a> • <a href=\"#how-to-use\">Usage</a> • <a href=\"#how-it-works\">How</a> • <a href=\"#mcp-server\">MCP Server</a> • <a href=\"#help-us-translate-wygiwyh\">Translate</a> • <a href=\"#caveats-and-warnings\">Caveats and Warnings</a> • <a...",
+  "slug": "wygiwyh"
+}

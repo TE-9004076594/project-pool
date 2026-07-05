@@ -1,0 +1,19 @@
+{
+  "category": "Feed Readers",
+  "name": "Yarr",
+  "url": "https://github.com/nkanaev/yarr",
+  "description_en": "Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 3883,
+  "forks_count": 286,
+  "open_issues_count": 11,
+  "topics": [],
+  "homepage": "",
+  "description": "yet another rss reader",
+  "updated_at": "2026-07-04T18:01:21Z",
+  "pushed_at": "2026-07-02T23:14:51Z",
+  "full_name": "nkanaev/yarr",
+  "readme_preview": "**yarr** (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server.\n\nThe app is a single binary with an embedded database (SQLite).\n\n![screenshot](etc/promo.png)",
+  "slug": "yarr"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "Media Streaming - Multimedia Streaming",
+  "name": "Kyoo",
+  "url": "https://github.com/zoriya/kyoo",
+  "description_en": "Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. ([Demo](https://kyoo.zoriya.dev)) `GPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 2472,
+  "forks_count": 75,
+  "open_issues_count": 63,
+  "topics": [
+    "docker",
+    "ffmpeg",
+    "golang",
+    "jellyfin",
+    "mediabrowser",
+    "netflix",
+    "next",
+    "plex",
+    "python",
+    "react-native",
+    "self-hosted"
+  ],
+  "homepage": "https://kyoo.zoriya.dev",
+  "description": "A portable and vast media library solution.",
+  "updated_at": "2026-07-01T03:19:26Z",
+  "pushed_at": "2026-07-04T10:12:14Z",
+  "full_name": "zoriya/Kyoo",
+  "readme_preview": "Kyoo is a self-hosted media server focused on video content (Movies, Series & Anime). It is an alternative to Jellyfin or Plex.\n\nIt aims to have a low amount of maintenance needed (no folder structure required nor manual metadata edits). Media not being scanned correctly (even with weird names) is considered a bug.\n\nKyoo does not have a plugin system and aim to have every features built-in (see [#Features](#-features) for the list).",
+  "slug": "kyoo"
+}

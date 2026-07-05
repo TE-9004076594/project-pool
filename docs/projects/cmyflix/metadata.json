@@ -1,0 +1,29 @@
+{
+  "category": "Media Streaming - Multimedia Streaming",
+  "name": "cmyflix",
+  "url": "https://github.com/farfalleflickan/cmyflix",
+  "description_en": "Minimalist Plex/Jellyfin alternative to stream video. `AGPL-3.0` `C/deb`",
+  "language": "C",
+  "license": "AGPL-3.0",
+  "stargazers_count": 194,
+  "forks_count": 14,
+  "open_issues_count": 0,
+  "topics": [
+    "c",
+    "html5",
+    "kiss-principle",
+    "movie-player",
+    "nas",
+    "self-hosted",
+    "streaming",
+    "streaming-service",
+    "streaming-video"
+  ],
+  "homepage": "",
+  "description": "cmyflix, a Netflix clone! ",
+  "updated_at": "2026-06-12T11:28:21Z",
+  "pushed_at": "2025-12-18T18:12:00Z",
+  "full_name": "farfalleflickan/cmyflix",
+  "readme_preview": "*A Netflix clone, now in C!*\n\ncmyflix is also a complete rewrite of my original ![Myflix](https://github.com/farfalleflickan/Myflix/) using C, so it's about 30x **faster** than the original whilst keeping almost all functionality.\n\ncmyflix tries to be a somewhat simple and lightweight \"DIY Netflix\", similar to Plex, streama or Emby, for your NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem. It's not **meant** or **designed** to be fancy (if you have the hardware and want a ton of...",
+  "slug": "cmyflix"
+}

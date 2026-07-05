@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Social Networks and Forums",
+  "name": "GoToSocial",
+  "url": "https://docs.gotosocial.org/en/latest/",
+  "description_en": "ActivityPub federated social network server implementing the Mastodon client API. ([Source Code](https://codeberg.org/superseriousbusiness/gotosocial)) `AGPL-3.0` `Docker/Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "gotosocial"
+}

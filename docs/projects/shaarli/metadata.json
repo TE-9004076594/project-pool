@@ -1,0 +1,24 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "Shaarli",
+  "url": "https://github.com/shaarli/Shaarli",
+  "description_en": "Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP/deb`",
+  "language": "PHP",
+  "license": "NOASSERTION",
+  "stargazers_count": 3879,
+  "forks_count": 309,
+  "open_issues_count": 159,
+  "topics": [
+    "bookmarking",
+    "bookmarks",
+    "bookmarks-manager",
+    "self-hosted"
+  ],
+  "homepage": "https://shaarli.readthedocs.io/",
+  "description": "The personal, minimalist, super-fast, database free, bookmarking service - community repo",
+  "updated_at": "2026-07-05T01:31:25Z",
+  "pushed_at": "2026-06-27T15:33:43Z",
+  "full_name": "shaarli/Shaarli",
+  "readme_preview": "![Shaarli logo](doc/md/images/doc-logo.png)\n\nThe personal, minimalist, super fast, database-free, bookmarking service.\n\n_Do you want to share the links you discover?_ _Shaarli is a minimalist link sharing service that you can install on your own server._ _It is designed to be personal (single-user), fast and handy._",
+  "slug": "shaarli"
+}

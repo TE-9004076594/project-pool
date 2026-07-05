@@ -1,0 +1,25 @@
+{
+  "category": "Task Management & To-do Lists",
+  "name": "Focus Flow",
+  "url": "https://github.com/francesco-gaglione/focus_flow_cloud",
+  "description_en": "Complete ecosystem for time management using the Pomodoro technique. `MIT` `Docker/K8S`",
+  "language": "Rust",
+  "license": null,
+  "stargazers_count": 40,
+  "forks_count": 2,
+  "open_issues_count": 5,
+  "topics": [
+    "axum",
+    "flutter",
+    "pomodoro-technique",
+    "rust",
+    "self-hosted"
+  ],
+  "homepage": "https://francesco-gaglione.github.io/focus_flow_cloud/",
+  "description": "A Pomodoro technique tracking service built with Rust. I created this application for my personal use to track my focus sessions and productivity, and decided to share it in case others might find it useful.",
+  "updated_at": "2026-07-01T20:06:24Z",
+  "pushed_at": "2026-06-16T10:42:18Z",
+  "full_name": "francesco-gaglione/focus_flow_cloud",
+  "readme_preview": "A comprehensive Pomodoro technique tracking solution featuring a Rust backend and a native cross-platform app built with Tauri v2 + SvelteKit. This monorepo contains both the cloud infrastructure and the client application.\n\n> **Full Documentation**: [https://francesco-gaglione.github.io/focus_flow_cloud/](https://francesco-gaglione.github.io/focus_flow_cloud/)\n\n<table> <tr> <td align=\"center\"><b>Tasks</b></td> <td align=\"center\"><b>Calendar (Month)</b></td> <td align=\"center\"><b>Calendar...",
+  "slug": "focus-flow"
+}

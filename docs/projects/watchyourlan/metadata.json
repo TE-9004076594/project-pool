@@ -1,0 +1,27 @@
+{
+  "category": "Network Utilities",
+  "name": "WatchYourLAN",
+  "url": "https://github.com/aceberg/WatchYourLAN",
+  "description_en": "Lightweight network IP scanner with notifications, history, export to Grafana. `MIT` `Docker/Go/deb`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 7068,
+  "forks_count": 244,
+  "open_issues_count": 58,
+  "topics": [
+    "arp-scan",
+    "arp-scanner",
+    "intrusion-detection",
+    "monitoring",
+    "network-security",
+    "self-hosted",
+    "selfhosted"
+  ],
+  "homepage": "https://hub.docker.com/r/aceberg/watchyourlan",
+  "description": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
+  "updated_at": "2026-07-05T12:40:24Z",
+  "pushed_at": "2025-09-10T12:08:09Z",
+  "full_name": "aceberg/WatchYourLAN",
+  "readme_preview": "<h1><a href=\"https://github.com/aceberg/WatchYourLAN\"> <img src=\"https://raw.githubusercontent.com/aceberg/WatchYourLAN/main/assets/logo.png\" width=\"20\" /> </a>WatchYourLAN</h1> <br/>\n\n<a href=\"https://trendshift.io/repositories/11642\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11642\" alt=\"aceberg%2FWatchYourLAN | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\nLightweight network IP scanner with web GUI. Features: - Send notification...",
+  "slug": "watchyourlan"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Remote Access",
+  "name": "Cardea",
+  "url": "https://github.com/hectorm/cardea",
+  "description_en": "SSH bastion server with access control, session recording, and optional TPM-backed key protection. `EUPL-1.2` `Go/Docker`",
+  "language": "Go",
+  "license": "EUPL-1.2",
+  "stargazers_count": 28,
+  "forks_count": 2,
+  "open_issues_count": 3,
+  "topics": [
+    "audit",
+    "bastion",
+    "firewall",
+    "networking",
+    "security",
+    "ssh",
+    "tpm"
+  ],
+  "homepage": "",
+  "description": "Cardea is an SSH bastion server with access control, session recording, and optional TPM-backed key protection.",
+  "updated_at": "2026-06-20T14:41:29Z",
+  "pushed_at": "2026-07-01T11:47:19Z",
+  "full_name": "hectorm/cardea",
+  "readme_preview": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./resources/logo/Cardea-Horizontal-Light.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./resources/logo/Cardea-Horizontal-Dark.svg\"> <img src=\"./resources/logo/Cardea-Horizontal.svg\" height=\"192\"> </picture> </p>\n\nCardea is an SSH bastion server with access control, session recording, and optional TPM-backed key protection.\n\nCardea is designed for small and mid-sized teams that manage infrastructure...",
+  "slug": "cardea"
+}

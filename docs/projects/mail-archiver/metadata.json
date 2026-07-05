@@ -1,0 +1,27 @@
+{
+  "category": "Archiving and Digital Preservation (DP)",
+  "name": "mail-archiver",
+  "url": "https://github.com/s1t5/mail-archiver",
+  "description_en": "Web application for archiving, searching, and exporting emails from multiple accounts (IMAP, M365 or Import). Featuring folder sync, attachment support, mailbox migration and a dashboard. `GPL-3.0` `Docker`",
+  "language": "C#",
+  "license": "GPL-3.0",
+  "stargazers_count": 1972,
+  "forks_count": 72,
+  "open_issues_count": 16,
+  "topics": [
+    "archive",
+    "archiver",
+    "backup",
+    "docker-compose",
+    "imap",
+    "mail",
+    "migration"
+  ],
+  "homepage": "",
+  "description": "Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.",
+  "updated_at": "2026-07-05T16:36:51Z",
+  "pushed_at": "2026-07-04T21:19:17Z",
+  "full_name": "s1t5/mail-archiver",
+  "readme_preview": "**A comprehensive solution for archiving, searching, and exporting emails**\n\n🌐 **Website:** [mail-archiver.org](https://mail-archiver.org)\n\n<div style=\"display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;\"> <a href=\"https://mail-archiver.org\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Website-mail--archiver.org-4A90D9?style=for-the-badge&logo=globe&logoColor=white\" alt=\"Website\"></a> <a href=\"#\"><img...",
+  "slug": "mail-archiver"
+}

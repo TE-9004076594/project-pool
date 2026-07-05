@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "GoSƐ",
+  "url": "https://codeberg.org/stv0g/gose",
+  "description_en": "Modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. `Apache-2.0` `Go/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "gosɛ"
+}

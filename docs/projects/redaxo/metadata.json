@@ -1,0 +1,19 @@
+{
+  "category": "Content Management Systems (CMS)",
+  "name": "REDAXO",
+  "url": "https://www.redaxo.org",
+  "description_en": "Simple, flexible and useful content management system (documentation in German). ([Source Code](https://github.com/redaxo/core)) `MIT` `PHP/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "redaxo"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "OpenBudgeteer",
+  "url": "https://github.com/TheAxelander/OpenBudgeteer",
+  "description_en": "Budgeting app based on the Bucket Budgeting Principle. `AGPL-3.0` `Docker/C#`",
+  "language": "C#",
+  "license": "AGPL-3.0",
+  "stargazers_count": 958,
+  "forks_count": 65,
+  "open_issues_count": 15,
+  "topics": [
+    "accounting",
+    "blazor",
+    "budgeting",
+    "csharp",
+    "docker",
+    "dotnet",
+    "financial",
+    "money",
+    "self-hosted",
+    "web-app",
+    "web-application"
+  ],
+  "homepage": "https://axelander.dev",
+  "description": "OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle",
+  "updated_at": "2026-07-03T19:32:52Z",
+  "pushed_at": "2026-01-10T09:45:00Z",
+  "full_name": "TheAxelander/OpenBudgeteer",
+  "readme_preview": "<p align=\"center\"> <img alt=\"OpenBudgeteer banner\" src=\"https://github.com/TheAxelander/OpenBudgeteer/blob/master/assets/banner.png?raw=true\"> </p>\n\n<p align=\"center\"> <a href=\"https://github.com/TheAxelander/OpenBudgeteer/actions/workflows/docker-image-pre-release.yml\" target=\"_blank\"><img alt=\"Docker Image pre-release\" src=\"https://github.com/TheAxelander/OpenBudgeteer/actions/workflows/docker-image-pre-release.yml/badge.svg\"></a> <a...",
+  "slug": "openbudgeteer"
+}

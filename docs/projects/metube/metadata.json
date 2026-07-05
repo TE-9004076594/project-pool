@@ -1,0 +1,24 @@
+{
+  "category": "Media Management",
+  "name": "MeTube",
+  "url": "https://github.com/alexta69/metube",
+  "description_en": "Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "stargazers_count": 14035,
+  "forks_count": 1016,
+  "open_issues_count": 141,
+  "topics": [
+    "self-hosted",
+    "youtube",
+    "youtube-dl",
+    "yt-dlp"
+  ],
+  "homepage": "",
+  "description": "Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)",
+  "updated_at": "2026-07-05T15:53:39Z",
+  "pushed_at": "2026-07-05T05:01:14Z",
+  "full_name": "alexta69/metube",
+  "readme_preview": "![Build Status](https://github.com/alexta69/metube/actions/workflows/main.yml/badge.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/alexta69/metube.svg)\n\nMeTube is a self-hosted web UI for `yt-dlp`, for downloading media from YouTube and [dozens of other sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).\n\nKey capabilities: * Download videos, audio, captions, and thumbnails from a browser UI. * Download playlists and channels, with configurable output and download...",
+  "slug": "metube"
+}

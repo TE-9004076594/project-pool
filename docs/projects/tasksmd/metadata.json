@@ -1,0 +1,26 @@
+{
+  "category": "Task Management & To-do Lists",
+  "name": "Tasks.md",
+  "url": "https://github.com/BaldissaraMatheus/Tasks.md",
+  "description_en": "A self-hosted, file based task management board that supports Markdown syntax. `MIT` `Docker`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 2148,
+  "forks_count": 105,
+  "open_issues_count": 17,
+  "topics": [
+    "agile",
+    "kanban",
+    "markdown",
+    "project-management",
+    "self-hosted",
+    "task-management"
+  ],
+  "homepage": "https://hub.docker.com/r/baldissaramatheus/tasks.md",
+  "description": "A self-hosted, Markdown file based task management board",
+  "updated_at": "2026-07-05T14:41:48Z",
+  "pushed_at": "2026-03-08T13:56:47Z",
+  "full_name": "BaldissaraMatheus/Tasks.md",
+  "readme_preview": "A self-hosted, Markdown file based task management board.\n\n![Demo](./public/demo.gif)\n\n- Create cards, lanes and tags in a modern and responsive interface; - Write cards as Markdown files; - Easy to install with a single Docker image; - Light and dark themes synced with operating system settings; - Heavily customizable with 3 default color themes ([Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/main/named-colors.html), [Nord](https://www.nordtheme.com/) and...",
+  "slug": "tasksmd"
+}

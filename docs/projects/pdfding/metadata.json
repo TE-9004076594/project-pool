@@ -1,0 +1,19 @@
+{
+  "category": "Document Management",
+  "name": "PdfDing",
+  "url": "https://www.pdfding.com",
+  "description_en": "PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. ([Demo](https://demo.pdfding.com), [Source Code](https://github.com/mrmn2/PdfDing)) `AGPL-3.0` `Docker/K8S`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "pdfding"
+}

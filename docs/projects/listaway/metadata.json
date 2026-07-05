@@ -1,0 +1,19 @@
+{
+  "category": "Task Management & To-do Lists",
+  "name": "Listaway",
+  "url": "https://github.com/jeffrpowell/listaway/",
+  "description_en": "List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists). ([Source Code](https://github.com/jeffrpowell/listaway)) `MIT` `Docker`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 8,
+  "forks_count": 0,
+  "open_issues_count": 6,
+  "topics": [],
+  "homepage": null,
+  "description": null,
+  "updated_at": "2026-06-15T12:56:49Z",
+  "pushed_at": "2026-06-23T02:11:14Z",
+  "full_name": "jeffrpowell/listaway",
+  "readme_preview": "<img src=\"./web/app/images/ListawayWordmarkLight.png\" alt=\"Listaway logo\" title=\"Listaway\" height=\"300\">\n\nThis self-hostable application allows authenticated users (individuals or a team) to publish one or more lists of items publicly. These lists can either be for tracking purposes (e.g. a list of books to read, a list of components in a custom computer build, a list of favorite local places, etc.) or for wishlist purposes (e.g. a gift wishlist, a list of tasks you need help with, etc.). The...",
+  "slug": "listaway"
+}

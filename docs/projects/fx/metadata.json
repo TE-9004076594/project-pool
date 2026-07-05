@@ -1,0 +1,23 @@
+{
+  "category": "Blogging Platforms",
+  "name": "fx",
+  "url": "https://github.com/rikhuijzer/fx",
+  "description_en": "Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky). `MIT` `Docker`",
+  "language": "Rust",
+  "license": "MIT",
+  "stargazers_count": 319,
+  "forks_count": 18,
+  "open_issues_count": 25,
+  "topics": [
+    "blog-engine",
+    "cms",
+    "content-management-system"
+  ],
+  "homepage": "https://fx-demo.huijzer.xyz",
+  "description": "An efficient (micro)blogging service that you can self-host",
+  "updated_at": "2026-06-29T20:08:59Z",
+  "pushed_at": "2026-06-01T21:53:45Z",
+  "full_name": "rikhuijzer/fx",
+  "readme_preview": "A Twitter/Bluesky-like (micro)blogging service that you can self-host.\n\n- 🚀 Low costs due to small footprint (only a few MB of memory are required). - 📝 Write posts in Markdown. - 🖥 Built-in syntax highlighting. - ∑ Built-in display for math expressions (LaTeX syntax, e.g. `$E=mc^2$`). - 📱 Publish and edit from desktop or mobile device. - 📁 Upload files and images to embed them in posts. - 🔒 Automatically backup to plain text files, see [Backup](#backup). - 🔭 Follow RSS feeds.\n\nThere is a demo...",
+  "slug": "fx"
+}

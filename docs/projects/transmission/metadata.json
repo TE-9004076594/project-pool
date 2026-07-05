@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Peer-to-peer Filesharing",
+  "name": "Transmission",
+  "url": "https://transmissionbt.com/",
+  "description_en": "Fast, easy, free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)) `GPL-3.0` `C++/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "transmission"
+}

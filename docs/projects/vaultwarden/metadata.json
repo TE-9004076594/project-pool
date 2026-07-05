@@ -1,0 +1,26 @@
+{
+  "category": "Password Managers",
+  "name": "Vaultwarden",
+  "url": "https://github.com/dani-garcia/vaultwarden",
+  "description_en": "Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "stargazers_count": 63303,
+  "forks_count": 2966,
+  "open_issues_count": 60,
+  "topics": [
+    "bitwarden",
+    "bitwarden-rs",
+    "docker",
+    "rocket",
+    "rust",
+    "vaultwarden"
+  ],
+  "homepage": "",
+  "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+  "updated_at": "2026-07-05T16:34:59Z",
+  "pushed_at": "2026-06-05T19:52:52Z",
+  "full_name": "dani-garcia/vaultwarden",
+  "readme_preview": "![Vaultwarden Logo](./resources/vaultwarden-logo-auto.svg)\n\nAn alternative server implementation of the Bitwarden Client API, written in Rust and compatible with [official Bitwarden clients](https://bitwarden.com/download/) [[disclaimer](#disclaimer)], perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.\n\n> [!IMPORTANT] > **When using this server, please report any bugs or suggestions directly to us (see [Get in touch](#get-in-touch)),...",
+  "slug": "vaultwarden"
+}

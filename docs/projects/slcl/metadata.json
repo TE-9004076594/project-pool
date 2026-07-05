@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Web-based File Managers",
+  "name": "slcl",
+  "url": "https://gitea.privatedns.org/xavi/slcl",
+  "description_en": "Simple and lightweight web cloud storage. ([Source Code](https://codeberg.org/xavidcr/slcl)) `AGPL-3.0` `C`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "slcl"
+}

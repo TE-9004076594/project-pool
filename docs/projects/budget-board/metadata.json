@@ -1,0 +1,19 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "Budget Board",
+  "url": "https://budgetboard.net/",
+  "description_en": "Simple app for tracking monthly spending and working towards financial goals. ([Source Code](https://github.com/teelur/budget-board)) `GPL-3.0` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "budget-board"
+}

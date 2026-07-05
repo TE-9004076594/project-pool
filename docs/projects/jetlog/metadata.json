@@ -1,0 +1,25 @@
+{
+  "category": "Miscellaneous",
+  "name": "jetlog",
+  "url": "https://github.com/pbogre/jetlog",
+  "description_en": "Personal flight tracker and viewer. `GPL-2.0` `Docker`",
+  "language": "TypeScript",
+  "license": "GPL-2.0",
+  "stargazers_count": 328,
+  "forks_count": 23,
+  "open_issues_count": 16,
+  "topics": [
+    "aviation",
+    "flights",
+    "logging",
+    "self-hosted",
+    "tracking"
+  ],
+  "homepage": "https://github.com/pbogre/jetlog",
+  "description": "Personal flight tracker and viewer",
+  "updated_at": "2026-07-03T22:11:50Z",
+  "pushed_at": "2026-06-26T18:18:12Z",
+  "full_name": "pbogre/jetlog",
+  "readme_preview": "<p align=\"center\"> <img src=\"https://img.shields.io/docker/pulls/pbogre/jetlog?style=for-the-badge\" /> <img src=\"https://img.shields.io/docker/image-size/pbogre/jetlog?style=for-the-badge\" /> </p>\n\nA self-hostable personal flight tracker and viewer\n\n![homepage preview](images/homepage.png)|![all flights preview](images/all-flights.png) :--------------------------------------:|:---------------------------------------------:",
+  "slug": "jetlog"
+}

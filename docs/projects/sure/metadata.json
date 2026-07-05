@@ -1,0 +1,19 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "Sure",
+  "url": "https://github.com/we-promise/sure",
+  "description_en": "Personal finance application for everyone (fork of Maybe). `AGPL-3.0` `Docker`",
+  "language": "Ruby",
+  "license": "AGPL-3.0",
+  "stargazers_count": 8883,
+  "forks_count": 219,
+  "open_issues_count": 462,
+  "topics": [],
+  "homepage": "https://sure.am",
+  "description": "The personal finance app for everyone (by everyone)",
+  "updated_at": "2026-07-05T16:23:14Z",
+  "pushed_at": "2026-07-05T06:26:29Z",
+  "full_name": "we-promise/sure",
+  "readme_preview": "<img width=\"1270\" height=\"1140\" alt=\"sure_shot\" src=\"https://github.com/user-attachments/assets/9c6e03cc-3490-40ab-9a68-52e042c51293\" />\n\n<p align=\"center\">\n\n<a href=\"https://readme-i18n.com/de/we-promise/sure\">Deutsch</a> | <a href=\"https://readme-i18n.com/es/we-promise/sure\">Español</a> | <a href=\"https://readme-i18n.com/fr/we-promise/sure\">Français</a> | <a href=\"https://readme-i18n.com/ja/we-promise/sure\">日本語</a> | <a href=\"https://readme-i18n.com/ko/we-promise/sure\">한국어</a> | <a...",
+  "slug": "sure"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - Feature Toggle",
+  "name": "GO Feature Flag",
+  "url": "https://gofeatureflag.org",
+  "description_en": "Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "go-feature-flag"
+}

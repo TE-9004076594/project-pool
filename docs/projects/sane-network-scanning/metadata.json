@@ -1,0 +1,19 @@
+{
+  "category": "Miscellaneous",
+  "name": "SANE Network Scanning",
+  "url": "http://sane-project.org/",
+  "description_en": "Allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPL-2.0` `C`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "sane-network-scanning"
+}

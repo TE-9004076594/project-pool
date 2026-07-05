@@ -1,0 +1,27 @@
+{
+  "category": "Communication - Email - Mail Transfer Agents",
+  "name": "OpenTrashmail",
+  "url": "https://github.com/HaschekSolutions/opentrashmail",
+  "description_en": "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. `Apache-2.0` `Python/PHP/Docker`",
+  "language": "PHP",
+  "license": "Apache-2.0",
+  "stargazers_count": 869,
+  "forks_count": 75,
+  "open_issues_count": 14,
+  "topics": [
+    "docker",
+    "email-as-api",
+    "email-as-rss",
+    "php",
+    "python",
+    "selfhosted",
+    "trashmail"
+  ],
+  "homepage": "",
+  "description": "Open Source standalone trashmail solution that ships its own mail server",
+  "updated_at": "2026-07-03T15:02:16Z",
+  "pushed_at": "2025-08-28T06:05:53Z",
+  "full_name": "HaschekSolutions/opentrashmail",
+  "readme_preview": "<p align=\"center\"> <a href=\"\" rel=\"noopener\"> <img height=200px src=\"https://raw.githubusercontent.com/HaschekSolutions/opentrashmail/master/web/imgs/logo-200.png\" alt=\"Open Trashmail\"></a> </p>\n\n<h1 align=\"center\">Open Trashmail</h1>\n\n<div align=\"center\">",
+  "slug": "opentrashmail"
+}

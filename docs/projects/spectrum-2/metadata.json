@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Spectrum 2",
+  "url": "https://spectrum.im/",
+  "description_en": "Spectrum 2 is an open source instant messaging transport. It allows users to chat together even when they are using different IM networks. ([Source Code](https://github.com/SpectrumIM/spectrum2)) `GPL-3.0` `C++`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "spectrum-2"
+}

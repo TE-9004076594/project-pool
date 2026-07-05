@@ -1,0 +1,25 @@
+{
+  "category": "File Transfer - Web-based File Managers",
+  "name": "IFM",
+  "url": "https://github.com/misterunknown/ifm",
+  "description_en": "Single script file manager. `MIT` `PHP`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 369,
+  "forks_count": 71,
+  "open_issues_count": 4,
+  "topics": [
+    "filemanager",
+    "html",
+    "ifm",
+    "javascript",
+    "php"
+  ],
+  "homepage": null,
+  "description": "Improved File Manager",
+  "updated_at": "2026-07-04T09:28:17Z",
+  "pushed_at": "2026-06-11T23:00:13Z",
+  "full_name": "misterunknown/ifm",
+  "readme_preview": "* [about](#about) * [features](#features) * [requirements](#requirements) * [installation](#installation) * [building](#building) * [security information](#security-information) * [keybindings](#keybindings) * [configuration](#configuration) * [screenshots](#screenshots) * [issues](#issues)\n\nThe IFM is a web-based filemanager, which comes as a single file solution using HTML5, CSS3, JavaScript and PHP. You can test a [demo here](https://ifmdemo.gitea.de/).\n\nThe IFM uses the following resources:",
+  "slug": "ifm"
+}

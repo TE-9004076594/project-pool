@@ -1,0 +1,28 @@
+{
+  "category": "Network Utilities",
+  "name": "Wakupator",
+  "url": "https://github.com/Gibus21250/Wakupator",
+  "description_en": "Wake On LAN Machine Manager based on network traffic. `MIT` `C`",
+  "language": "C",
+  "license": "MIT",
+  "stargazers_count": 174,
+  "forks_count": 3,
+  "open_issues_count": 0,
+  "topics": [
+    "automation",
+    "c",
+    "minimalist",
+    "monitoring",
+    "powermanagement",
+    "server",
+    "spoofing",
+    "wakeonlan"
+  ],
+  "homepage": "",
+  "description": "Automatically starts machines based on incoming traffic, using smart local IP spoofing and Wake-on-LAN.",
+  "updated_at": "2026-07-04T02:44:42Z",
+  "pushed_at": "2026-05-30T23:53:17Z",
+  "full_name": "Gibus21250/Wakupator",
+  "readme_preview": "A service that allow machines on the same LAN to be automatically woken up, using IP address spoofing for a good cause. Lightweight, no dependencies, non-intrusive, and easy to integrate.\n\n1. [Introduction](#introduction) - [Overview](#overview) - [Advantages](#advantages) - [Limitations](#limitations)\n\n2. [Precautions](#precautions) - [Client machine side](#client-machine-side) - [Wakupator host side](#wakupator-host-side) - [Recommendations](#recommendations)",
+  "slug": "wakupator"
+}

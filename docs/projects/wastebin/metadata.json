@@ -1,0 +1,25 @@
+{
+  "category": "Pastebins",
+  "name": "Wastebin",
+  "url": "https://github.com/matze/wastebin",
+  "description_en": "Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`",
+  "language": "Rust",
+  "license": "MIT",
+  "stargazers_count": 808,
+  "forks_count": 58,
+  "open_issues_count": 18,
+  "topics": [
+    "axum",
+    "pastebin",
+    "rust",
+    "self-hosted",
+    "sqlite"
+  ],
+  "homepage": "https://bin.bloerg.net",
+  "description": "wastebin is a pastebin 📝",
+  "updated_at": "2026-07-03T19:28:53Z",
+  "pushed_at": "2026-07-03T19:28:49Z",
+  "full_name": "matze/wastebin",
+  "readme_preview": "A minimal pastebin with a design shamelessly copied from\n\n<p align=\"center\"><img src=\"https://raw.githubusercontent.com/matze/wastebin/master/assets/screenshot.webp\"></p>\n\n<p align=\"center\"><strong><a href=\"https://bin.bloerg.net\">DEMO</a></strong> (resets every day) • <strong><a href=\"https://matze.github.io/wastebin/\">THEMES</a></strong></p>",
+  "slug": "wastebin"
+}

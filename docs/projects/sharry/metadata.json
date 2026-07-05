@@ -1,0 +1,28 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Sharry",
+  "url": "https://github.com/eikek/sharry",
+  "description_en": "Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`",
+  "language": "Elm",
+  "license": "GPL-3.0",
+  "stargazers_count": 1320,
+  "forks_count": 73,
+  "open_issues_count": 75,
+  "topics": [
+    "elm",
+    "file-sharing",
+    "file-upload",
+    "filesharing",
+    "scala",
+    "web-app",
+    "web-application",
+    "webapp"
+  ],
+  "homepage": "https://eikek.github.io/sharry",
+  "description": "Sharry is a self-hosted file sharing web application.",
+  "updated_at": "2026-07-05T14:41:43Z",
+  "pushed_at": "2026-07-01T04:57:01Z",
+  "full_name": "eikek/sharry",
+  "readme_preview": "<img align=\"left\" src=\"https://raw.githubusercontent.com/eikek/sharry/master/artwork/icon.png\" height=\"120px\" style=\"padding-right: 20px\">\n\nSharry allows to share files with others in a simple way. It is a self-hosted web application. The basic concept is: upload files and get a url back that can then be shared.\n\n<a href=\"https://xkcd.com/949/\"> <img height=\"400\" align=\"right\" style=\"float:right\" src=\"https://imgs.xkcd.com/comics/file_transfer.png\"> </a>",
+  "slug": "sharry"
+}

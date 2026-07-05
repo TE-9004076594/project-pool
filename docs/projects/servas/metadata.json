@@ -1,0 +1,29 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "Servas",
+  "url": "https://github.com/beromir/Servas",
+  "description_en": "A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`",
+  "language": "Svelte",
+  "license": "GPL-3.0",
+  "stargazers_count": 819,
+  "forks_count": 36,
+  "open_issues_count": 18,
+  "topics": [
+    "bookmark-manager",
+    "inertiajs",
+    "laravel",
+    "php",
+    "self-hosted",
+    "selfhosted",
+    "sveltejs",
+    "tailwindcss",
+    "webapp"
+  ],
+  "homepage": "https://servas.app",
+  "description": "A self-hosted bookmark management tool.",
+  "updated_at": "2026-07-03T02:49:36Z",
+  "pushed_at": "2026-04-15T20:09:10Z",
+  "full_name": "beromir/Servas",
+  "readme_preview": "A self-hosted bookmark management tool. Servas is based on Laravel and Inertia.js and uses Tailwind CSS and Svelte for the frontend.\n\n![](./docs/images/home.jpg \"Home view\")\n\n- **Tags:** Organize your bookmarks with tags. - **Groups:** Group your bookmarks. Groups can be nested. - **Smart Groups:** Group your bookmarks based on their belonging tags. - **Firefox and Chrome browser extension:** Add sites to Servas right from your browser. - **Multiple users:** You can create multiple user...",
+  "slug": "servas"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "Games",
+  "name": "The Battle for Wesnoth",
+  "url": "https://github.com/wesnoth/wesnoth",
+  "description_en": "The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++/deb`",
+  "language": "C++",
+  "license": "GPL-2.0",
+  "stargazers_count": 6752,
+  "forks_count": 1209,
+  "open_issues_count": 1506,
+  "topics": [
+    "fantasy",
+    "free",
+    "game",
+    "opensource",
+    "strategy-game",
+    "turn-based-strategy"
+  ],
+  "homepage": "https://www.wesnoth.org/",
+  "description": "An open source, turn-based strategy game with a high fantasy theme.",
+  "updated_at": "2026-07-05T13:34:52Z",
+  "pushed_at": "2026-07-05T02:13:47Z",
+  "full_name": "wesnoth/wesnoth",
+  "readme_preview": "|Branch|CI status| |------|---------| |Master|[![CI](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg)](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml?query=branch%3Amaster)| |1.18|[![CI](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml?query=branch%3A1.18)|\n\nAbout =====\n\n**The Battle for Wesnoth** is an Open Source, turn-based tactical strategy...",
+  "slug": "the-battle-for-wesnoth"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "WBO",
+  "url": "https://github.com/lovasoa/whitebophir",
+  "description_en": "Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`",
+  "language": "JavaScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 2616,
+  "forks_count": 479,
+  "open_issues_count": 123,
+  "topics": [
+    "art",
+    "collaborative",
+    "draw",
+    "education",
+    "javascript",
+    "teaching",
+    "whiteboard"
+  ],
+  "homepage": "https://wbo.ophir.dev",
+  "description": "Online collaborative Whiteboard that is simple, free, easy to use and  to deploy",
+  "updated_at": "2026-07-05T12:20:28Z",
+  "pushed_at": "2026-07-05T13:17:16Z",
+  "full_name": "lovasoa/whitebophir",
+  "readme_preview": "WBO is an online collaborative whiteboard that allows many users to draw simultaneously on a large virtual board. The board is updated in real time for all connected users, and its state is always persisted. It can be used for many different purposes, including art, entertainment, design, teaching.\n\nA demonstration server is available at [wbo.ophir.dev](https://wbo.ophir.dev)\n\n<table> <tr> <td> The <i><a href=\"https://wbo.ophir.dev/boards/anonymous\">anonymous</a></i> board <td> <img width=\"300\"...",
+  "slug": "wbo"
+}

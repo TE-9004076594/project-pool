@@ -1,0 +1,27 @@
+{
+  "category": "Media Management",
+  "name": "MKVPriority",
+  "url": "https://github.com/kennethsible/mkvpriority",
+  "description_en": "Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags. `MIT` `Python/Docker`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 68,
+  "forks_count": 1,
+  "open_issues_count": 0,
+  "topics": [
+    "anime",
+    "mkv",
+    "mkvpropedit",
+    "mkvtoolnix",
+    "radarr",
+    "sonarr",
+    "subtitles"
+  ],
+  "homepage": "",
+  "description": "Assigns priority scores to audio and subtitle tracks in MKV files",
+  "updated_at": "2026-07-01T20:09:40Z",
+  "pushed_at": "2026-06-18T19:48:03Z",
+  "full_name": "kennethsible/mkvpriority",
+  "readme_preview": "<div align=\"center\"> <img alt=\"MKVPriority Banner\" src=\"images/mkvpriority_banner.svg\" width=\"600\"> </div> <p align=\"center\"> <img src=\"https://github.com/kennethsible/mkvpriority/actions/workflows/publish.yaml/badge.svg\" alt=\"Docker Release\" /> <img src=\"https://github.com/kennethsible/mkvpriority/actions/workflows/pypi.yaml/badge.svg\" alt=\"PyPI Release\" /> <img src=\"https://github.com/kennethsible/mkvpriority/actions/workflows/pytest.yaml/badge.svg\" alt=\"Python CI\"> </p>\n\n**MKVPriority**...",
+  "slug": "mkvpriority"
+}

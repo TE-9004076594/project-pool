@@ -1,0 +1,26 @@
+{
+  "category": "Pastebins",
+  "name": "Yopass",
+  "url": "https://github.com/jhaals/yopass",
+  "description_en": "Secure sharing of secrets, passwords and files. ([Demo](https://yopass.se/)) `Apache-2.0` `Go/Docker`",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "stargazers_count": 2896,
+  "forks_count": 425,
+  "open_issues_count": 2,
+  "topics": [
+    "encryption-decryption",
+    "file-upload",
+    "onetimelink",
+    "onetimesecret",
+    "password-share",
+    "secret-sharing"
+  ],
+  "homepage": "https://yopass.se",
+  "description": "Secure sharing of secrets, passwords and files ",
+  "updated_at": "2026-07-05T08:50:16Z",
+  "pushed_at": "2026-07-04T19:32:17Z",
+  "full_name": "jhaals/yopass",
+  "readme_preview": "![Yopass-horizontal](https://user-images.githubusercontent.com/37777956/59544367-0867aa80-8f09-11e9-8d6a-02008e1bccc7.png)\n\n![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/jhaals/yopass?sort=semver)\n\n![demo](https://ydemo.netlify.com/yopass-demo.gif)",
+  "slug": "yopass"
+}

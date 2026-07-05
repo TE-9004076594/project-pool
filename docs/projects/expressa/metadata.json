@@ -1,0 +1,24 @@
+{
+  "category": "Content Management Systems (CMS)",
+  "name": "Expressa",
+  "url": "https://github.com/thomas4019/expressa",
+  "description_en": "Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 450,
+  "forks_count": 24,
+  "open_issues_count": 22,
+  "topics": [
+    "apis",
+    "hacktoberfest",
+    "middleware",
+    "nodejs"
+  ],
+  "homepage": "",
+  "description": "API creation middleware with an admin interface",
+  "updated_at": "2026-06-30T03:41:12Z",
+  "pushed_at": "2026-04-05T10:33:42Z",
+  "full_name": "thomas4019/expressa",
+  "readme_preview": "![](expressa.png)\n\nExpressa makes it easy to create basic APIs by using [JSON schema](http://json-schema.org):\n\n* django-like __admin interface__ for creating collection-__REST__ endpoints and managing permissions * collection schema's can be edited *and* added __through the admin interface__ * re-use collection schema's in your frontend to generate forms * easily extendable so you can add complex features as well * define collections as [JSON schema](http://json-schema.org) instead of custom...",
+  "slug": "expressa"
+}

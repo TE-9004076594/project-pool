@@ -1,0 +1,19 @@
+{
+  "category": "Document Management - Institutional Repository and Digital Library Software",
+  "name": "Samvera Hyrax",
+  "url": "https://samvera.org/",
+  "description_en": "Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "samvera-hyrax"
+}

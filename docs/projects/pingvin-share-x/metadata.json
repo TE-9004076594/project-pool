@@ -1,0 +1,25 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Pingvin Share X",
+  "url": "https://github.com/smp46/pingvin-share-x",
+  "description_en": "File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share). `BSD-2-Clause` `Docker/Nodejs`",
+  "language": "TypeScript",
+  "license": "BSD-2-Clause",
+  "stargazers_count": 232,
+  "forks_count": 24,
+  "open_issues_count": 10,
+  "topics": [
+    "docker",
+    "fileshare",
+    "fork",
+    "self-hosted",
+    "share"
+  ],
+  "homepage": "https://smp46.github.io/pingvin-share-x/",
+  "description": "Pingvin Share X is a secure and easy self-hosted file sharing platform.",
+  "updated_at": "2026-07-05T12:52:37Z",
+  "pushed_at": "2026-07-04T11:08:46Z",
+  "full_name": "smp46/pingvin-share-x",
+  "readme_preview": "<div align=\"center\"> <img src=\"https://github.com/user-attachments/assets/b5bc0c1e-5641-4106-b322-a1b0f5448b0f\" width=\"60\"/>\n\n<h1>Pingvin Share X</h1>\n\n<p align=\"center\">",
+  "slug": "pingvin-share-x"
+}

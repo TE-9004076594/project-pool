@@ -1,0 +1,23 @@
+{
+  "category": "Wikis",
+  "name": "django-wiki",
+  "url": "https://github.com/django-wiki/django-wiki",
+  "description_en": "Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "stargazers_count": 1926,
+  "forks_count": 590,
+  "open_issues_count": 56,
+  "topics": [
+    "django",
+    "django-wiki",
+    "python"
+  ],
+  "homepage": "https://demo.django-wiki.org",
+  "description": "A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.",
+  "updated_at": "2026-07-04T01:48:47Z",
+  "pushed_at": "2026-06-23T22:33:13Z",
+  "full_name": "django-wiki/django-wiki",
+  "readme_preview": "django-wiki ===========\n\n|Docs| |Build Status| |Coverage Status| |PyPi| |Downloads| |IRC|\n\n.. |Docs| image:: https://readthedocs.org/projects/django-wiki/badge/?version=latest :target: https://django-wiki.readthedocs.io/ .. |Build status| image:: https://circleci.com/gh/django-wiki/django-wiki.svg?style=shield :target: https://circleci.com/gh/django-wiki/django-wiki .. |Coverage Status| image:: https://codecov.io/github/django-wiki/django-wiki/coverage.svg?branch=main :target:...",
+  "slug": "django-wiki"
+}

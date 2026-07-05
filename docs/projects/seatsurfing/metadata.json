@@ -1,0 +1,19 @@
+{
+  "category": "Booking and Scheduling",
+  "name": "Seatsurfing",
+  "url": "https://seatsurfing.app/",
+  "description_en": "Webbased app to book seats, desks and rooms for offices. ([Source Code](https://github.com/seatsurfing/seatsurfing)) `GPL-3.0` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "seatsurfing"
+}

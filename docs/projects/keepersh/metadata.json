@@ -1,0 +1,19 @@
+{
+  "category": "Calendar & Contacts",
+  "name": "Keeper.sh",
+  "url": "https://keeper.sh/",
+  "description_en": "Calendar syncing tool that pulls and pushes events between calendar sources and destinations via iCal/ICS or OAuth, with support for anonymized busy/free events. ([Source Code](https://github.com/ridafkih/keeper.sh)) `AGPL-3.0` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "keepersh"
+}

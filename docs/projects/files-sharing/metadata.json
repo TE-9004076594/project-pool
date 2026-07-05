@@ -1,0 +1,25 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Files Sharing",
+  "url": "https://github.com/axeloz/filesharing",
+  "description_en": "File sharing application based on unique and temporary links. `GPL-3.0` `PHP/Docker`",
+  "language": "PHP",
+  "license": "GPL-3.0",
+  "stargazers_count": 279,
+  "forks_count": 35,
+  "open_issues_count": 2,
+  "topics": [
+    "file-sharing",
+    "file-upload",
+    "laravel",
+    "php",
+    "uploader"
+  ],
+  "homepage": "https://filesharing.webinno.fr",
+  "description": "Self-hosted files sharing application, easy to setup, easy to use",
+  "updated_at": "2026-07-01T19:53:19Z",
+  "pushed_at": "2026-06-29T13:47:59Z",
+  "full_name": "axeloz/filesharing",
+  "readme_preview": "> > FILES SHARING VERSION 2 JUST RELEASED >\n\nThis PHP application based on Laravel 10.9 allows to share files like Wetransfer. You may install it **on your own server**. It **does not require** any database system, it works with JSON files into the storage folder. It is **multilingual** and comes with english, french, german and korean translations for now. You're welcome to help translating the app.\n\nThis application provides two links per bundle : - a bundle preview link : you can send this...",
+  "slug": "files-sharing"
+}

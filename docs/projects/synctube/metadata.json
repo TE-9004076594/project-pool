@@ -1,0 +1,24 @@
+{
+  "category": "Media Streaming - Video Streaming",
+  "name": "SyncTube",
+  "url": "https://github.com/RblSb/SyncTube",
+  "description_en": "Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. `MIT` `Nodejs/Haxe`",
+  "language": "Haxe",
+  "license": "MIT",
+  "stargazers_count": 380,
+  "forks_count": 67,
+  "open_issues_count": 5,
+  "topics": [
+    "haxe",
+    "nodejs",
+    "self-hosted",
+    "synctube"
+  ],
+  "homepage": "",
+  "description": "Synchronized video viewing with chat and other features (one-channel web service)",
+  "updated_at": "2026-07-03T00:02:16Z",
+  "pushed_at": "2026-06-29T20:53:04Z",
+  "full_name": "RblSb/SyncTube",
+  "readme_preview": "Synchronized video viewing with chat and other features. Lightweight modern implementation and a very easy way to run locally.\n\nDefault channel example: https://synctube.onrender.com/\n\n- Control video playback for all users with active `Leader` button - Start watching local videos while uploading them to the server, before upload completes - External `vtt`/`srt`/`ass` subtitles support - External audiotrack / voiceover support - `/30`, `/-21`, etc chat commands to rewind video playback by...",
+  "slug": "synctube"
+}

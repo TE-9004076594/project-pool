@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Conduit",
+  "url": "https://conduit.rs/",
+  "description_en": "A simple, fast, and reliable chat server powered by Matrix. ([Source Code](https://gitlab.com/famedly/conduit)) `Apache-2.0` `Rust`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "conduit"
+}

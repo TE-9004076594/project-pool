@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Video Conferencing",
+  "name": "Galene",
+  "url": "https://galene.org/",
+  "description_en": "Video conferencing server that is easy to deploy and that requires moderate server resources. ([Source Code](https://github.com/jech/galene)) `MIT` `Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "galene"
+}

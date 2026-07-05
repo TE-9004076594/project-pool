@@ -1,0 +1,25 @@
+{
+  "category": "Games",
+  "name": "Razzia",
+  "url": "https://github.com/Ralex91/Razzia",
+  "description_en": "Quiz game platform, designed for smaller self-hosted events (alternative to Kahoot!). `MIT` `Nodejs/Docker`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 941,
+  "forks_count": 24,
+  "open_issues_count": 27,
+  "topics": [
+    "learning",
+    "quizz",
+    "reactjs",
+    "self-hosted",
+    "typescript"
+  ],
+  "homepage": "",
+  "description": "A self-hosted, open-source quiz platform for smaller events.",
+  "updated_at": "2026-07-05T15:04:47Z",
+  "pushed_at": "2026-07-05T16:25:54Z",
+  "full_name": "Ralex91/Razzia",
+  "readme_preview": "<p align=\"center\"> <img width=\"450\" height=\"120\" align=\"center\" src=\".github/logo.svg\"> <br> <div align=\"center\"> <img alt=\"Visitor Badge\" src=\"https://api.visitorbadge.io/api/visitors?path=https://github.com/Ralex91/Razzia/edit/main/README.md&countColor=%23FF9900\"> <img src=\"https://img.shields.io/docker/pulls/ralex91/razzia?style=for-the-badge&color=FF9900\" alt=\"Docker Pulls\"> </div> </p>\n\nRazzia is a straightforward and open-source quiz platform, allowing users to host it on their own server...",
+  "slug": "razzia"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "URL Shorteners",
+  "name": "bit",
+  "url": "https://github.com/sjdonado/bit",
+  "description_en": "Fast, lightweight, resource-efficient, compiled URL shortener. `MIT` `Docker/Crystal`",
+  "language": "Crystal",
+  "license": "MIT",
+  "stargazers_count": 97,
+  "forks_count": 7,
+  "open_issues_count": 1,
+  "topics": [
+    "crystal",
+    "dockerfile",
+    "kemal",
+    "self-hosted",
+    "sqlite3",
+    "url-shortener"
+  ],
+  "homepage": "https://sjdonado.github.io/bit/",
+  "description": "Fast, lightweight, self-hosted URL shortener service with minimal click tracking",
+  "updated_at": "2026-07-04T18:40:00Z",
+  "pushed_at": "2026-07-05T02:51:49Z",
+  "full_name": "sjdonado/bit",
+  "readme_preview": "- Minimal tracking setup: Country, browser, OS, referer. No cookies or persistent tracking mechanisms are used beyond what's available from a basic client's request. - Includes `X-Forwarded-For` header. - Multiple users are supported via API key authentication. Create, list and delete keys via the [CLI](docs/SETUP.md#cli). - Easy to extend, Ruby on Rails inspired setup. - Auto update UA regexes and GeoLite2 database.\n\n**Fast:** **11k req/sec**, latency 11ms, 40MiB avg memory usage (100k...",
+  "slug": "bit"
+}

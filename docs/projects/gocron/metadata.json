@@ -1,0 +1,29 @@
+{
+  "category": "Automation",
+  "name": "gocron",
+  "url": "https://github.com/flohoss/gocron",
+  "description_en": "Task scheduler that allows users to specify recurring jobs via a simple YAML configuration file. `MIT` `Docker`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 545,
+  "forks_count": 18,
+  "open_issues_count": 2,
+  "topics": [
+    "backup",
+    "backups",
+    "cron",
+    "docker",
+    "golang",
+    "schedule",
+    "scheduler",
+    "task",
+    "vue"
+  ],
+  "homepage": "",
+  "description": "A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times using cron expressions, and passes in environment variables for each job.",
+  "updated_at": "2026-07-01T04:09:03Z",
+  "pushed_at": "2026-07-01T04:09:00Z",
+  "full_name": "flohoss/gocron",
+  "readme_preview": "<div align=\"center\">\n\n<img src=\"web/public/static/logo.webp\" height=\"250px\">\n\nA task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times using cron expressions, and passes in environment variables for each job.",
+  "slug": "gocron"
+}

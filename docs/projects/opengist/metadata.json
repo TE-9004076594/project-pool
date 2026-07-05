@@ -1,0 +1,19 @@
+{
+  "category": "Pastebins",
+  "name": "Opengist",
+  "url": "https://opengist.io",
+  "description_en": "Pastebin powered by Git. ([Demo](https://demo.opengist.io), [Source Code](https://github.com/thomiceli/opengist)) `AGPL-3.0` `Docker/Go/Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "opengist"
+}

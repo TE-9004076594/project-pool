@@ -1,0 +1,25 @@
+{
+  "category": "Network Utilities",
+  "name": "Upsnap",
+  "url": "https://github.com/seriousm4x/UpSnap",
+  "description_en": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 5853,
+  "forks_count": 228,
+  "open_issues_count": 1,
+  "topics": [
+    "golang",
+    "pocketbase",
+    "sveltekit",
+    "wakeonlan",
+    "wol"
+  ],
+  "homepage": "",
+  "description": "A simple wake on lan web app written with SvelteKit, Go and PocketBase.",
+  "updated_at": "2026-07-05T12:24:08Z",
+  "pushed_at": "2026-07-03T20:55:25Z",
+  "full_name": "seriousm4x/UpSnap",
+  "readme_preview": "<div align=\"center\" width=\"100%\"> <img src=\"frontend/static/gopher.svg\" width=\"150\" /> </div>\n\n<div align=\"center\" width=\"100%\"> <h2>UpSnap</h2> <p>A simple wake on lan web app written with SvelteKit, Go and PocketBase.</p> <div> <a target=\"_blank\" href=\"https://github.com/seriousm4x/upsnap\"><img src=\"https://img.shields.io/github/stars/seriousm4x/UpSnap?style=flat&label=Stars\" /></a> <a target=\"_blank\" href=\"https://hub.docker.com/r/seriousm4x/upsnap\"><img...",
+  "slug": "upsnap"
+}

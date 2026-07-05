@@ -1,0 +1,31 @@
+{
+  "category": "Photo Galleries",
+  "name": "Photofield",
+  "url": "https://github.com/SmilyOrg/photofield",
+  "description_en": "Experimental fast photo viewer. `MIT` `Docker/Go`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 593,
+  "forks_count": 14,
+  "open_issues_count": 32,
+  "topics": [
+    "gallery",
+    "golang",
+    "image",
+    "image-viewer",
+    "photo",
+    "photo-gallery",
+    "photos",
+    "photoviewer",
+    "self-hosted",
+    "selfhosted",
+    "vue3"
+  ],
+  "homepage": "https://photofield.dev/",
+  "description": " A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.",
+  "updated_at": "2026-07-05T11:57:57Z",
+  "pushed_at": "2026-06-21T17:29:53Z",
+  "full_name": "SmilyOrg/photofield",
+  "readme_preview": "<br /> <p align=\"center\"> <a href=\"https://github.com/smilyorg/photofield\"> <img src=\"ui/public/android-chrome-192x192.png\" alt=\"Logo\" width=\"80\" height=\"80\"> </a>\n\n<h3 align=\"center\">Photofield</h3>\n\n<p align=\"center\"> A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. <br /> <br /> <a href=\"https://demo.photofield.dev\">Demo</a> · <a href=\"https://photofield.dev/quick-start\">Quick Start</a> · <a href=\"https://photofield.dev\">Docs</a> <br /> <br /> <a...",
+  "slug": "photofield"
+}

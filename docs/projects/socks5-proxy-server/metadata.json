@@ -1,0 +1,25 @@
+{
+  "category": "Proxy",
+  "name": "socks5-proxy-server",
+  "url": "https://github.com/nskondratev/socks5-proxy-server",
+  "description_en": "SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Docker`",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "stargazers_count": 139,
+  "forks_count": 26,
+  "open_issues_count": 1,
+  "topics": [
+    "docker",
+    "docker-compose",
+    "self-hosted",
+    "socks5",
+    "socks5-proxy"
+  ],
+  "homepage": "",
+  "description": "SOCKS5 proxy server",
+  "updated_at": "2026-07-04T13:48:22Z",
+  "pushed_at": "2026-03-21T17:33:45Z",
+  "full_name": "nskondratev/socks5-proxy-server",
+  "readme_preview": "* Docker ([Install Docker](https://docs.docker.com/install/))\n\n- Copy *.env.example* file: `cp .env.example .env` - Fill in configuration: `nano .env`. Fields: - **APP_PORT** - proxy server port (default: 54321), - **LOG_LEVEL** - log level (default: INFO), - **REQUIRE_AUTH** - if set to 1, anonymous users are not allowed. - Start application: `docker compose up -d`\n\nIn all commands you need to call js-script in app docker container. So you need to find out container name with proxy application...",
+  "slug": "socks5-proxy-server"
+}

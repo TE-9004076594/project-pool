@@ -1,0 +1,23 @@
+{
+  "category": "Media Streaming - Audio Streaming",
+  "name": "Audioserve",
+  "url": "https://github.com/izderadicka/audioserve",
+  "description_en": "Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`",
+  "language": "Rust",
+  "license": null,
+  "stargazers_count": 843,
+  "forks_count": 40,
+  "open_issues_count": 18,
+  "topics": [
+    "audio",
+    "audiobooks",
+    "steaming"
+  ],
+  "homepage": null,
+  "description": "Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.",
+  "updated_at": "2026-07-04T22:03:58Z",
+  "pushed_at": "2026-07-04T22:03:55Z",
+  "full_name": "izderadicka/audioserve",
+  "readme_preview": "Simple personal server to serve audio files from directories. Intended primarily for audio books, but anything with decent directories structure will do. Focus here is on simplicity and minimalist design.\n\nServer is written in Rust, new web PWA client (Typescript and Svelte) is focused on modern browsers and is using rather recent functionality (Service Worker), older, less demanding web client is still around - check [Web client chapter](#web-client) for details. There is also old [Android...",
+  "slug": "audioserve"
+}

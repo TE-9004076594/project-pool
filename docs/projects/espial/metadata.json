@@ -1,0 +1,30 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "Espial",
+  "url": "https://github.com/jonschoning/espial",
+  "description_en": "An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`",
+  "language": "Haskell",
+  "license": "AGPL-3.0",
+  "stargazers_count": 892,
+  "forks_count": 32,
+  "open_issues_count": 4,
+  "topics": [
+    "bookmark",
+    "bookmarking-server",
+    "database",
+    "docker",
+    "docker-compose",
+    "haskell",
+    "i18n",
+    "multilingual",
+    "self-hosted",
+    "typescript"
+  ],
+  "homepage": "",
+  "description": " Espial is an open-source, web-based bookmarking server.",
+  "updated_at": "2026-07-04T00:32:36Z",
+  "pushed_at": "2026-07-04T05:16:14Z",
+  "full_name": "jonschoning/espial",
+  "readme_preview": "Espial is an open-source, web-based bookmarking server.\n\nIt supports multiple user accounts and is primarily intended for self-hosted deployments.\n\nBookmarks are stored in a SQLite database to keep setup and maintenance straightforward.",
+  "slug": "espial"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "Media Management",
+  "name": "Deleterr",
+  "url": "https://github.com/rfsbraz/deleterr",
+  "description_en": "Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. `MIT` `Docker`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 321,
+  "forks_count": 11,
+  "open_issues_count": 35,
+  "topics": [
+    "overseerr",
+    "plex",
+    "plex-media-server",
+    "plex-server",
+    "python",
+    "radarr",
+    "radarr-api",
+    "sonarr",
+    "sonarr-api",
+    "sonarr3",
+    "tautulli",
+    "tautulli-api"
+  ],
+  "homepage": "https://rfsbraz.github.io/deleterr/",
+  "description": "  Automated Plex media cleanup with watch-based rules, smart exclusions, and \"Leaving Soon\" notifications via Radarr, Sonarr & Tautulli.",
+  "updated_at": "2026-07-04T19:14:23Z",
+  "pushed_at": "2026-07-05T09:18:09Z",
+  "full_name": "rfsbraz/deleterr",
+  "readme_preview": "**Intelligent media library cleanup for Plex.**\n\nDeleterr uses Radarr, Sonarr, and Tautulli to identify and delete media files based on user-specified criteria like watch history, age, and streaming availability.\n\n- **Smart Exclusions** - Protect content by genre, actor, collection, streaming availability (JustWatch), Trakt lists, and more - **Watch-Based Rules** - Delete only unwatched content, or content not watched in X days - **Multi-Instance Support** - Manage multiple Radarr/Sonarr...",
+  "slug": "deleterr"
+}

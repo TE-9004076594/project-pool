@@ -1,0 +1,26 @@
+{
+  "category": "Calendar & Contacts",
+  "name": "Xandikos",
+  "url": "https://github.com/jelmer/xandikos",
+  "description_en": "Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "stargazers_count": 584,
+  "forks_count": 55,
+  "open_issues_count": 29,
+  "topics": [
+    "caldav",
+    "carddav",
+    "dulwich",
+    "git",
+    "python",
+    "webdav"
+  ],
+  "homepage": "https://www.xandikos.org/",
+  "description": "A CalDAV/CardDAV server backed by Git",
+  "updated_at": "2026-07-03T09:25:40Z",
+  "pushed_at": "2026-07-03T09:29:58Z",
+  "full_name": "jelmer/xandikos",
+  "readme_preview": "Xandikos is a lightweight yet complete CardDAV/CalDAV server that backs onto a Git repository.\n\nXandikos (Ξανδικός or Ξανθικός) takes its name from the name of the March month in the ancient Macedonian calendar, used in Macedon in the first millennium BC.\n\n.. image:: logo.png :alt: Xandikos logo :width: 200px :align: center",
+  "slug": "xandikos"
+}

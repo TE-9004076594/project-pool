@@ -1,0 +1,19 @@
+{
+  "category": "DNS",
+  "name": "Maza ad blocking",
+  "url": "https://maza-ad-blocking.andros.dev/",
+  "description_en": "Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "maza-ad-blocking"
+}

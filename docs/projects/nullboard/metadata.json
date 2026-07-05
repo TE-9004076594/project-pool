@@ -1,0 +1,19 @@
+{
+  "category": "Task Management & To-do Lists",
+  "name": "Nullboard",
+  "url": "https://github.com/apankrat/nullboard",
+  "description_en": "Single-page minimalist kanban board; compact, highly readable and quick to use. ([Demo](https://nullboard.io/preview)) `BSD-2-Clause` `Javascript`",
+  "language": "HTML",
+  "license": "NOASSERTION",
+  "stargazers_count": 4140,
+  "forks_count": 284,
+  "open_issues_count": 50,
+  "topics": [],
+  "homepage": "https://nullboard.io/preview",
+  "description": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
+  "updated_at": "2026-07-02T15:57:59Z",
+  "pushed_at": "2023-11-05T17:35:15Z",
+  "full_name": "apankrat/nullboard",
+  "readme_preview": "Nullboard is a minimalist take on a kanban board / a task list manager, designed to be compact, readable and quick in use.\n\nhttps://nullboard.io/preview\n\n![Nullboard](images/nullboard-example-alt.png)",
+  "slug": "nullboard"
+}

@@ -1,0 +1,23 @@
+{
+  "category": "Media Management",
+  "name": "YoutubeDL-Server",
+  "url": "https://github.com/nbr23/youtube-dl-server",
+  "description_en": "Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`",
+  "language": "Vue",
+  "license": "MIT",
+  "stargazers_count": 311,
+  "forks_count": 32,
+  "open_issues_count": 9,
+  "topics": [
+    "docker",
+    "self-hosted",
+    "youtube-dl"
+  ],
+  "homepage": "",
+  "description": "Web / REST interface for downloading youtube videos onto a server.",
+  "updated_at": "2026-07-03T03:02:32Z",
+  "pushed_at": "2026-07-03T03:02:28Z",
+  "full_name": "nbr23/youtube-dl-server",
+  "readme_preview": "![Docker Stars Shield](https://img.shields.io/docker/stars/nbr23/youtube-dl-server.svg?style=flat-square) ![Docker Pulls Shield](https://img.shields.io/docker/pulls/nbr23/youtube-dl-server.svg?style=flat-square)\n\nSimple Web and REST interface for downloading youtube videos onto a server.\n\nForked from [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server).",
+  "slug": "youtubedl-server"
+}

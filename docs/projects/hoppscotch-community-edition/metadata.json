@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - API Management",
+  "name": "Hoppscotch Community Edition",
+  "url": "https://hoppscotch.io",
+  "description_en": "Fast and beautiful API request builder. ([Source Code](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "hoppscotch-community-edition"
+}

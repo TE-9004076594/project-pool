@@ -1,0 +1,27 @@
+{
+  "category": "Task Management & To-do Lists",
+  "name": "Our Shopping List",
+  "url": "https://github.com/nanawel/our-shopping-list",
+  "description_en": "Simple shared list application including shopping lists and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`",
+  "language": "JavaScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 189,
+  "forks_count": 17,
+  "open_issues_count": 2,
+  "topics": [
+    "collaborative",
+    "mongodb",
+    "nodejs",
+    "pwa",
+    "todolist",
+    "vuejs",
+    "websocket"
+  ],
+  "homepage": "",
+  "description": "OSL is a simple shared list web-application based on Node and VueJS. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively.",
+  "updated_at": "2026-07-02T21:01:54Z",
+  "pushed_at": "2026-03-03T17:26:20Z",
+  "full_name": "nanawel/our-shopping-list",
+  "readme_preview": "<a href=\"https://github.com/nanawel/our-shopping-list\"> <img src=\"client/src/assets/logo.png\" alt=\"OSL logo\" title=\"Our Shopping List\" align=\"right\" height=\"120\" /> </a>\n\nOSL is a simple **shared list** application. Typical uses include **shopping lists** of course, and any other small todo-list that needs to be used **collaboratively**.\n\n<p align=\"center\"><img src=\"doc/osl-usage.gif\" height=\"400\" /></p>",
+  "slug": "our-shopping-list"
+}

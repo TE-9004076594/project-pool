@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Webmail Clients",
+  "name": "SquirrelMail",
+  "url": "https://squirrelmail.org",
+  "description_en": "Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "squirrelmail"
+}

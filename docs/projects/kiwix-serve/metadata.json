@@ -1,0 +1,26 @@
+{
+  "category": "Document Management - E-books",
+  "name": "kiwix-serve",
+  "url": "https://github.com/kiwix/kiwix-tools",
+  "description_en": "HTTP daemon for serving wikis from ZIM files. `GPL-3.0` `C++`",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "stargazers_count": 882,
+  "forks_count": 134,
+  "open_issues_count": 48,
+  "topics": [
+    "daemon",
+    "http",
+    "kiwix",
+    "library",
+    "offline",
+    "zim"
+  ],
+  "homepage": "https://download.kiwix.org/release/kiwix-tools/",
+  "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
+  "updated_at": "2026-07-04T22:53:19Z",
+  "pushed_at": "2026-03-02T08:23:51Z",
+  "full_name": "kiwix/kiwix-tools",
+  "readme_preview": "Kiwix tools ===========\n\nThe Kiwix tools is a collection of [Kiwix](https://kiwix.org) related command line tools: * kiwix-manage: Manage XML based library of ZIM files * kiwix-search: Full text search in ZIM files * kiwix-serve: HTTP daemon serving ZIM files\n\nDisclaimer",
+  "slug": "kiwix-serve"
+}

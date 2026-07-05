@@ -1,0 +1,24 @@
+{
+  "category": "Pastebins",
+  "name": "Snipo",
+  "url": "https://github.com/MohamedElashri/snipo",
+  "description_en": "Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync. ([Demo](https://snipo.melashri.dev/)) `AGPL-3.0` `Go/Docker`",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "stargazers_count": 63,
+  "forks_count": 1,
+  "open_issues_count": 3,
+  "topics": [
+    "snippet",
+    "snippets",
+    "snippets-manager",
+    "user-snippets"
+  ],
+  "homepage": "https://snipo.melashri.dev",
+  "description": "Single user snippet manager web app. ",
+  "updated_at": "2026-07-05T08:47:31Z",
+  "pushed_at": "2026-07-05T08:49:38Z",
+  "full_name": "MohamedElashri/snipo",
+  "readme_preview": "Snipo is a lightweight, self-hosted snippet manager for a single user.\n\n> Snipo does not provide user accounts or tenant isolation. One master password > protects the instance.\n\n<p align=\"center\"> <img src=\"docs/demo.png\" alt=\"Snipo web interface\" width=\"800\"> </p>",
+  "slug": "snipo"
+}

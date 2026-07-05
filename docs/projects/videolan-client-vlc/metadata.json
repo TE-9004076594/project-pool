@@ -1,0 +1,19 @@
+{
+  "category": "Media Streaming - Video Streaming",
+  "name": "VideoLAN Client (VLC)",
+  "url": "https://www.videolan.org/",
+  "description_en": "Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code](https://code.videolan.org/videolan/vlc)) `GPL-2.0` `C/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "videolan-client-vlc"
+}

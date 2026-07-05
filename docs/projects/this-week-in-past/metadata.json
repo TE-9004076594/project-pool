@@ -1,0 +1,19 @@
+{
+  "category": "Photo Galleries",
+  "name": "This week in past",
+  "url": "https://github.com/RouHim/this-week-in-past",
+  "description_en": "Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`",
+  "language": "Rust",
+  "license": "MIT",
+  "stargazers_count": 100,
+  "forks_count": 6,
+  "open_issues_count": 13,
+  "topics": [],
+  "homepage": "",
+  "description": "Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. ",
+  "updated_at": "2026-07-02T12:52:54Z",
+  "pushed_at": "2026-07-02T14:50:28Z",
+  "full_name": "RouHim/this-week-in-past",
+  "readme_preview": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/RouHim/this-week-in-past/main/.github/readme/banner.png\" width=\"500\"> </p>\n\n<p align=\"center\"> <a href=\"https://github.com/RouHim/this-week-in-past/actions/workflows/build-image.yaml\"><img src=\"https://github.com/RouHim/this-week-in-past/actions/workflows/build-image.yaml/badge.svg\" alt=\"CI\"></a> <a href=\"https://github.com/RouHim/this-week-in-past/actions/workflows/scheduled-security-audit.yaml\"><img...",
+  "slug": "this-week-in-past"
+}

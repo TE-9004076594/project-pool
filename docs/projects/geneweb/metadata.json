@@ -1,0 +1,19 @@
+{
+  "category": "Genealogy",
+  "name": "GeneWeb",
+  "url": "https://geneweb.tuxfamily.org/wiki/GeneWeb",
+  "description_en": "Genealogy software that can be used offline or as a Web service. ([Source Code](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "geneweb"
+}

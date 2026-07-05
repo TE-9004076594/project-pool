@@ -1,0 +1,19 @@
+{
+  "category": "Customer Relationship Management (CRM)",
+  "name": "Django-CRM",
+  "url": "https://DjangoCRM.github.io/info/",
+  "description_en": "Analytical CRM with tasks management, email marketing and many more. Django CRM is built for individual use, businesses of any size or freelancers and is designed to provide easy customization and quick development. ([Source Code](https://github.com/DjangoCRM/django-crm)) `AGPL-3.0` `Python`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "django-crm"
+}

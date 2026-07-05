@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "QuickShare",
+  "url": "https://ihexxa.github.io/quickshare.site/",
+  "description_en": "Quick and simple file sharing between different devices. ([Source Code](https://github.com/ihexxa/quickshare)) `LGPL-3.0` `Docker/Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "quickshare"
+}

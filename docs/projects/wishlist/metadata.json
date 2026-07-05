@@ -1,0 +1,32 @@
+{
+  "category": "Miscellaneous",
+  "name": "Wishlist",
+  "url": "https://github.com/cmintey/wishlist",
+  "description_en": "Wishlist application that you can share with your friends and family. `MIT` `Docker/K8S`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 588,
+  "forks_count": 50,
+  "open_issues_count": 54,
+  "topics": [
+    "christmas",
+    "family",
+    "friends",
+    "gift",
+    "gifts",
+    "holday",
+    "holidays",
+    "registry",
+    "self-hosted",
+    "selfhosted",
+    "wish",
+    "wishlist"
+  ],
+  "homepage": "",
+  "description": "Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!",
+  "updated_at": "2026-07-01T20:34:58Z",
+  "pushed_at": "2026-06-29T12:43:23Z",
+  "full_name": "cmintey/wishlist",
+  "readme_preview": "<div align=\"center\"> <img src=\"./src/lib/assets/logo.png\" width=\"200\" /> <h1>Wishlist</h1> <p> A sharable wishlist for your friends and family </p> </div>\n\nWishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your parents for the holidays, simply check their wishlist and claim any available item. With a simple user interface, even the grandparents can get involved!\n\n- [x] Claim items on a wishlist - [x] Check...",
+  "slug": "wishlist"
+}

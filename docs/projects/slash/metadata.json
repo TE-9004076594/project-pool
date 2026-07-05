@@ -1,0 +1,27 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "Slash",
+  "url": "https://github.com/yourselfhosted/slash",
+  "description_en": "An open source, self-hosted bookmarks and link sharing platform. `GPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 3164,
+  "forks_count": 147,
+  "open_issues_count": 42,
+  "topics": [
+    "bookmarks",
+    "go",
+    "link-sharing",
+    "react",
+    "self-hosted",
+    "slash",
+    "sqlite"
+  ],
+  "homepage": "",
+  "description": "An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.",
+  "updated_at": "2026-07-02T15:59:04Z",
+  "pushed_at": "2026-03-01T10:43:30Z",
+  "full_name": "yourselfhosted/slash",
+  "readme_preview": "**Slash** is an open source, self-hosted platform designed to help you organize, manage, and share your most important links. Easily create customizable, human-readable shortcuts to streamline your link management. Use tags to categorize your links and share them easily with your team or publicly.\n\n🧩 Browser extension(v1.0.0) now available! - [Chrome Web Store](https://chrome.google.com/webstore/detail/slash/ebaiehmkammnacjadffpicipfckgeobg), [Firefox...",
+  "slug": "slash"
+}

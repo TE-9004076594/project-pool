@@ -1,0 +1,26 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "Shiori",
+  "url": "https://github.com/go-shiori/shiori",
+  "description_en": "Simple bookmark manager built with Go. `MIT` `Go/Docker`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 11530,
+  "forks_count": 622,
+  "open_issues_count": 113,
+  "topics": [
+    "bookmark-manager",
+    "command-line",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "web-interface"
+  ],
+  "homepage": "",
+  "description": "Simple bookmark manager built with Go",
+  "updated_at": "2026-07-05T16:38:01Z",
+  "pushed_at": "2026-02-01T10:14:02Z",
+  "full_name": "go-shiori/shiori",
+  "readme_preview": "**Check out our latest [Announcements](https://github.com/go-shiori/shiori/discussions/categories/announcements)**\n\nShiori is a simple bookmarks manager written in the Go language. Intended as a simple clone of [Pocket][pocket]. You can use it as a command line application or as a web application. This application is distributed as a single binary, which means it can be installed and used easily.\n\n![Screenshot][screenshot]",
+  "slug": "shiori"
+}

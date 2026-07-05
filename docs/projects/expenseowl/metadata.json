@@ -1,0 +1,32 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "ExpenseOwl",
+  "url": "https://github.com/tanq16/expenseowl",
+  "description_en": "Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`",
+  "language": "HTML",
+  "license": "MIT",
+  "stargazers_count": 1451,
+  "forks_count": 135,
+  "open_issues_count": 57,
+  "topics": [
+    "chartjs",
+    "docker",
+    "expense-manager",
+    "expense-tracker",
+    "finance",
+    "finance-management",
+    "finance-tracker",
+    "go",
+    "golang",
+    "homelab",
+    "personal-finance",
+    "self-hosted"
+  ],
+  "homepage": "",
+  "description": "Extremely simple, self-hosted expense tracker with a beautiful UI.",
+  "updated_at": "2026-07-04T14:22:14Z",
+  "pushed_at": "2025-10-18T14:33:23Z",
+  "full_name": "Tanq16/ExpenseOwl",
+  "readme_preview": "<p align=\"center\"> <img src=\"/assets/logo.png\" alt=\"ExpenseOwl Logo\" width=\"200\" height=\"200\" /><br> </p>\n\n<h1 align=\"center\">ExpenseOwl</h1><br>\n\n<p align=\"center\"> <a href=\"https://github.com/tanq16/expenseowl/actions/workflows/release.yml\"><img src=\"https://github.com/tanq16/expenseowl/actions/workflows/release.yml/badge.svg\" alt=\"Release\"></a>&nbsp;<a href=\"https://github.com/Tanq16/expenseowl/releases\"><img alt=\"GitHub Release\"...",
+  "slug": "expenseowl"
+}

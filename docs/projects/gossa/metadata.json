@@ -1,0 +1,29 @@
+{
+  "category": "File Transfer - Web-based File Managers",
+  "name": "Gossa",
+  "url": "https://github.com/pldubouilh/gossa",
+  "description_en": "Light and simple webserver for your files. `MIT` `Go`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 1094,
+  "forks_count": 81,
+  "open_issues_count": 19,
+  "topics": [
+    "data-hoarder",
+    "fileserver",
+    "filesharing",
+    "golang",
+    "homelab",
+    "homeserver",
+    "pwa",
+    "self-hosted",
+    "server"
+  ],
+  "homepage": "",
+  "description": "🎶 a fast and simple multimedia fileserver",
+  "updated_at": "2026-06-28T00:29:52Z",
+  "pushed_at": "2025-07-21T08:43:26Z",
+  "full_name": "pldubouilh/gossa",
+  "readme_preview": "gossa =============\n\n![e](https://user-images.githubusercontent.com/760637/71449335-790a4200-274a-11ea-80be-4c536fbad8a1.gif)\n\na fast and simple webserver for your files, that's dependency-free and with under 250 lines of code, easy to review.",
+  "slug": "gossa"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Network Utilities",
+  "name": "Speedtest Tracker",
+  "url": "https://docs.speedtest-tracker.dev/",
+  "description_en": "Monitor the performance and uptime of your internet connection. ([Source Code](https://github.com/alexjustesen/speedtest-tracker)) `MIT` `Docker/K8S`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "speedtest-tracker"
+}

@@ -1,0 +1,23 @@
+{
+  "category": "Communication - IRC",
+  "name": "Glowing Bear",
+  "url": "https://github.com/glowing-bear/glowing-bear",
+  "description_en": "A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 974,
+  "forks_count": 183,
+  "open_issues_count": 160,
+  "topics": [
+    "irc",
+    "websocket",
+    "weechat"
+  ],
+  "homepage": "https://www.glowing-bear.org",
+  "description": "A web client for WeeChat",
+  "updated_at": "2026-06-23T18:09:35Z",
+  "pushed_at": "2026-06-05T16:54:48Z",
+  "full_name": "glowing-bear/glowing-bear",
+  "readme_preview": "Glowing Bear is a web frontend for the [WeeChat](https://weechat.org) IRC client and strives to be a modern interface. It relies on WeeChat to do all the heavy lifting and then provides some nice features on top of that, like embedding images, videos, and other content. The best part, however, is that you can use it from any modern internet device -- whether it's a computer, tablet, or smart phone -- and all your stuff is there, wherever you are. You don't have to deal with the messy technical...",
+  "slug": "glowing-bear"
+}

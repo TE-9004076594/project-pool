@@ -1,0 +1,24 @@
+{
+  "category": "Analytics",
+  "name": "EDA",
+  "url": "https://github.com/jortilles/EDA",
+  "description_en": "Web application for data analysis and visualization. `AGPL-3.0` `Nodejs/Docker`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 200,
+  "forks_count": 26,
+  "open_issues_count": 14,
+  "topics": [
+    "analytics",
+    "business-analytics",
+    "business-intelligence",
+    "data-visualization"
+  ],
+  "homepage": "https://www.edalitics.com",
+  "description": "Edalitics is an open-source business intelligence platform that lets you build interactive dashboards, analyze data from multiple sources, and connect AI assistants to your business data in minutes.",
+  "updated_at": "2026-07-03T08:20:48Z",
+  "pushed_at": "2026-07-03T11:18:48Z",
+  "full_name": "jortilles/EDA",
+  "readme_preview": "Edalitics (previously Enterprise Data Analytics) is an open-source analytics and dashboarding platform created by Jortilles. Its purpose is to make data exploration and visualization extremely easy — even for non-technical users — while still offering powerful features for advanced analysts.\n\n![Edalitics Sample](https://www.edalitics.com/wp-content/uploads/2025/10/animated.gif)\n\nEdalitics is a metadata-driven analytical tool: 1. Create a [data model](https://youtu.be/Px709s0ftiI) 2. Create nice...",
+  "slug": "eda"
+}

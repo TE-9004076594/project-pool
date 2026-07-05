@@ -1,0 +1,30 @@
+{
+  "category": "Pastebins",
+  "name": "Chiyogami",
+  "url": "https://github.com/rhee876527/chiyogami",
+  "description_en": "Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. ([Demo](https://chiyogami.myaddr.dev/)) `BSD-3-Clause` `Docker`",
+  "language": "HTML",
+  "license": "BSD-3-Clause",
+  "stargazers_count": 74,
+  "forks_count": 4,
+  "open_issues_count": 0,
+  "topics": [
+    "codesnippets",
+    "golang",
+    "heroicons",
+    "javascript",
+    "pastebin",
+    "rest-api",
+    "self-hosted",
+    "sqlite",
+    "tailwindcss",
+    "webcrypto"
+  ],
+  "homepage": "https://chiyogami.myaddr.dev",
+  "description": "Yet another pastebin",
+  "updated_at": "2026-07-04T09:18:29Z",
+  "pushed_at": "2026-07-04T09:18:25Z",
+  "full_name": "rhee876527/chiyogami",
+  "readme_preview": "![screen-1](https://github.com/user-attachments/assets/5985f94d-4e35-4479-bc57-726e7cfb4577) ![screen-2](https://github.com/user-attachments/assets/0918a641-bf50-4d26-971a-39d7e9876a6d) ![screen-3](https://github.com/user-attachments/assets/95532b56-9e2f-447f-8c9c-cdbe4119fa59)\n\n✨ **Features**\n\n- ✔ Beautiful & Responsive UI — Built with TailwindCSS & DaisyUI for a clean and modern look. - 🖍 Syntax Highlighting — Automatic formatting with HighlightJS. - 📝 Markdown Rendering — Automatic...",
+  "slug": "chiyogami"
+}

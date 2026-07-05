@@ -1,0 +1,30 @@
+{
+  "category": "Media Management",
+  "name": "yt-dlp Web UI",
+  "url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
+  "description_en": "Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "stargazers_count": 2500,
+  "forks_count": 242,
+  "open_issues_count": 101,
+  "topics": [
+    "download-manager",
+    "golang",
+    "raspberrypi",
+    "rpc-server",
+    "self-hosted",
+    "webui",
+    "youtube-dl",
+    "yt-dlp",
+    "yt-dlp-rpc",
+    "yt-dlp-wrapper"
+  ],
+  "homepage": "",
+  "description": "A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.",
+  "updated_at": "2026-07-05T14:50:02Z",
+  "pushed_at": "2026-06-29T17:06:18Z",
+  "full_name": "marcopiovanello/yt-dlp-web-ui",
+  "readme_preview": "> [!CAUTION] > Unsupervised AI code is prohibited in this repo.\n\n> [!NOTE] > Read before updating to v4 > Server v4 migration guide https://github.com/marcopiovanello/yt-dlp-web-ui/wiki/Migrate-to-v4\n\n> [!NOTE] > A poll is up to decide the future of yt-dlp-web-ui frontend! If you're interested you can take part. > https://github.com/marcopiovanello/yt-dlp-web-ui/discussions/223",
+  "slug": "yt-dlp-web-ui"
+}

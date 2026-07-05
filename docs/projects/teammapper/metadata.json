@@ -1,0 +1,30 @@
+{
+  "category": "Knowledge Management Tools",
+  "name": "TeamMapper",
+  "url": "https://github.com/b310-digital/teammapper",
+  "description_en": "Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 473,
+  "forks_count": 41,
+  "open_issues_count": 25,
+  "topics": [
+    "brainstorming",
+    "collaboration",
+    "collaborative",
+    "javascript",
+    "mindmap",
+    "mindmapping",
+    "mindmaps",
+    "multi-user",
+    "nestjs",
+    "school"
+  ],
+  "homepage": "https://teammapper.org",
+  "description": "Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.",
+  "updated_at": "2026-06-25T01:34:10Z",
+  "pushed_at": "2026-06-21T17:03:00Z",
+  "full_name": "b310-digital/teammapper",
+  "readme_preview": "![TeamMapper Screenshot](docs/teammapper-logo.png \"TeamMapper Logo\")\n\nMindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.\n\nTeamMapper is based on mindmapp (https://github.com/cedoor/mindmapp , discontinued). In contrast to mindmapp, TeamMapper features shared mindmapping sessions for your team based on websockets. Try it: [TeamMapper.org](https://teammapper.org)",
+  "slug": "teammapper"
+}

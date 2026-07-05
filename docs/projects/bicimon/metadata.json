@@ -1,0 +1,26 @@
+{
+  "category": "Maps and Global Positioning System (GPS)",
+  "name": "Bicimon",
+  "url": "https://github.com/knrdl/bicimon",
+  "description_en": "Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`",
+  "language": "HTML",
+  "license": "MIT",
+  "stargazers_count": 62,
+  "forks_count": 10,
+  "open_issues_count": 1,
+  "topics": [
+    "alpinejs",
+    "bike",
+    "bulma",
+    "geolocation",
+    "pwa",
+    "speedometer"
+  ],
+  "homepage": "",
+  "description": "Bike Speedometer",
+  "updated_at": "2026-05-20T14:58:34Z",
+  "pushed_at": "2022-04-17T08:47:24Z",
+  "full_name": "knrdl/bicimon",
+  "readme_preview": "* No tracking (except geolocation obviously) * No data storage * No bullshit * PWA ready",
+  "slug": "bicimon"
+}

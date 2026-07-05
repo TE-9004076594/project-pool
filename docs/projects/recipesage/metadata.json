@@ -1,0 +1,19 @@
+{
+  "category": "Recipe Management",
+  "name": "RecipeSage",
+  "url": "https://github.com/julianpoy/recipesage",
+  "description_en": "A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`",
+  "language": "TypeScript",
+  "license": null,
+  "stargazers_count": 909,
+  "forks_count": 92,
+  "open_issues_count": 19,
+  "topics": [],
+  "homepage": "https://recipesage.com",
+  "description": "A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.",
+  "updated_at": "2026-07-04T17:40:51Z",
+  "pushed_at": "2026-07-05T13:23:58Z",
+  "full_name": "julianpoy/RecipeSage",
+  "readme_preview": "<a href=\"https://recipesage.com\"><img align=\"left\" width=\"100\" height=\"100\" src=\"packages/frontend/src/assets/imgs/logo_green.png\"></img></a>\n\nShare and collaborate on recipes, manage household shopping lists and meal planning, and import recipes from anywhere on the web instantly.\n\n<a href=\"https://docs.recipesage.com\">Documentation</a> | <a href=\"https://recipesage.com\">Hosted Version</a> | <a href=\"https://github.com/julianpoy/recipesage-selfhost\">Selfhost Resources</a>",
+  "slug": "recipesage"
+}

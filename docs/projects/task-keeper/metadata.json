@@ -1,0 +1,23 @@
+{
+  "category": "Task Management & To-do Lists",
+  "name": "Task Keeper",
+  "url": "https://github.com/nymanjens/piga",
+  "description_en": "List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`",
+  "language": "Scala",
+  "license": "NOASSERTION",
+  "stargazers_count": 101,
+  "forks_count": 1,
+  "open_issues_count": 1,
+  "topics": [
+    "selfhosted",
+    "todolist",
+    "website"
+  ],
+  "homepage": "",
+  "description": "List editor for power users, backed by a self-hosted server",
+  "updated_at": "2026-06-27T16:57:26Z",
+  "pushed_at": "2026-04-11T14:02:29Z",
+  "full_name": "nymanjens/piga",
+  "readme_preview": "Task Keeper ===========\n\nThis project aims to be a list editor for power users.\n\nExample use cases:",
+  "slug": "task-keeper"
+}

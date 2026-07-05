@@ -1,0 +1,31 @@
+{
+  "category": "Media Management",
+  "name": "Medusa",
+  "url": "https://github.com/pymedusa/Medusa",
+  "description_en": "Automatic Video library manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Clients](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "stargazers_count": 1966,
+  "forks_count": 287,
+  "open_issues_count": 525,
+  "topics": [
+    "episodes",
+    "mediainfo",
+    "medusa",
+    "metadata",
+    "nzb",
+    "series",
+    "shows",
+    "subtitle",
+    "torrent",
+    "trakt",
+    "tv"
+  ],
+  "homepage": "https://pymedusa.com",
+  "description": "Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.",
+  "updated_at": "2026-07-05T16:08:26Z",
+  "pushed_at": "2026-07-05T14:29:50Z",
+  "full_name": "pymedusa/Medusa",
+  "readme_preview": "<p align=\"center\"> <img src=\"https://cdn.rawgit.com/pymedusa/medusa.github.io/4360d494/images/logo/new-logo.png\"/> </p> <p align=\"center\" title=\"Build Status\"> <a href=\"https://travis-ci.com/github/pymedusa/Medusa\"> <img src=\"https://api.travis-ci.com/pymedusa/Medusa.svg?branch=develop\" alt=\"\"/> </a> <a href=\"http://isitmaintained.com/project/pymedusa/Medusa\" title=\"Average time to resolve an issue\"> <img src=\"http://isitmaintained.com/badge/resolution/pymedusa/Medusa.svg\" alt=\"Average time to...",
+  "slug": "medusa"
+}

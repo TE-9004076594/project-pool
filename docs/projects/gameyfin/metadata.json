@@ -1,0 +1,19 @@
+{
+  "category": "Games - Administrative Utilities & Control Panels",
+  "name": "Gameyfin",
+  "url": "https://gameyfin.org",
+  "description_en": "Video game library manager with automatic scanning, web access, downloads, and plugin support. ([Source Code](https://github.com/gameyfin/gameyfin)) `AGPL-3.0` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "gameyfin"
+}

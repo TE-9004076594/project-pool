@@ -1,0 +1,29 @@
+{
+  "category": "Media Streaming - Audio Streaming",
+  "name": "Black Candy",
+  "url": "https://github.com/blackcandy-org/blackcandy",
+  "description_en": "Music streaming server. `MIT` `Docker/Ruby`",
+  "language": "Ruby",
+  "license": "MIT",
+  "stargazers_count": 4312,
+  "forks_count": 216,
+  "open_issues_count": 34,
+  "topics": [
+    "audio",
+    "hotwire",
+    "music",
+    "music-player",
+    "music-streaming",
+    "musicplayer",
+    "rails",
+    "ruby",
+    "self-hosted"
+  ],
+  "homepage": "",
+  "description": "A self hosted music streaming server",
+  "updated_at": "2026-07-05T05:25:14Z",
+  "pushed_at": "2026-06-30T12:12:23Z",
+  "full_name": "blackcandy-org/blackcandy",
+  "readme_preview": "<p align='center'> <img alt='Black Candy logo' width='200' src='https://raw.githubusercontent.com/blackcandy-org/black_candy/master/app/assets/images/logo.svg'> </p>\n\n![Docker Pulls](https://img.shields.io/docker/pulls/blackcandy/blackcandy)\n\n![Screenshot](https://raw.githubusercontent.com/blackcandy-org/blackcandy/master/docs/images/screenshot_main.png)",
+  "slug": "black-candy"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Communication - SIP",
+  "name": "Kamailio",
+  "url": "https://www.kamailio.org/w/",
+  "description_en": "Modular SIP server (registrar/proxy/router/etc). ([Source Code](https://github.com/kamailio/kamailio)) `GPL-2.0` `C/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "kamailio"
+}

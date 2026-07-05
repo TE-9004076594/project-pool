@@ -1,0 +1,25 @@
+{
+  "category": "Automation",
+  "name": "Cronmaster",
+  "url": "https://github.com/fccview/cronmaster",
+  "description_en": "Cronjob management UI with human readable syntax, live logging and log history for your cronjobs. `AGPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 1291,
+  "forks_count": 31,
+  "open_issues_count": 14,
+  "topics": [
+    "cronjob",
+    "cronjob-scheduler",
+    "cronjobs",
+    "task-runner",
+    "task-scheduler"
+  ],
+  "homepage": "",
+  "description": "Cronjob management UI with human readable syntax, live logging and log history for your cronjobs.",
+  "updated_at": "2026-07-05T05:39:10Z",
+  "pushed_at": "2026-05-27T12:06:44Z",
+  "full_name": "fccview/cronmaster",
+  "readme_preview": "<p align=\"center\"> <img src=\"public/heading.png\"> </p>\n\n- [Features](#features) - [Quick Start](#quick-start) - [Using Docker (Recommended)](#using-docker-recommended) - [API](#api) - [Single Sign-On (SSO) with OIDC](#single-sign-on-sso-with-oidc) - [Localization](#localization) - [Local Development](#local-development) - [Environment Variables](howto/ENV_VARIABLES.md) - [Authentication](#authentication) - [Usage](#usage) - [Viewing System Information](#viewing-system-information) - [Managing...",
+  "slug": "cronmaster"
+}

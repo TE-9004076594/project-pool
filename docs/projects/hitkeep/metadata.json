@@ -1,0 +1,19 @@
+{
+  "category": "Analytics",
+  "name": "HitKeep",
+  "url": "https://hitkeep.com/",
+  "description_en": "Privacy-first web analytics with goals, funnels, ecommerce tracking, and team management in a single binary with embedded DuckDB (alternative to Google Analytics, Plausible, Umami). ([Source Code](https://github.com/pascalebeier/hitkeep)) `MIT` `Go/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "hitkeep"
+}

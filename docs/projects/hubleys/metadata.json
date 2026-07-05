@@ -1,0 +1,25 @@
+{
+  "category": "Personal Dashboards",
+  "name": "Hubleys",
+  "url": "https://github.com/knrdl/hubleys-dashboard",
+  "description_en": "Personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 117,
+  "forks_count": 9,
+  "open_issues_count": 2,
+  "topics": [
+    "authelia",
+    "dashboard-application",
+    "personal-dashboard",
+    "sveltekit",
+    "tailwindcss"
+  ],
+  "homepage": "",
+  "description": "Hubleys Brave New Dashboard",
+  "updated_at": "2026-07-04T13:55:03Z",
+  "pushed_at": "2026-07-04T14:36:53Z",
+  "full_name": "knrdl/hubleys-dashboard",
+  "readme_preview": "So you run a bunch of self-hosted services for multiple users but are tired of handing out links? No problem, Hubleys got you covered.\n\n- separate dashboard per user, according to their groups/permissions - all dashboard contents are predefined by the admin(s) - dashboard features: - link tiles, organized by folders - search engines with autocomplete - upcoming calendar events - show messages to the users - customizable & dynamic backgrounds - current weather & forecast - clock, stopwatch,...",
+  "slug": "hubleys"
+}

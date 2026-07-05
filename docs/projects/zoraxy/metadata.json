@@ -1,0 +1,19 @@
+{
+  "category": "Web Servers",
+  "name": "Zoraxy",
+  "url": "https://zoraxy.aroz.org/",
+  "description_en": "General purpose HTTP reverse proxy and forwarding tool. ([Source Code](https://github.com/tobychui/zoraxy)) `AGPL-3.0` `Go/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "zoraxy"
+}

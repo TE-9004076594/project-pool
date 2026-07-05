@@ -1,0 +1,22 @@
+{
+  "category": "URL Shorteners",
+  "name": "Simple-URL-Shortener",
+  "url": "https://github.com/azlux/Simple-URL-Shortener",
+  "description_en": "KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`",
+  "language": "PHP",
+  "license": "MIT",
+  "stargazers_count": 58,
+  "forks_count": 16,
+  "open_issues_count": 2,
+  "topics": [
+    "php",
+    "url-shortner"
+  ],
+  "homepage": "https://git.azlux.fr/Azlux/Simple-URL-Shortener",
+  "description": "GIT MIRROR: url shortener written in php (with MySQL or SQLite) with history by users",
+  "updated_at": "2026-05-11T08:06:09Z",
+  "pushed_at": "2025-08-28T12:41:07Z",
+  "full_name": "azlux/Simple-URL-Shortener",
+  "readme_preview": "I don't really use this project anymore, so I will not improve this project.\n\nFor me, this project is finished and feature completed, since I want a REALLY simple URL shortener.\n\nIf you want improvements, fell free to fork it. If I see a new good fork, I will write it here. If you want a better shortener, you can search on the [awesome-selfhosted page](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#url-shorteners)",
+  "slug": "simple-url-shortener"
+}

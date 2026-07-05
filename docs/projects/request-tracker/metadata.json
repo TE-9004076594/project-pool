@@ -1,0 +1,19 @@
+{
+  "category": "Ticketing",
+  "name": "Request Tracker",
+  "url": "https://www.bestpractical.com/rt/",
+  "description_en": "Enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "request-tracker"
+}

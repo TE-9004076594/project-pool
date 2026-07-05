@@ -1,0 +1,19 @@
+{
+  "category": "Note-taking & Editors",
+  "name": "Standard Notes",
+  "url": "https://docs.standardnotes.com/self-hosting/getting-started",
+  "description_en": "Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://app.standardnotes.com/), [Source Code](https://github.com/standardnotes/app)) `GPL-3.0` `Ruby`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "standard-notes"
+}

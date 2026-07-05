@@ -1,0 +1,19 @@
+{
+  "category": "Feed Readers",
+  "name": "Kriss Feed",
+  "url": "https://github.com/tontof/kriss_feed",
+  "description_en": "Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`",
+  "language": "PHP",
+  "license": null,
+  "stargazers_count": 289,
+  "forks_count": 54,
+  "open_issues_count": 62,
+  "topics": [],
+  "homepage": null,
+  "description": "A simple and smart (or stupid) feed reader",
+  "updated_at": "2026-06-22T17:02:40Z",
+  "pushed_at": "2026-01-07T05:17:39Z",
+  "full_name": "tontof/kriss_feed",
+  "readme_preview": "kriss_feed (version 8) ======================\n\nA simple and smart (or stupid) feed reader.\n\nAn example is available on [tontof.net](http://tontof.net/feed).",
+  "slug": "kriss-feed"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Feed Readers",
+  "name": "RSS2EMail",
+  "url": "https://github.com/rss2email/rss2email",
+  "description_en": "Fetches RSS/Atom-feeds and pushes new content to any email-receiver, supports OPML. `GPL-2.0` `Python/deb`",
+  "language": "Python",
+  "license": "GPL-2.0",
+  "stargazers_count": 451,
+  "forks_count": 73,
+  "open_issues_count": 66,
+  "topics": [],
+  "homepage": "https://pypi.org/project/rss2email/",
+  "description": "Forward RSS feeds to your email address, community maintained",
+  "updated_at": "2026-07-03T01:28:41Z",
+  "pushed_at": "2025-04-17T23:41:11Z",
+  "full_name": "rss2email/rss2email",
+  "readme_preview": ".. -*- coding: utf-8 -*-\n\n.. image:: https://img.shields.io/pypi/dm/rss2email :target: https://pypi.python.org/pypi/rss2email/ :alt: Monthly Downloads\n\n.. image:: https://badge.fury.io/py/rss2email.svg :target: https://pypi.python.org/pypi/rss2email/ :alt: Latest Version",
+  "slug": "rss2email"
+}

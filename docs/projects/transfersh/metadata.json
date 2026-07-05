@@ -1,0 +1,27 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "transfer.sh",
+  "url": "https://github.com/dutchcoders/transfer.sh",
+  "description_en": "Easy file sharing from the command line. `MIT` `Go`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 15865,
+  "forks_count": 1583,
+  "open_issues_count": 62,
+  "topics": [
+    "docker",
+    "golang",
+    "hacktoberfest",
+    "hacktoberfest2021",
+    "share",
+    "transfer",
+    "transfersh"
+  ],
+  "homepage": "https://github.com/dutchcoders/transfer.sh",
+  "description": "Easy and fast file sharing from the command-line.",
+  "updated_at": "2026-07-05T12:31:53Z",
+  "pushed_at": "2026-06-13T14:59:17Z",
+  "full_name": "dutchcoders/transfer.sh",
+  "readme_preview": "IP filter and HTTP auth bypass via unauthenticated X-Forwarded-For header spoofing\n\nEasy and fast file sharing from the command-line. This code contains the server with everything you need to create your own instance.\n\nTransfer.sh currently supports the s3 (Amazon S3), gdrive (Google Drive), storj (Storj) providers, and local file system (local).",
+  "slug": "transfersh"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Media Streaming - Multimedia Streaming",
+  "name": "Karaoke Eternal",
+  "url": "https://www.karaoke-eternal.com",
+  "description_en": "Host awesome karaoke parties where everyone can easily find and queue songs from their phone's browser. The player is also fully browser-based with support for MP3+G, MP4 and WebGL visualizations. ([Source Code](https://github.com/bhj/KaraokeEternal)) `ISC` `Docker/Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "karaoke-eternal"
+}

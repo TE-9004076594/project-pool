@@ -1,0 +1,31 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "Buku",
+  "url": "https://github.com/jarun/Buku",
+  "description_en": "Powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "stargazers_count": 7157,
+  "forks_count": 315,
+  "open_issues_count": 3,
+  "topics": [
+    "bookmark",
+    "bookmark-manager",
+    "bookmarks",
+    "cli",
+    "command-line",
+    "console",
+    "organizer",
+    "privacy-aware",
+    "search",
+    "standalone",
+    "terminal"
+  ],
+  "homepage": "",
+  "description": ":bookmark: Personal mini-web in text",
+  "updated_at": "2026-07-05T14:53:03Z",
+  "pushed_at": "2026-07-03T15:34:08Z",
+  "full_name": "jarun/buku",
+  "readme_preview": "<h1 align=\"center\">buku</h1>\n\n<p align=\"center\"> <a href=\"https://github.com/jarun/buku/releases/latest\"><img src=\"https://img.shields.io/github/release/jarun/buku.svg?maxAge=600\" alt=\"Latest release\" /></a> <a href=\"https://repology.org/project/buku/versions\"><img src=\"https://repology.org/badge/tiny-repos/buku.svg?header=repos\" alt=\"Availability\"></a> <a href=\"https://pypi.org/project/buku/\"><img src=\"https://img.shields.io/pypi/v/buku.svg?maxAge=600\" alt=\"PyPI\" /></a> <a...",
+  "slug": "buku"
+}

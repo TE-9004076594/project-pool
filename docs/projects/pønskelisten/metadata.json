@@ -1,0 +1,31 @@
+{
+  "category": "Miscellaneous",
+  "name": "Pønskelisten",
+  "url": "https://github.com/aunefyren/poenskelisten",
+  "description_en": "Sharing wishlists and collaborating on gifts and presents. `GPL-3.0` `Docker/Go`",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "stargazers_count": 192,
+  "forks_count": 9,
+  "open_issues_count": 11,
+  "topics": [
+    "api",
+    "application",
+    "christmas",
+    "docker",
+    "go",
+    "holidays",
+    "planning",
+    "presents",
+    "self-hosting",
+    "website",
+    "wishlists"
+  ],
+  "homepage": "",
+  "description": "A self-hosted application for sharing wishlists and collaborating on gifts and presents.",
+  "updated_at": "2026-06-17T12:58:55Z",
+  "pushed_at": "2026-07-03T22:09:51Z",
+  "full_name": "aunefyren/poenskelisten",
+  "readme_preview": "<br>\n\nLike the project? Have too much money? Buy me a coffee or something! ☕️\n\nA self-hosted web app for creating, sharing and collaborating on wishlists - *without ruining the surprise*. Share gift ideas, see which ones are already taken, and avoid the awkward “oh… you also bought that…” moment.",
+  "slug": "pønskelisten"
+}

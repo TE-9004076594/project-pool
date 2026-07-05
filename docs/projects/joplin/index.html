@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joplin - Awesome Selfhosted</title>
+
+    <!-- Material Design CSS -->
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+    <!-- App Bar -->
+    <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <button class="material-icons mdc-top-app-bar__navigation-icon" onclick="toggleNav()">menu</button>
+                <a href="index.html" class="mdc-top-app-bar__title" style="text-decoration:none;color:inherit;">Awesome Selfhosted</a>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="搜索项目..." class="search-input" oninput="onSearchInput(this.value)">
+                </div>
+            </section>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content mdc-top-app-bar--fixed-adjust">
+        
+<div class="project-detail">
+    <nav class="breadcrumb">
+        <a href="../index.html">← 返回首页</a>
+        <span class="breadcrumb-sep">/</span>
+        <a href="../categories.html">Note-taking & Editors</a>
+    </nav>
+
+    <header class="project-header">
+        <h1>Joplin</h1>
+        <div class="badge-group">
+            <span class="badge badge-category">Note-taking & Editors</span>
+            <span class="badge badge-language">N/A</span>
+            <span class="badge badge-license">N/A</span>
+            <span class="badge badge-stars">⭐ 0</span>
+        </div>
+    </header>
+
+    <!-- 项目简介 -->
+    <section class="section">
+        <h2>项目简介</h2>
+        
+        <p class="zh-description">Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`</p>
+        <p class="en-description" lang="en">
+            <strong>原文:</strong> Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+        </p>
+    </section>
+
+    <!-- 技术信息 -->
+    <section class="section">
+        <h2>技术信息</h2>
+        <div class="tech-table mdc-card">
+            <table>
+                <tr>
+                    <th>开发语言</th>
+                    <td><span class="badge badge-language">N/A</span></td>
+                </tr>
+                <tr>
+                    <th>许可证</th>
+                    <td>N/A</td>
+                </tr>
+                <tr>
+                    <th>Star 数量</th>
+                    <td>⭐ 0</td>
+                </tr>
+                <tr>
+                    <th>Fork 数量</th>
+                    <td>🍴 0</td>
+                </tr>
+                <tr>
+                    <th>开放 Issues</th>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <th>最后更新</th>
+                    <td>N/A</td>
+                </tr>
+                
+            </table>
+        </div>
+    </section>
+
+    <!-- 相关链接 -->
+    <section class="section">
+        <h2>相关链接</h2>
+        <div class="action-buttons">
+            <a href="https://joplinapp.org/" target="_blank" class="mdc-button mdc-button--raised">
+                <span class="mdc-button__label">GitHub 仓库</span>
+            </a>
+            
+        </div>
+    </section>
+</div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>从 <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank">awesome-selfhosted</a> 自动生成</p>
+            <p>生成时间: 2026-07-06</p>
+        </div>
+    </footer>
+
+    <!-- Material Design JS -->
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/virtual_scroller.js"></script>
+    
+    <script>
+        // 初始化 Material 组件
+        mdc.autoInit();
+
+        // 全局搜索导航
+        function onSearchInput(value) {
+            if (window.searchInstance) {
+                window.searchInstance.search(value);
+            }
+        }
+
+        // 移动端导航切换
+        function toggleNav() {
+            var sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.classList.toggle('open');
+        }
+    </script>
+</body>
+</html>

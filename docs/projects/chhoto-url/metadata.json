@@ -1,0 +1,32 @@
+{
+  "category": "URL Shorteners",
+  "name": "Chhoto URL",
+  "url": "https://github.com/SinTan1729/chhoto-url",
+  "description_en": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Clients](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`",
+  "language": "Rust",
+  "license": "MIT",
+  "stargazers_count": 894,
+  "forks_count": 85,
+  "open_issues_count": 0,
+  "topics": [
+    "actix-web",
+    "compose",
+    "container",
+    "docker",
+    "link-shortener",
+    "podman",
+    "quadlets",
+    "rust",
+    "self-hosted",
+    "shortener",
+    "url-shortener",
+    "webapp"
+  ],
+  "homepage": "https://codeberg.org/SinTan1729/chhoto-url",
+  "description": "A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.",
+  "updated_at": "2026-07-04T22:18:19Z",
+  "pushed_at": "2026-07-03T07:58:18Z",
+  "full_name": "SinTan1729/chhoto-url",
+  "readme_preview": "A simple selfhosted URL shortener with no unnecessary features. Simplicity and speed are the main foci of this project. The scratch docker image is <4.5 MB (compressed), the alpine one is <8.5 MB (compressed), and it uses <10 MB of RAM under regular use.\n\nDon't worry if you see no activity for a long time. I consider this project to be complete, not dead. I'm unlikely to add any new features, but I will try and fix every bug you report. I will also try to keep it updated in terms of security...",
+  "slug": "chhoto-url"
+}

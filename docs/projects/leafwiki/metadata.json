@@ -1,0 +1,33 @@
+{
+  "category": "Wikis",
+  "name": "LeafWiki",
+  "url": "https://github.com/perber/leafwiki",
+  "description_en": "A fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ([Demo](https://demo.leafwiki.com)) `MIT` `Docker/Go`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 589,
+  "forks_count": 40,
+  "open_issues_count": 32,
+  "topics": [
+    "docker",
+    "documentation",
+    "file-based",
+    "flat-file",
+    "go",
+    "knowledge-base",
+    "markdown",
+    "react",
+    "runbooks",
+    "self-hosted",
+    "single-binary",
+    "sqlite",
+    "wiki"
+  ],
+  "homepage": "https://leafwiki.com",
+  "description": "LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.",
+  "updated_at": "2026-07-05T16:01:30Z",
+  "pushed_at": "2026-07-05T16:01:28Z",
+  "full_name": "perber/leafwiki",
+  "readme_preview": "Self-hosted wiki. Single Go binary. SQLite + Markdown stored on disk.\n\nFor engineers and self-hosters who want structured, long-lived documentation. No Node.js, no Redis, no Postgres — just a binary and a data directory.\n\n![LeafWiki](./assets/preview.png)",
+  "slug": "leafwiki"
+}

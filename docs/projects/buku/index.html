@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buku - Awesome Selfhosted</title>
+
+    <!-- Material Design CSS -->
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+    <!-- App Bar -->
+    <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <button class="material-icons mdc-top-app-bar__navigation-icon" onclick="toggleNav()">menu</button>
+                <a href="index.html" class="mdc-top-app-bar__title" style="text-decoration:none;color:inherit;">Awesome Selfhosted</a>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="搜索项目..." class="search-input" oninput="onSearchInput(this.value)">
+                </div>
+            </section>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content mdc-top-app-bar--fixed-adjust">
+        
+<div class="project-detail">
+    <nav class="breadcrumb">
+        <a href="../index.html">← 返回首页</a>
+        <span class="breadcrumb-sep">/</span>
+        <a href="../categories.html">Bookmarks and Link Sharing</a>
+    </nav>
+
+    <header class="project-header">
+        <h1>Buku</h1>
+        <div class="badge-group">
+            <span class="badge badge-category">Bookmarks and Link Sharing</span>
+            <span class="badge badge-language">Python</span>
+            <span class="badge badge-license">GPL-3.0</span>
+            <span class="badge badge-stars">⭐ 7,157</span>
+        </div>
+    </header>
+
+    <!-- 项目简介 -->
+    <section class="section">
+        <h2>项目简介</h2>
+        
+        <div class="readme-preview">
+            <p><h1 align="center">buku</h1>
+
+<p align="center"> <a href="https://github.com/jarun/buku/releases/latest"><img src="https://img.shields.io/github/release/jarun/buku.svg?maxAge=600" alt="Latest release" /></a> <a href="https://repology.org/project/buku/versions"><img src="https://repology.org/badge/tiny-repos/buku.svg?header=repos" alt="Availability"></a> <a href="https://pypi.org/project/buku/"><img src="https://img.shields.io/pypi/v/buku.svg?maxAge=600" alt="PyPI" /></a> <a...</p>
+        </div>
+        
+        <p class="zh-description">Powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`</p>
+        <p class="en-description" lang="en">
+            <strong>原文:</strong> Powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
+        </p>
+    </section>
+
+    <!-- 技术信息 -->
+    <section class="section">
+        <h2>技术信息</h2>
+        <div class="tech-table mdc-card">
+            <table>
+                <tr>
+                    <th>开发语言</th>
+                    <td><span class="badge badge-language">Python</span></td>
+                </tr>
+                <tr>
+                    <th>许可证</th>
+                    <td>GPL-3.0</td>
+                </tr>
+                <tr>
+                    <th>Star 数量</th>
+                    <td>⭐ 7,157</td>
+                </tr>
+                <tr>
+                    <th>Fork 数量</th>
+                    <td>🍴 315</td>
+                </tr>
+                <tr>
+                    <th>开放 Issues</th>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <th>最后更新</th>
+                    <td>2026-07-03</td>
+                </tr>
+                
+                <tr>
+                    <th>标签</th>
+                    <td>
+                        
+                        <span class="badge badge-topic">bookmark</span>
+                        
+                        <span class="badge badge-topic">bookmark-manager</span>
+                        
+                        <span class="badge badge-topic">bookmarks</span>
+                        
+                        <span class="badge badge-topic">cli</span>
+                        
+                        <span class="badge badge-topic">command-line</span>
+                        
+                        <span class="badge badge-topic">console</span>
+                        
+                        <span class="badge badge-topic">organizer</span>
+                        
+                        <span class="badge badge-topic">privacy-aware</span>
+                        
+                    </td>
+                </tr>
+                
+            </table>
+        </div>
+    </section>
+
+    <!-- 相关链接 -->
+    <section class="section">
+        <h2>相关链接</h2>
+        <div class="action-buttons">
+            <a href="https://github.com/jarun/Buku" target="_blank" class="mdc-button mdc-button--raised">
+                <span class="mdc-button__label">GitHub 仓库</span>
+            </a>
+            
+        </div>
+    </section>
+</div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>从 <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank">awesome-selfhosted</a> 自动生成</p>
+            <p>生成时间: 2026-07-06</p>
+        </div>
+    </footer>
+
+    <!-- Material Design JS -->
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/virtual_scroller.js"></script>
+    
+    <script>
+        // 初始化 Material 组件
+        mdc.autoInit();
+
+        // 全局搜索导航
+        function onSearchInput(value) {
+            if (window.searchInstance) {
+                window.searchInstance.search(value);
+            }
+        }
+
+        // 移动端导航切换
+        function toggleNav() {
+            var sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.classList.toggle('open');
+        }
+    </script>
+</body>
+</html>

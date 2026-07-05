@@ -1,0 +1,31 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Apprise",
+  "url": "https://github.com/caronc/apprise",
+  "description_en": "Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`",
+  "language": "Python",
+  "license": "BSD-2-Clause",
+  "stargazers_count": 16838,
+  "forks_count": 620,
+  "open_issues_count": 28,
+  "topics": [
+    "alerts",
+    "apprise",
+    "framework",
+    "notification-api",
+    "notification-hub",
+    "notification-service",
+    "notifications",
+    "notifier",
+    "notify",
+    "push-notifications",
+    "python"
+  ],
+  "homepage": "https://hub.docker.com/r/caronc/apprise",
+  "description": "Apprise - Push Notifications that work with just about every platform!",
+  "updated_at": "2026-07-05T15:00:27Z",
+  "pushed_at": "2026-07-04T19:39:17Z",
+  "full_name": "caronc/apprise",
+  "readme_preview": "![Apprise Logo](https://raw.githubusercontent.com/caronc/apprise/master/apprise/assets/themes/default/apprise-logo.png)\n\n<hr/>\n\n**ap·prise** / *verb*<br/> To inform or tell (someone). To make one aware of something. <hr/>",
+  "slug": "apprise"
+}

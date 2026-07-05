@@ -1,0 +1,23 @@
+{
+  "category": "Recipe Management",
+  "name": "What To Cook?",
+  "url": "https://github.com/kassner/whattocook",
+  "description_en": "Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`",
+  "language": "Java",
+  "license": "AGPL-3.0",
+  "stargazers_count": 63,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [
+    "hacktoberfest",
+    "recipes",
+    "self-hosted"
+  ],
+  "homepage": "https://www.kassner.com.br/en/2023/09/21/what-to-cook-launch/",
+  "description": "Get a recipe to cook today, based on the ingredients you have at home.",
+  "updated_at": "2026-06-03T17:09:41Z",
+  "pushed_at": "2025-11-20T21:09:46Z",
+  "full_name": "kassner/whattocook",
+  "readme_preview": "You don't know what to cook today? This project will suggest you one recipe, adapting to the ingredients that you have available at home.\n\nRunning with Docker Compose:\n\nSee [examples/docker-compose.yml](examples/docker-compose.yml).",
+  "slug": "what-to-cook"
+}

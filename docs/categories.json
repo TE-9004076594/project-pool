@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Miscellaneous",
+    "name_zh": "Miscellaneous",
+    "count": 66
+  },
+  {
+    "name": "Communication - Social Networks and Forums",
+    "name_zh": "Communication - Social Networks and Forums",
+    "count": 39
+  },
+  {
+    "name": "Communication - Custom Communication Systems",
+    "name_zh": "Communication - Custom Communication Systems",
+    "count": 37
+  },
+  {
+    "name": "Content Management Systems (CMS)",
+    "name_zh": "Content Management Systems (CMS)",
+    "count": 37
+  },
+  {
+    "name": "Money, Budgeting & Management",
+    "name_zh": "Money, Budgeting & Management",
+    "count": 36
+  },
+  {
+    "name": "Software Development - Project Management",
+    "name_zh": "Software Development - Project Management",
+    "count": 35
+  },
+  {
+    "name": "File Transfer - Single-click & Drag-n-drop Upload",
+    "name_zh": "File Transfer - Single-click & Drag-n-drop Upload",
+    "count": 29
+  },
+  {
+    "name": "Analytics",
+    "name_zh": "Analytics",
+    "count": 28
+  },
+  {
+    "name": "Wikis",
+    "name_zh": "Wikis",
+    "count": 26
+  },
+  {
+    "name": "Automation",
+    "name_zh": "Automation",
+    "count": 24
+  },
+  {
+    "name": "Media Streaming - Audio Streaming",
+    "name_zh": "Media Streaming - Audio Streaming",
+    "count": 24
+  },
+  {
+    "name": "Feed Readers",
+    "name_zh": "Feed Readers",
+    "count": 22
+  },
+  {
+    "name": "Photo Galleries",
+    "name_zh": "Photo Galleries",
+    "count": 22
+  },
+  {
+    "name": "E-commerce",
+    "name_zh": "E-commerce",
+    "count": 20
+  },
+  {
+    "name": "Note-taking & Editors",
+    "name_zh": "Note-taking & Editors",
+    "count": 20
+  },
+  {
+    "name": "Pastebins",
+    "name_zh": "Pastebins",
+    "count": 20
+  },
+  {
+    "name": "Web Servers",
+    "name_zh": "Web Servers",
+    "count": 20
+  },
+  {
+    "name": "Internet of Things (IoT)",
+    "name_zh": "Internet of Things (IoT)",
+    "count": 19
+  },
+  {
+    "name": "Self-hosting Solutions",
+    "name_zh": "Self-hosting Solutions",
+    "count": 19
+  },
+  {
+    "name": "Task Management & To-do Lists",
+    "name_zh": "Task Management & To-do Lists",
+    "count": 19
+  },
+  {
+    "name": "Communication - Email - Complete Solutions",
+    "name_zh": "Communication - Email - Complete Solutions",
+    "count": 18
+  },
+  {
+    "name": "Games",
+    "name_zh": "Games",
+    "count": 18
+  },
+  {
+    "name": "Personal Dashboards",
+    "name_zh": "Personal Dashboards",
+    "count": 18
+  },
+  {
+    "name": "Bookmarks and Link Sharing",
+    "name_zh": "Bookmarks and Link Sharing",
+    "count": 17
+  },
+  {
+    "name": "Polls and Events",
+    "name_zh": "Polls and Events",
+    "count": 17
+  },
+  {
+    "name": "File Transfer & Synchronization",
+    "name_zh": "File Transfer & Synchronization",
+    "count": 16
+  },
+  {
+    "name": "File Transfer - Web-based File Managers",
+    "name_zh": "File Transfer - Web-based File Managers",
+    "count": 16
+  },
+  {
+    "name": "Games - Administrative Utilities & Control Panels",
+    "name_zh": "Games - Administrative Utilities & Control Panels",
+    "count": 16
+  },
+  {
+    "name": "Blogging Platforms",
+    "name_zh": "Blogging Platforms",
+    "count": 15
+  },
+  {
+    "name": "Document Management",
+    "name_zh": "Document Management",
+    "count": 15
+  },
+  {
+    "name": "Learning and Courses",
+    "name_zh": "Learning and Courses",
+    "count": 15
+  },
+  {
+    "name": "Maps and Global Positioning System (GPS)",
+    "name_zh": "Maps and Global Positioning System (GPS)",
+    "count": 15
+  },
+  {
+    "name": "Media Management",
+    "name_zh": "Media Management",
+    "count": 15
+  },
+  {
+    "name": "Media Streaming - Multimedia Streaming",
+    "name_zh": "Media Streaming - Multimedia Streaming",
+    "count": 15
+  },
+  {
+    "name": "Database Management",
+    "name_zh": "Database Management",
+    "count": 14
+  },
+  {
+    "name": "Archiving and Digital Preservation (DP)",
+    "name_zh": "Archiving and Digital Preservation (DP)",
+    "count": 13
+  },
+  {
+    "name": "Groupware",
+    "name_zh": "Groupware",
+    "count": 13
+  },
+  {
+    "name": "Search Engines",
+    "name_zh": "Search Engines",
+    "count": 13
+  },
+  {
+    "name": "Communication - SIP",
+    "name_zh": "Communication - SIP",
+    "count": 12
+  },
+  {
+    "name": "Software Development - API Management",
+    "name_zh": "Software Development - API Management",
+    "count": 12
+  },
+  {
+    "name": "Communication - IRC",
+    "name_zh": "Communication - IRC",
+    "count": 11
+  },
+  {
+    "name": "Document Management - E-books",
+    "name_zh": "Document Management - E-books",
+    "count": 11
+  },
+  {
+    "name": "Generative Artificial Intelligence (GenAI)",
+    "name_zh": "Generative Artificial Intelligence (GenAI)",
+    "count": 11
+  },
+  {
+    "name": "Media Streaming - Video Streaming",
+    "name_zh": "Media Streaming - Video Streaming",
+    "count": 11
+  },
+  {
+    "name": "Recipe Management",
+    "name_zh": "Recipe Management",
+    "count": 11
+  },
+  {
+    "name": "Ticketing",
+    "name_zh": "Ticketing",
+    "count": 11
+  },
+  {
+    "name": "Communication - Email - Mail Transfer Agents",
+    "name_zh": "Communication - Email - Mail Transfer Agents",
+    "count": 10
+  },
+  {
+    "name": "Communication - Email - Mailing Lists and Newsletters",
+    "name_zh": "Communication - Email - Mailing Lists and Newsletters",
+    "count": 10
+  },
+  {
+    "name": "Software Development - IDE & Tools",
+    "name_zh": "Software Development - IDE & Tools",
+    "count": 10
+  },
+  {
+    "name": "Software Development - Low Code",
+    "name_zh": "Software Development - Low Code",
+    "count": 10
+  },
+  {
+    "name": "Communication - Video Conferencing",
+    "name_zh": "Communication - Video Conferencing",
+    "count": 9
+  },
+  {
+    "name": "Proxy",
+    "name_zh": "Proxy",
+    "count": 9
+  },
+  {
+    "name": "Remote Access",
+    "name_zh": "Remote Access",
+    "count": 9
+  },
+  {
+    "name": "Time Tracking",
+    "name_zh": "Time Tracking",
+    "count": 9
+  },
+  {
+    "name": "URL Shorteners",
+    "name_zh": "URL Shorteners",
+    "count": 9
+  },
+  {
+    "name": "Booking and Scheduling",
+    "name_zh": "Booking and Scheduling",
+    "count": 8
+  },
+  {
+    "name": "Calendar & Contacts",
+    "name_zh": "Calendar & Contacts",
+    "count": 8
+  },
+  {
+    "name": "Community-Supported Agriculture (CSA)",
+    "name_zh": "Community-Supported Agriculture (CSA)",
+    "count": 8
+  },
+  {
+    "name": "Inventory Management",
+    "name_zh": "Inventory Management",
+    "count": 8
+  },
+  {
+    "name": "Network Utilities",
+    "name_zh": "Network Utilities",
+    "count": 8
+  },
+  {
+    "name": "Resource Planning",
+    "name_zh": "Resource Planning",
+    "count": 8
+  },
+  {
+    "name": "Video Surveillance",
+    "name_zh": "Video Surveillance",
+    "count": 8
+  },
+  {
+    "name": "Customer Relationship Management (CRM)",
+    "name_zh": "Customer Relationship Management (CRM)",
+    "count": 7
+  },
+  {
+    "name": "File Transfer - Peer-to-peer Filesharing",
+    "name_zh": "File Transfer - Peer-to-peer Filesharing",
+    "count": 7
+  },
+  {
+    "name": "Knowledge Management Tools",
+    "name_zh": "Knowledge Management Tools",
+    "count": 7
+  },
+  {
+    "name": "Communication - XMPP - Servers",
+    "name_zh": "Communication - XMPP - Servers",
+    "count": 6
+  },
+  {
+    "name": "Document Management - Institutional Repository and Digital Library Software",
+    "name_zh": "Document Management - Institutional Repository and Digital Library Software",
+    "count": 6
+  },
+  {
+    "name": "Office Suites",
+    "name_zh": "Office Suites",
+    "count": 6
+  },
+  {
+    "name": "Password Managers",
+    "name_zh": "Password Managers",
+    "count": 6
+  },
+  {
+    "name": "Conference Management",
+    "name_zh": "Conference Management",
+    "count": 5
+  },
+  {
+    "name": "DNS",
+    "name_zh": "DNS",
+    "count": 5
+  },
+  {
+    "name": "File Transfer - Object Storage & File Servers",
+    "name_zh": "File Transfer - Object Storage & File Servers",
+    "count": 5
+  },
+  {
+    "name": "Genealogy",
+    "name_zh": "Genealogy",
+    "count": 5
+  },
+  {
+    "name": "Health and Fitness",
+    "name_zh": "Health and Fitness",
+    "count": 5
+  },
+  {
+    "name": "Manufacturing",
+    "name_zh": "Manufacturing",
+    "count": 5
+  },
+  {
+    "name": "Communication - Email - Webmail Clients",
+    "name_zh": "Communication - Email - Webmail Clients",
+    "count": 4
+  },
+  {
+    "name": "Software Development - Feature Toggle",
+    "name_zh": "Software Development - Feature Toggle",
+    "count": 4
+  },
+  {
+    "name": "Software Development - Localization",
+    "name_zh": "Software Development - Localization",
+    "count": 4
+  },
+  {
+    "name": "Communication - XMPP - Web Clients",
+    "name_zh": "Communication - XMPP - Web Clients",
+    "count": 3
+  },
+  {
+    "name": "Document Management - Integrated Library Systems (ILS)",
+    "name_zh": "Document Management - Integrated Library Systems (ILS)",
+    "count": 3
+  },
+  {
+    "name": "Human Resources Management (HRM)",
+    "name_zh": "Human Resources Management (HRM)",
+    "count": 3
+  },
+  {
+    "name": "Software Development - Testing",
+    "name_zh": "Software Development - Testing",
+    "count": 3
+  },
+  {
+    "name": "Communication - Email - Mail Delivery Agents",
+    "name_zh": "Communication - Email - Mail Delivery Agents",
+    "count": 2
+  },
+  {
+    "name": "External Links",
+    "name_zh": "External Links",
+    "count": 2
+  }
+]

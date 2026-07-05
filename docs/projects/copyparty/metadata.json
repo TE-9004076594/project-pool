@@ -1,0 +1,28 @@
+{
+  "category": "File Transfer - Web-based File Managers",
+  "name": "copyparty",
+  "url": "https://github.com/9001/copyparty",
+  "description_en": "Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 45480,
+  "forks_count": 1855,
+  "open_issues_count": 266,
+  "topics": [
+    "copyparty",
+    "file-server",
+    "file-sharing",
+    "file-upload-server",
+    "ftp-server",
+    "nas-frontend",
+    "tftp-server",
+    "webdav-server"
+  ],
+  "homepage": "",
+  "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+  "updated_at": "2026-07-05T16:08:15Z",
+  "pushed_at": "2026-07-05T16:08:06Z",
+  "full_name": "9001/copyparty",
+  "readme_preview": "<img src=\"https://github.com/9001/copyparty/raw/hovudstraum/docs/logo.svg\" width=\"250\" align=\"right\"/>\n\nturn almost any device into a file server with resumable uploads/downloads using [*any*](#browser-support) web browser\n\n* server only needs Python (2 or 3), all dependencies optional * 🔌 protocols: [http(s)](#the-browser) // [webdav](#webdav-server) // [sftp](#sftp-server) // [ftp(s)](#ftp-server) // [tftp](#tftp-server) // [smb/cifs](#smb-server) * 📱 [android app](#android-app) // [iPhone...",
+  "slug": "copyparty"
+}

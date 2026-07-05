@@ -1,0 +1,25 @@
+{
+  "category": "Remote Access",
+  "name": "Sshwifty",
+  "url": "https://github.com/nirui/sshwifty",
+  "description_en": "Sshwifty is a SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`",
+  "language": "JavaScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 3111,
+  "forks_count": 399,
+  "open_issues_count": 40,
+  "topics": [
+    "ssh",
+    "telnet",
+    "webssh",
+    "webssh2",
+    "webtelnet"
+  ],
+  "homepage": "https://sshwifty-demo.nirui.org",
+  "description": "Web SSH & Telnet (WebSSH & WebTelnet client) 🔮",
+  "updated_at": "2026-07-05T14:09:21Z",
+  "pushed_at": "2026-05-22T04:46:30Z",
+  "full_name": "nirui/sshwifty",
+  "readme_preview": "**Sshwifty is a SSH and Telnet client made for the Web,** allow you to access SSH and Telnet services right from your web browser.\n\n![Screenshot](Screenshot.png)\n\n(The glass glare effect above is only included in the Executive Golden Premium Plus+ Platinum Ultimate AD-free version, which can be obtained after joining the cult. Though, science has proven that the normal AD-free version is sufficient for most people. In fact, the majority of people surveyed are annoyed by the glare, while the...",
+  "slug": "sshwifty"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Software Development - IDE & Tools",
+  "name": "code-server",
+  "url": "https://github.com/coder/code-server",
+  "description_en": "VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 78194,
+  "forks_count": 6733,
+  "open_issues_count": 155,
+  "topics": [
+    "browser-ide",
+    "dev-tools",
+    "development-environment",
+    "ide",
+    "remote-work",
+    "vscode",
+    "vscode-remote"
+  ],
+  "homepage": "https://coder.com",
+  "description": "VS Code in the browser",
+  "updated_at": "2026-07-05T15:55:39Z",
+  "pushed_at": "2026-07-02T20:32:38Z",
+  "full_name": "coder/code-server",
+  "readme_preview": "Run [VS Code](https://github.com/Microsoft/vscode) on any machine anywhere and access it in the browser.\n\n![Screenshot](./assets/screenshot-1.png) ![Screenshot](./assets/screenshot-2.png)\n\n- Code on any device with a consistent development environment - Use cloud servers to speed up tests, compilations, downloads, and more - Preserve battery life when you're on the go; all intensive tasks run on your server",
+  "slug": "code-server"
+}

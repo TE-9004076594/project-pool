@@ -1,0 +1,19 @@
+{
+  "category": "DNS",
+  "name": "AdGuard Home",
+  "url": "https://adguard.com/en/adguard-home/overview.html",
+  "description_en": "User-friendly ads & trackers blocking DNS server. ([Source Code](https://github.com/AdguardTeam/AdGuardHome)) `GPL-3.0` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "adguard-home"
+}

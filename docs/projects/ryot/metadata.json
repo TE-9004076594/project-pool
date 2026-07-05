@@ -1,0 +1,25 @@
+{
+  "category": "Personal Dashboards",
+  "name": "ryot",
+  "url": "https://github.com/ignisda/ryot",
+  "description_en": "Track various facets of your life - media, fitness, etc. ([Demo](https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo)) `GPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 3396,
+  "forks_count": 115,
+  "open_issues_count": 51,
+  "topics": [
+    "exercise-tracker",
+    "fitness-tracker",
+    "integrations",
+    "media-tracking",
+    "tracker"
+  ],
+  "homepage": "https://ryot.io",
+  "description": "Roll your own tracker!",
+  "updated_at": "2026-07-05T16:27:07Z",
+  "pushed_at": "2026-07-05T14:08:39Z",
+  "full_name": "IgnisDa/ryot",
+  "readme_preview": "<h1 align=\"center\">Ryot</h1>\n\n<h3 align=\"center\"> A self hosted platform for tracking various facets of your life - media, fitness and more. </h3>\n\n<br/>",
+  "slug": "ryot"
+}

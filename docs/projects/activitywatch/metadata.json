@@ -1,0 +1,19 @@
+{
+  "category": "Time Tracking",
+  "name": "ActivityWatch",
+  "url": "https://activitywatch.net",
+  "description_en": "Automatically track how you spend time on your devices. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "activitywatch"
+}

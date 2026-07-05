@@ -1,0 +1,28 @@
+{
+  "category": "Media Streaming - Audio Streaming",
+  "name": "Snapcast",
+  "url": "https://github.com/snapcast/snapcast",
+  "description_en": "Synchronous multiroom audio server. `GPL-3.0` `C++/deb`",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "stargazers_count": 7739,
+  "forks_count": 540,
+  "open_issues_count": 120,
+  "topics": [
+    "audio",
+    "audio-player",
+    "audio-streaming",
+    "lms",
+    "multiroom-audio",
+    "music",
+    "sonos",
+    "synchronous"
+  ],
+  "homepage": "",
+  "description": "Synchronous multiroom audio player",
+  "updated_at": "2026-07-05T12:37:12Z",
+  "pushed_at": "2026-06-27T10:02:18Z",
+  "full_name": "snapcast/snapcast",
+  "readme_preview": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"doc/Snapcast_800_dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"doc/Snapcast_800.png\"> <img alt=\"Snapcast\" src=\"doc/Snapcast_800.png\"> </picture>\n\n**S**y**n**chronous **a**udio **p**layer\n\nSnapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. It's not a standalone player, but an extension that turns your existing audio player into...",
+  "slug": "snapcast"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Internet of Things (IoT)",
+  "name": "Home Assistant",
+  "url": "https://home-assistant.io/",
+  "description_en": "Home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/core)) `Apache-2.0` `Python/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "home-assistant"
+}

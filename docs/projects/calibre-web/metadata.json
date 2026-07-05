@@ -1,0 +1,25 @@
+{
+  "category": "Document Management - E-books",
+  "name": "Calibre Web",
+  "url": "https://github.com/janeczku/calibre-web",
+  "description_en": "Browse, read and download eBooks using an existing Calibre database. `GPL-3.0` `Python`",
+  "language": "Fluent",
+  "license": "GPL-3.0",
+  "stargazers_count": 17633,
+  "forks_count": 1803,
+  "open_issues_count": 410,
+  "topics": [
+    "calibre",
+    "ebook",
+    "ebook-manager",
+    "epub",
+    "mobi"
+  ],
+  "homepage": "",
+  "description": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+  "updated_at": "2026-07-05T15:48:56Z",
+  "pushed_at": "2026-05-24T08:20:51Z",
+  "full_name": "janeczku/calibre-web",
+  "readme_preview": "Calibre-Web is a web app that offers a clean and intuitive interface for browsing, reading, and downloading eBooks using a valid [Calibre](https://calibre-ebook.com) database.\n\n![Commit Activity](https://img.shields.io/github/commit-activity/w/janeczku/calibre-web?logo=github&style=flat-square&label=commits)\n\n<details> <summary><strong>Table of Contents</strong> (click to expand)</summary>",
+  "slug": "calibre-web"
+}

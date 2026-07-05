@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Email - Mail Transfer Agents",
+  "name": "Sendmail",
+  "url": "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution",
+  "description_en": "Message transfer agent (MTA). `Sendmail` `C/deb`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "sendmail"
+}

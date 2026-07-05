@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - Project Management",
+  "name": "Gerrit",
+  "url": "https://www.gerritcodereview.com/",
+  "description_en": "Code review and project management tool for Git-based projects. ([Source Code](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "gerrit"
+}

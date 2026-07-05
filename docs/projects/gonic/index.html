@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gonic - Awesome Selfhosted</title>
+
+    <!-- Material Design CSS -->
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+    <!-- App Bar -->
+    <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <button class="material-icons mdc-top-app-bar__navigation-icon" onclick="toggleNav()">menu</button>
+                <a href="index.html" class="mdc-top-app-bar__title" style="text-decoration:none;color:inherit;">Awesome Selfhosted</a>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="搜索项目..." class="search-input" oninput="onSearchInput(this.value)">
+                </div>
+            </section>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content mdc-top-app-bar--fixed-adjust">
+        
+<div class="project-detail">
+    <nav class="breadcrumb">
+        <a href="../index.html">← 返回首页</a>
+        <span class="breadcrumb-sep">/</span>
+        <a href="../categories.html">Media Streaming - Audio Streaming</a>
+    </nav>
+
+    <header class="project-header">
+        <h1>gonic</h1>
+        <div class="badge-group">
+            <span class="badge badge-category">Media Streaming - Audio Streaming</span>
+            <span class="badge badge-language">Go</span>
+            <span class="badge badge-license">GPL-3.0</span>
+            <span class="badge badge-stars">⭐ 2,457</span>
+        </div>
+    </header>
+
+    <!-- 项目简介 -->
+    <section class="section">
+        <h2>项目简介</h2>
+        
+        <div class="readme-preview">
+            <p><p align="center"><img width="500" src="https://github.com/sentriz/gonic/blob/master/.github/logo.png?raw=true"></p> <h4 align="center">free-software <a href="http://www.subsonic.org/">subsonic</a> server API implementation, supporting its <a href="https://github.com/sentriz/gonic?tab=readme-ov-file#features">many clients</a></h4> <p align="center"> <a href="http://hub.docker.com/r/sentriz/gonic"><img src="https://img.shields.io/docker/pulls/sentriz/gonic.svg"></a> <a...</p>
+        </div>
+        
+        <p class="zh-description">Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`</p>
+        <p class="en-description" lang="en">
+            <strong>原文:</strong> Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
+        </p>
+    </section>
+
+    <!-- 技术信息 -->
+    <section class="section">
+        <h2>技术信息</h2>
+        <div class="tech-table mdc-card">
+            <table>
+                <tr>
+                    <th>开发语言</th>
+                    <td><span class="badge badge-language">Go</span></td>
+                </tr>
+                <tr>
+                    <th>许可证</th>
+                    <td>GPL-3.0</td>
+                </tr>
+                <tr>
+                    <th>Star 数量</th>
+                    <td>⭐ 2,457</td>
+                </tr>
+                <tr>
+                    <th>Fork 数量</th>
+                    <td>🍴 150</td>
+                </tr>
+                <tr>
+                    <th>开放 Issues</th>
+                    <td>66</td>
+                </tr>
+                <tr>
+                    <th>最后更新</th>
+                    <td>2026-06-30</td>
+                </tr>
+                
+                <tr>
+                    <th>标签</th>
+                    <td>
+                        
+                        <span class="badge badge-topic">airsonic</span>
+                        
+                        <span class="badge badge-topic">docker</span>
+                        
+                        <span class="badge badge-topic">docker-compose</span>
+                        
+                        <span class="badge badge-topic">dsub</span>
+                        
+                        <span class="badge badge-topic">ffmpeg</span>
+                        
+                        <span class="badge badge-topic">go</span>
+                        
+                        <span class="badge badge-topic">golang</span>
+                        
+                        <span class="badge badge-topic">internet-radio</span>
+                        
+                    </td>
+                </tr>
+                
+            </table>
+        </div>
+    </section>
+
+    <!-- 相关链接 -->
+    <section class="section">
+        <h2>相关链接</h2>
+        <div class="action-buttons">
+            <a href="https://github.com/sentriz/gonic" target="_blank" class="mdc-button mdc-button--raised">
+                <span class="mdc-button__label">GitHub 仓库</span>
+            </a>
+            
+            <a href="https://web.libera.chat/?channels=#gonic" target="_blank" class="mdc-button mdc-button--outlined">
+                <span class="mdc-button__label">官方网站</span>
+            </a>
+            
+        </div>
+    </section>
+</div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>从 <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank">awesome-selfhosted</a> 自动生成</p>
+            <p>生成时间: 2026-07-06</p>
+        </div>
+    </footer>
+
+    <!-- Material Design JS -->
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/virtual_scroller.js"></script>
+    
+    <script>
+        // 初始化 Material 组件
+        mdc.autoInit();
+
+        // 全局搜索导航
+        function onSearchInput(value) {
+            if (window.searchInstance) {
+                window.searchInstance.search(value);
+            }
+        }
+
+        // 移动端导航切换
+        function toggleNav() {
+            var sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.classList.toggle('open');
+        }
+    </script>
+</body>
+</html>

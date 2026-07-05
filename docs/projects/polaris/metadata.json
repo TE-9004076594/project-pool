@@ -1,0 +1,19 @@
+{
+  "category": "Media Streaming - Audio Streaming",
+  "name": "Polaris",
+  "url": "https://github.com/agersant/polaris",
+  "description_en": "Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`",
+  "language": "Rust",
+  "license": "MIT",
+  "stargazers_count": 2691,
+  "forks_count": 128,
+  "open_issues_count": 27,
+  "topics": [],
+  "homepage": "",
+  "description": "Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.",
+  "updated_at": "2026-07-05T05:01:48Z",
+  "pushed_at": "2026-05-08T02:20:14Z",
+  "full_name": "agersant/polaris",
+  "readme_preview": "<div align=\"center\"> <h1><img src=\"res/readme/logo.png?raw=true\"/></h1>\n\n![Polaris Web UI](res/readme/web_ui.png?raw=true \"Polaris Web UI\") </div>\n\nPolaris is a self-hosted music streaming server, to enjoy your music collection from any computer or mobile device. It is free and open-source software, without any kind of premium version.",
+  "slug": "polaris"
+}

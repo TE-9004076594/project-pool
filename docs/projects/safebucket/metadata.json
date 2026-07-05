@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Safebucket",
+  "url": "https://docs.safebucket.io/",
+  "description_en": "File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage. ([Source Code](https://github.com/safebucket/safebucket)) `Apache-2.0` `Go/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "safebucket"
+}

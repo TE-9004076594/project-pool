@@ -1,0 +1,19 @@
+{
+  "category": "Automation",
+  "name": "Cronicle",
+  "url": "https://cronicle.net/",
+  "description_en": "Simple, distributed task scheduler and runner with a web based UI. ([Source Code](https://github.com/jhuckaby/Cronicle)) `MIT` `Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "cronicle"
+}

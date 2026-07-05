@@ -1,0 +1,122 @@
+[
+  {
+    "name": "TypeScript",
+    "count": 35,
+    "name_zh": "TypeScript"
+  },
+  {
+    "name": "Go",
+    "count": 34,
+    "name_zh": "Go"
+  },
+  {
+    "name": "Python",
+    "count": 33,
+    "name_zh": "Python"
+  },
+  {
+    "name": "JavaScript",
+    "count": 22,
+    "name_zh": "JavaScript"
+  },
+  {
+    "name": "Rust",
+    "count": 12,
+    "name_zh": "Rust"
+  },
+  {
+    "name": "PHP",
+    "count": 12,
+    "name_zh": "PHP"
+  },
+  {
+    "name": "Ruby",
+    "count": 7,
+    "name_zh": "Ruby"
+  },
+  {
+    "name": "C++",
+    "count": 7,
+    "name_zh": "C++"
+  },
+  {
+    "name": "HTML",
+    "count": 7,
+    "name_zh": "HTML"
+  },
+  {
+    "name": "C",
+    "count": 5,
+    "name_zh": "C"
+  },
+  {
+    "name": "Vue",
+    "count": 4,
+    "name_zh": "Vue"
+  },
+  {
+    "name": "C#",
+    "count": 3,
+    "name_zh": "C#"
+  },
+  {
+    "name": "Haskell",
+    "count": 3,
+    "name_zh": "Haskell"
+  },
+  {
+    "name": "Java",
+    "count": 3,
+    "name_zh": "Java"
+  },
+  {
+    "name": "Svelte",
+    "count": 2,
+    "name_zh": "Svelte"
+  },
+  {
+    "name": "Dockerfile",
+    "count": 2,
+    "name_zh": "Dockerfile"
+  },
+  {
+    "name": "Scala",
+    "count": 2,
+    "name_zh": "Scala"
+  },
+  {
+    "name": "Shell",
+    "count": 2,
+    "name_zh": "Shell"
+  },
+  {
+    "name": "Fluent",
+    "count": 1,
+    "name_zh": "Fluent"
+  },
+  {
+    "name": "Elm",
+    "count": 1,
+    "name_zh": "Elm"
+  },
+  {
+    "name": "Lua",
+    "count": 1,
+    "name_zh": "Lua"
+  },
+  {
+    "name": "Haxe",
+    "count": 1,
+    "name_zh": "Haxe"
+  },
+  {
+    "name": "Elixir",
+    "count": 1,
+    "name_zh": "Elixir"
+  },
+  {
+    "name": "Crystal",
+    "count": 1,
+    "name_zh": "Crystal"
+  }
+]

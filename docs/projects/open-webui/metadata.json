@@ -1,0 +1,19 @@
+{
+  "category": "Generative Artificial Intelligence (GenAI)",
+  "name": "Open-WebUI",
+  "url": "https://openwebui.com",
+  "description_en": "User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "open-webui"
+}

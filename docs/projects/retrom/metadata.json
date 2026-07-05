@@ -1,0 +1,19 @@
+{
+  "category": "Games - Administrative Utilities & Control Panels",
+  "name": "Retrom",
+  "url": "https://github.com/JMBeresford/retrom",
+  "description_en": "Private cloud game library distribution server + frontend/launcher. `GPL-3.0` `Docker/Rust`",
+  "language": "TypeScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 1993,
+  "forks_count": 42,
+  "open_issues_count": 76,
+  "topics": [],
+  "homepage": "",
+  "description": "A centralized game library/collection management service with a focus on emulation",
+  "updated_at": "2026-07-05T12:21:58Z",
+  "pushed_at": "2026-07-04T23:03:31Z",
+  "full_name": "JMBeresford/retrom",
+  "readme_preview": "<div align='center'>\n\n![Banner][banner-link]\n\n<h6>Join the Discord server:</h6>",
+  "slug": "retrom"
+}

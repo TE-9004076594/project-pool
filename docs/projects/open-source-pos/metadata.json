@@ -1,0 +1,26 @@
+{
+  "category": "E-commerce",
+  "name": "Open Source POS",
+  "url": "https://github.com/opensourcepos/opensourcepos",
+  "description_en": "Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`",
+  "language": "PHP",
+  "license": "NOASSERTION",
+  "stargazers_count": 4270,
+  "forks_count": 2574,
+  "open_issues_count": 252,
+  "topics": [
+    "bootstrap3",
+    "codeigniter3",
+    "inventory-management",
+    "php",
+    "point-of-sale",
+    "reporting"
+  ],
+  "homepage": "http://www.opensourcepos.org",
+  "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
+  "updated_at": "2026-07-04T20:27:19Z",
+  "pushed_at": "2026-07-02T11:59:38Z",
+  "full_name": "opensourcepos/opensourcepos",
+  "readme_preview": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/opensourcepos/opensourcepos/master/branding/emblem.svg\" alt=\"Open Source Point of Sale Logo\" width=\"auto\" height=\"200\"></p> <h3 align=\"center\">Open Source Point of Sale</h3>\n\n<p align=\"center\"> <a href=\"#-introduction\">Introduction</a> · <a href=\"#-live-demo\">Demo</a> · <a href=\"#-installation\">Installation</a> · <a href=\"#-contributing\">Contributing</a> · <a href=\"#-reporting-bugs\">Bugs</a> · <a href=\"#-faq\">FAQ</a> · <a...",
+  "slug": "open-source-pos"
+}

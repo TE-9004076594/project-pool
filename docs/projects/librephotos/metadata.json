@@ -1,0 +1,27 @@
+{
+  "category": "Photo Galleries",
+  "name": "LibrePhotos",
+  "url": "https://github.com/LibrePhotos/librephotos",
+  "description_en": "Photo management service with a slight focus on cool graphs (alternative to Google Photos). ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 7999,
+  "forks_count": 380,
+  "open_issues_count": 230,
+  "topics": [
+    "django",
+    "exif",
+    "hacktoberfest",
+    "machine-learning",
+    "photo",
+    "python",
+    "selfhosted"
+  ],
+  "homepage": "https://docs.librephotos.com/",
+  "description": "A self-hosted open source photo management service. ",
+  "updated_at": "2026-07-05T02:22:43Z",
+  "pushed_at": "2026-07-04T21:56:29Z",
+  "full_name": "LibrePhotos/librephotos",
+  "readme_preview": "![](https://github.com/LibrePhotos/librephotos/blob/dev/apps/backend/screenshots/mockups_main_fhd.png?raw=true) <sub>Mockup designed by rawpixel.com / Freepik</sub>\n\nA self-hosted, open-source photo management service with automatic face recognition, object detection, and semantic search — powered by modern machine learning.\n\n- **Stable** demo is available here: https://demo1.librephotos.com/ . User is ```demo```, password is ```demo1234``` (with sample images). - Latest **development** demo is...",
+  "slug": "librephotos"
+}

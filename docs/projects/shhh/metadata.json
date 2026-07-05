@@ -1,0 +1,19 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Shhh",
+  "url": "https://github.com/smallwat3r/shhh",
+  "description_en": "Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 415,
+  "forks_count": 31,
+  "open_issues_count": 8,
+  "topics": [],
+  "homepage": "",
+  "description": "Share sensitive info without leaving a trace in your chat logs or email accounts.",
+  "updated_at": "2026-06-22T17:02:19Z",
+  "pushed_at": "2026-05-20T01:25:36Z",
+  "full_name": "smallwat3r/shhh",
+  "readme_preview": "<p align=\"center\"> <img width=\"100px\" src=\"https://github.com/smallwat3r/shhh/blob/master/shhh/static/img/logo.png\" /> </p> <p align=\"center\">Keep secrets out of emails and chat logs.</p>\n\n<p align=\"center\"> <a href=\"https://codecov.io/gh/smallwat3r/shhh\" rel=\"nofollow\"><img src=\"https://codecov.io/gh/smallwat3r/shhh/branch/master/graph/badge.svg\" style=\"max-width:100%;\"></a> <a href=\"https://codeclimate.com/github/smallwat3r/shhh/maintainability\" rel=\"nofollow\"><img...",
+  "slug": "shhh"
+}

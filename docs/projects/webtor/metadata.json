@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Peer-to-peer Filesharing",
+  "name": "Webtor",
+  "url": "https://github.com/webtor-io/self-hosted",
+  "description_en": "Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`",
+  "language": "Dockerfile",
+  "license": "MIT",
+  "stargazers_count": 649,
+  "forks_count": 60,
+  "open_issues_count": 9,
+  "topics": [],
+  "homepage": null,
+  "description": "Self-hosted version of webtor.io implemented as an all-in-one Docker image",
+  "updated_at": "2026-07-04T21:47:17Z",
+  "pushed_at": "2025-11-30T08:29:59Z",
+  "full_name": "webtor-io/self-hosted",
+  "readme_preview": "This is the self-hosted version of [webtor.io](https://webtor.io), implemented as an all-in-one Docker image.\n\n- **Direct Download Link (DDL):** Select any file inside a torrent and download it directly. - **Instant Video and Audio Streaming:** Choose a video or audio file inside a torrent and start streaming immediately without needing to download it first. **Supported Formats:** - **Video:** `avi`, `mkv`, `mp4`, `webm`, `m4v`, `ts`, `vob` - **Audio:** `mp3`, `wav`, `ogg`, `flac`, `m4a` -...",
+  "slug": "webtor"
+}

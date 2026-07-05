@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - Project Management",
+  "name": "minimal-git-server",
+  "url": "https://github.com/mcarbonne/minimal-git-server",
+  "description_en": "Lightweight git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. `MIT` `Docker`",
+  "language": "Shell",
+  "license": "MIT",
+  "stargazers_count": 45,
+  "forks_count": 4,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "Minimal git server running in a container (docker, podman...)",
+  "updated_at": "2026-06-25T16:17:40Z",
+  "pushed_at": "2026-06-25T16:17:43Z",
+  "full_name": "mcarbonne/minimal-git-server",
+  "readme_preview": "Originally inspired by https://github.com/jkarlosb/git-server-docker\n\nThis tool lets you run a minimal git server with a basic CLI to manage repositories, all in a container based on a single configuration file.\n\n- support multiple accounts (config.yml) - basic CLI to manage repositories (list/create/rename/remove/...) - easy to use in scripts - tested on docker and podman",
+  "slug": "minimal-git-server"
+}

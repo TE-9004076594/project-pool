@@ -1,0 +1,19 @@
+{
+  "category": "Groupware",
+  "name": "Tracim",
+  "url": "https://github.com/tracim/tracim",
+  "description_en": "Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "stargazers_count": 273,
+  "forks_count": 39,
+  "open_issues_count": 1515,
+  "topics": [],
+  "homepage": "https://tracim.fr/",
+  "description": "Threads, files and pages with status and full history. All in the same place.",
+  "updated_at": "2026-07-04T02:28:01Z",
+  "pushed_at": "2026-07-03T15:19:58Z",
+  "full_name": "tracim/tracim",
+  "readme_preview": "![Logo Tracim](docs/_assets/logo_tracim.png)\n\n⚠️ 2026-01-14 - The development and release processes are under active rework. If you are interested in deploying Tracim, do not hesitate to [contact us ](https://www.tracim-teamwork.com/en/contact.html).\n\nUnified platform for seamless collaboration. No matter when you work!",
+  "slug": "tracim"
+}

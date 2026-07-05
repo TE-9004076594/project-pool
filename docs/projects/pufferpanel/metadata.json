@@ -1,0 +1,19 @@
+{
+  "category": "Games - Administrative Utilities & Control Panels",
+  "name": "PufferPanel",
+  "url": "https://www.pufferpanel.com/",
+  "description_en": "Game server management panel designed for both small networks and game server providers. ([Source Code](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "pufferpanel"
+}

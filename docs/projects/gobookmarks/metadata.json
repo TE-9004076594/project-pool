@@ -1,0 +1,31 @@
+{
+  "category": "Personal Dashboards",
+  "name": "gobookmarks",
+  "url": "https://github.com/arran4/gobookmarks",
+  "description_en": "Landing page to display bookmarks stored in GitHub, GitLab or local Git. `AGPL-3.0` `Go/Docker`",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "stargazers_count": 15,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [
+    "bookmarks",
+    "github",
+    "github-api",
+    "go",
+    "golang",
+    "home-page",
+    "homepage",
+    "live-bookmarks",
+    "start-page",
+    "startpage",
+    "web"
+  ],
+  "homepage": "",
+  "description": "Landing page for when you open browsers / live bookmarks in go.",
+  "updated_at": "2026-07-05T01:28:52Z",
+  "pushed_at": "2026-07-05T01:28:50Z",
+  "full_name": "arran4/gobookmarks",
+  "readme_preview": "![logo.png](logo.png)\n\n`gobookmarks` is a self-hosted personal landing page / start page that renders your bookmarks from a simple text file you own. Edit and store your data with visual tools or plain text, backed by Git (GitHub, GitLab, local Git, or SQL) so there is no lock-in and you always have history.\n\n![Screenshot_20250716_161941.png](media/Screenshot_20250716_161941.png)",
+  "slug": "gobookmarks"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "Web Servers",
+  "name": "go-doxy",
+  "url": "https://github.com/yusing/godoxy",
+  "description_en": "Lightweight, simple, and performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "stargazers_count": 3368,
+  "forks_count": 140,
+  "open_issues_count": 12,
+  "topics": [
+    "docker",
+    "go",
+    "golang",
+    "homepage",
+    "letsencrypt",
+    "microservice",
+    "reverse-proxy",
+    "self-hosted",
+    "startpage"
+  ],
+  "homepage": "https://docs.godoxy.dev",
+  "description": "High-performance reverse proxy and container orchestrator for self-hosters",
+  "updated_at": "2026-07-04T15:36:18Z",
+  "pushed_at": "2026-07-04T15:36:15Z",
+  "full_name": "yusing/godoxy",
+  "readme_preview": "<div align=\"center\">\n\n<img src=\"assets/godoxy.png\" width=\"200\">\n\n![GitHub last commit](https://img.shields.io/github/last-commit/yusing/godoxy)",
+  "slug": "go-doxy"
+}

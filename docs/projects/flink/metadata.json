@@ -1,0 +1,19 @@
+{
+  "category": "URL Shorteners",
+  "name": "Flink",
+  "url": "https://gitlab.com/rtraceio/web/flink",
+  "description_en": "Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "flink"
+}

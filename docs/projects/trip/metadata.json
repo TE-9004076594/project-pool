@@ -1,0 +1,19 @@
+{
+  "category": "Maps and Global Positioning System (GPS)",
+  "name": "TRIP",
+  "url": "https://itskovacs-trip.netlify.app/",
+  "description_en": "Minimalist POI Map tracker and Trip planner. ([Demo](https://itskovacs-trip.netlify.app/home), [Source Code](https://github.com/itskovacs/trip)) `MIT` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "trip"
+}

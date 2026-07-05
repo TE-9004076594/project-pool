@@ -1,0 +1,19 @@
+{
+  "category": "Document Management - Institutional Repository and Digital Library Software",
+  "name": "Islandora",
+  "url": "https://www.islandora.ca/",
+  "description_en": "Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "islandora"
+}

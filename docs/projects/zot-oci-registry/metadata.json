@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Object Storage & File Servers",
+  "name": "ZOT OCI Registry",
+  "url": "https://zotregistry.dev",
+  "description_en": "A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "zot-oci-registry"
+}

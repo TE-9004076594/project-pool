@@ -1,0 +1,19 @@
+{
+  "category": "Inventory Management",
+  "name": "HomeBox (SysAdminsMedia)",
+  "url": "https://homebox.software/",
+  "description_en": "Inventory and organization system built for the home user. ([Demo](https://demo.homebox.software/), [Source Code](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "homebox-sysadminsmedia"
+}

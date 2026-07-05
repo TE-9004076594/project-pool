@@ -1,0 +1,19 @@
+{
+  "category": "Community-Supported Agriculture (CSA)",
+  "name": "OpenOlitor",
+  "url": "https://openolitor.org/",
+  "description_en": "Administration platform for Community Supported Agriculture groups. ([Source Code](https://github.com/OpenOlitor/openolitor-server)) `AGPL-3.0` `Scala`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "openolitor"
+}

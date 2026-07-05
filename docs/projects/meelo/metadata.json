@@ -1,0 +1,28 @@
+{
+  "category": "Media Streaming - Multimedia Streaming",
+  "name": "Meelo",
+  "url": "https://github.com/Arthi-chaud/Meelo",
+  "description_en": "Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`",
+  "language": "TypeScript",
+  "license": "GPL-3.0",
+  "stargazers_count": 1156,
+  "forks_count": 36,
+  "open_issues_count": 67,
+  "topics": [
+    "mediaserver",
+    "music",
+    "music-collection",
+    "music-video",
+    "self-hosted",
+    "server",
+    "video",
+    "webapp"
+  ],
+  "homepage": "",
+  "description": "Self-hosted Music Server. Focused on metadata integration & UI",
+  "updated_at": "2026-07-05T14:28:37Z",
+  "pushed_at": "2026-07-04T18:28:44Z",
+  "full_name": "Arthi-chaud/Meelo",
+  "readme_preview": "<div align=\"center\" style=\"display: flex; justify-content: center; align-items: center;\"> <img width=\"500\" src=\"https://github.com/user-attachments/assets/8d9b147f-aad3-4cd7-898b-01e58f65dd7c\" /> </div>\n\n**<div align=\"center\">[Features](#star-features) • [Setup](#-setup) • [Screenshots](#camera-screenshots) • [Wiki](https://github.com/Arthi-chaud/Meelo/wiki)</div>**\n\n<img src=\"https://github.com/user-attachments/assets/4a489a25-3cf7-4281-a9c1-cf9d41351e69\" />",
+  "slug": "meelo"
+}

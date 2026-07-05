@@ -1,0 +1,31 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Gokapi",
+  "url": "https://github.com/Forceu/gokapi",
+  "description_en": "Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "stargazers_count": 2787,
+  "forks_count": 132,
+  "open_issues_count": 37,
+  "topics": [
+    "backblaze-b2",
+    "docker",
+    "download",
+    "firefox-send",
+    "golang",
+    "ownyourdata",
+    "s3-storage",
+    "self-hosted",
+    "selfhosted",
+    "ssl",
+    "uploader"
+  ],
+  "homepage": "",
+  "description": "Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.",
+  "updated_at": "2026-07-04T11:58:19Z",
+  "pushed_at": "2026-05-20T14:23:17Z",
+  "full_name": "Forceu/Gokapi",
+  "readme_preview": "**Gokapi** is a modern, self-hosted alternative to Firefox Send that puts you in control of your file sharing. Built with Go, it combines simplicity with powerful features like automatic file expiration, end-to-end encryption, and flexible cloud storage support.\n\n- **Bare Metal** (Linux/macOS/Windows) - **Docker**: [View on Docker Hub](https://hub.docker.com/r/f0rc3/gokapi)\n\n- **Expiring file shares:** Automatically removed after a set number of downloads or days - **User management with...",
+  "slug": "gokapi"
+}

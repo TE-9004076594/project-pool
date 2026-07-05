@@ -1,0 +1,26 @@
+{
+  "category": "Miscellaneous",
+  "name": "DOCAT",
+  "url": "https://github.com/docat-org/docat",
+  "description_en": "Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`",
+  "language": "TypeScript",
+  "license": "MIT",
+  "stargazers_count": 902,
+  "forks_count": 55,
+  "open_issues_count": 12,
+  "topics": [
+    "docs",
+    "fancy",
+    "hacktoberfest",
+    "hosting",
+    "selfhosted",
+    "versioning"
+  ],
+  "homepage": "",
+  "description": "Host your docs. Simple. Versioned. Fancy.",
+  "updated_at": "2026-07-04T01:53:55Z",
+  "pushed_at": "2026-06-22T08:27:20Z",
+  "full_name": "docat-org/docat",
+  "readme_preview": "![docat](doc/assets/docat-teaser.png)\n\n**Host your docs. Simple. Versioned. Fancy.**\n\nWhen generating static documentation using",
+  "slug": "docat"
+}

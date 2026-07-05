@@ -1,0 +1,24 @@
+{
+  "category": "Photo Galleries",
+  "name": "sigal",
+  "url": "https://github.com/saimn/sigal",
+  "description_en": "Yet another simple static gallery generator. `MIT` `Python`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 941,
+  "forks_count": 173,
+  "open_issues_count": 95,
+  "topics": [
+    "galleria",
+    "gallery",
+    "python",
+    "static-site-generator"
+  ],
+  "homepage": "https://sigal.readthedocs.io/en/latest/",
+  "description": "yet another simple static gallery generator",
+  "updated_at": "2026-07-02T20:59:31Z",
+  "pushed_at": "2026-07-02T20:59:28Z",
+  "full_name": "saimn/sigal",
+  "readme_preview": "Sigal - Simple Static Gallery Generator =======================================\n\n.. image:: https://github.com/saimn/sigal/workflows/Run%20unit%20tests/badge.svg :target: https://github.com/saimn/sigal/actions :alt: CI Status\n\n.. image:: https://codecov.io/gh/saimn/sigal/branch/main/graph/badge.svg :target: https://codecov.io/gh/saimn/sigal :alt: codecov.io",
+  "slug": "sigal"
+}

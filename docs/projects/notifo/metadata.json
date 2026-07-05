@@ -1,0 +1,32 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "Notifo",
+  "url": "https://github.com/notifo-io/notifo",
+  "description_en": "Multichannel notification server with support for Email, Mobile Push, Web Push, SMS, messaging and a javascript plugin. `MIT` `C#`",
+  "language": "C#",
+  "license": "MIT",
+  "stargazers_count": 875,
+  "forks_count": 84,
+  "open_issues_count": 19,
+  "topics": [
+    "asp-net",
+    "bootstrap",
+    "email",
+    "email-marketing",
+    "mjml-template",
+    "mobile-push",
+    "notifications",
+    "react",
+    "sms-messages",
+    "sockets",
+    "web",
+    "web-push"
+  ],
+  "homepage": "",
+  "description": "Multi channel notification service for collaboration tools, e-commerce, news service and more.",
+  "updated_at": "2026-06-30T15:18:21Z",
+  "pushed_at": "2026-06-30T15:16:01Z",
+  "full_name": "notifo-io/notifo",
+  "readme_preview": "Try it out at https://app.notifo.io!\n\nNotifo is a multi-channel notification service for collaboration tools, e-commerce, news, magazines and everybody who wants to notify their users.\n\n![Notifo Tour](https://github.com/notifo-io/notifo/raw/main/media/tour/Notifo.gif \"Notifo Tour\")",
+  "slug": "notifo"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Archiving and Digital Preservation (DP)",
+  "name": "Omeka S",
+  "url": "https://omeka.org/s/",
+  "description_en": "Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ([Source Code](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "omeka-s"
+}

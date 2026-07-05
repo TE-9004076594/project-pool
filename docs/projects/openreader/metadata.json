@@ -1,0 +1,19 @@
+{
+  "category": "Miscellaneous",
+  "name": "OpenReader",
+  "url": "https://openreader.richardr.dev/",
+  "description_en": "EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code](https://github.com/richardr1126/openreader)) `MIT` `Docker`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "openreader"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Communication - XMPP - Servers",
+  "name": "Openfire",
+  "url": "https://www.igniterealtime.org/projects/openfire/",
+  "description_en": "Real time collaboration (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache-2.0` `Java`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "openfire"
+}

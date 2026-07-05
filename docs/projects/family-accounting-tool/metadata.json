@@ -1,0 +1,25 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "Family Accounting Tool",
+  "url": "https://github.com/nymanjens/facto",
+  "description_en": "Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`",
+  "language": "Scala",
+  "license": "NOASSERTION",
+  "stargazers_count": 354,
+  "forks_count": 8,
+  "open_issues_count": 5,
+  "topics": [
+    "accounting",
+    "family",
+    "personal",
+    "tool",
+    "website"
+  ],
+  "homepage": "",
+  "description": "Family Accounting Tool",
+  "updated_at": "2026-07-04T04:02:27Z",
+  "pushed_at": "2026-07-03T20:57:50Z",
+  "full_name": "nymanjens/facto",
+  "readme_preview": "Family Accounting Tool ======================\n\nFamily Accounting Tool keeps track of every transaction your family makes. Its goal is to:\n\n- Extract useful statistics from the data<br> _E.g.: How much is spent on food each month?_ - Calculate internal debt<br> _E.g.: Alice buys toilet paper for the whole family with her own money. This tool then registers that the family owes Alice the cost of the toilet paper._ - Provide a way to check if no money is disappearing in unexpected expenses<br>...",
+  "slug": "family-accounting-tool"
+}

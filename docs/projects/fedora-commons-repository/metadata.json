@@ -1,0 +1,19 @@
+{
+  "category": "Document Management - Institutional Repository and Digital Library Software",
+  "name": "Fedora Commons Repository",
+  "url": "https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home",
+  "description_en": "Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "fedora-commons-repository"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "Self-hosting Solutions",
+  "name": "NextCloudPi",
+  "url": "https://github.com/nextcloud/nextcloudpi",
+  "description_en": "Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`",
+  "language": "Shell",
+  "license": null,
+  "stargazers_count": 2917,
+  "forks_count": 320,
+  "open_issues_count": 216,
+  "topics": [
+    "arm",
+    "nextcloud",
+    "qemu",
+    "raspberry-pi",
+    "raspbian",
+    "x86-64"
+  ],
+  "homepage": "https://nextcloudpi.com",
+  "description": "📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...",
+  "updated_at": "2026-07-03T07:42:40Z",
+  "pushed_at": "2026-06-29T12:53:27Z",
+  "full_name": "nextcloud/nextcloudpi",
+  "readme_preview": "English | [Traditional Chinese 繁體中文](i18n/README-zh_TW.md) | [Simplified Chinese 简体中文](i18n/README-zh_CN.md)\n\n_(The translated README pages are not updated at this time)_\n\n<p align=\"center\"> <img src=\"https://github.com/nextcloud/nextcloudpi/blob/master/ncp-app/img/app.svg\" width=\"120\" height=\"85\" alt=\"NextcloudPi logo\"> </p>",
+  "slug": "nextcloudpi"
+}

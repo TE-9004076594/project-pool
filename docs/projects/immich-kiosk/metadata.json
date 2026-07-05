@@ -1,0 +1,26 @@
+{
+  "category": "Photo Galleries",
+  "name": "Immich Kiosk",
+  "url": "https://github.com/damongolding/immich-kiosk",
+  "description_en": "Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. `GPL-3.0` `Docker/Go`",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "stargazers_count": 1577,
+  "forks_count": 69,
+  "open_issues_count": 8,
+  "topics": [
+    "golang",
+    "immich",
+    "immich-slideshow",
+    "immichkiosk",
+    "photos",
+    "slideshow"
+  ],
+  "homepage": "https://immichkiosk.app",
+  "description": "Highly configurable slideshows for displaying Immich assets on browsers and devices.",
+  "updated_at": "2026-07-05T10:42:11Z",
+  "pushed_at": "2026-07-03T09:22:25Z",
+  "full_name": "damongolding/immich-kiosk",
+  "readme_preview": "<div align=\"center\"> <a href=\"https://github.com/damongolding/immich-kiosk\"> <img src=\"/assets/logo.svg\" width=\"240\" height=\"auto\" alt=\"Immich Kiosk windmill logo\" /> </a> </div> <br /> <br /> <div align=\"center\" style=\"display: flex; gap: 2rem;\">\n\n<a href=\"https://github.com/damongolding/immich-kiosk/releases/latest\" target=\"_blank\" style=\"underline: none !important\"> <img alt=\"Kiosk latest release number\" src=\"https://badgen.net/github/release/damongolding/immich-kiosk/stable\"> </a>\n\n<br />",
+  "slug": "immich-kiosk"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "PicoShare",
+  "url": "https://github.com/mtlynch/picoshare",
+  "description_en": "Minimalist, easy-to-host service for sharing images and other files. `AGPL-3.0` `Go/Docker`",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "stargazers_count": 2960,
+  "forks_count": 209,
+  "open_issues_count": 27,
+  "topics": [],
+  "homepage": "",
+  "description": "A minimalist, easy-to-host service for sharing images and other files",
+  "updated_at": "2026-07-04T16:24:52Z",
+  "pushed_at": "2026-05-26T17:58:29Z",
+  "full_name": "mtlynch/picoshare",
+  "readme_preview": "PicoShare is a minimalist, self-hosted web app that makes it easy to share files on the web without restrictions on size, file type, or media format.\n\nThere are a million services for sharing files, but none of them are quite like PicoShare. Here are PicoShare's advantages:\n\n- **Direct download links**: PicoShare gives you a direct download link you can share with anyone. They can view or download the file with no ads or signups. - **No file restrictions**: Unlike sites like imgur, Vimeo, or...",
+  "slug": "picoshare"
+}

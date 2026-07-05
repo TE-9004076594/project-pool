@@ -1,0 +1,31 @@
+{
+  "category": "Automation",
+  "name": "µTask",
+  "url": "https://github.com/ovh/utask",
+  "description_en": "Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`",
+  "language": "Go",
+  "license": "BSD-3-Clause",
+  "stargazers_count": 1389,
+  "forks_count": 100,
+  "open_issues_count": 85,
+  "topics": [
+    "angular8",
+    "automation",
+    "devops",
+    "devops-tools",
+    "go",
+    "golang",
+    "golang-application",
+    "hacktoberfest",
+    "workflow",
+    "workflow-automation",
+    "workflow-engine"
+  ],
+  "homepage": "",
+  "description": "µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋",
+  "updated_at": "2026-07-01T07:13:52Z",
+  "pushed_at": "2026-06-10T09:30:28Z",
+  "full_name": "ovh/utask",
+  "readme_preview": "![GitHub last commit](https://img.shields.io/github/last-commit/ovh/utask)\n\nµTask is an automation engine built for the cloud. It is: - **simple to operate**: only a postgres DB is required - **secure**: all data is encrypted, only visible to authorized users - **extensible**: you can develop custom actions in golang\n\nµTask allows you to model business processes in a **declarative yaml format**. Describe a set of inputs and a graph of actions and their inter-dependencies: µTask will...",
+  "slug": "µtask"
+}

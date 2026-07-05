@@ -1,0 +1,19 @@
+{
+  "category": "Money, Budgeting & Management",
+  "name": "monetr",
+  "url": "https://monetr.app/",
+  "description_en": "Budgeting application focused on planning for recurring expenses. ([Source Code](https://github.com/monetr/monetr)) `FSL-1.1-MIT` `Docker/K8S`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "monetr"
+}

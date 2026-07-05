@@ -1,0 +1,27 @@
+{
+  "category": "Miscellaneous",
+  "name": "CyberChef",
+  "url": "https://github.com/gchq/CyberChef",
+  "description_en": "Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "stargazers_count": 35261,
+  "forks_count": 4037,
+  "open_issues_count": 566,
+  "topics": [
+    "compression",
+    "data-analysis",
+    "data-manipulation",
+    "encoding",
+    "encryption",
+    "hashing",
+    "parsing"
+  ],
+  "homepage": "https://gchq.github.io/CyberChef",
+  "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+  "updated_at": "2026-07-05T14:45:08Z",
+  "pushed_at": "2026-07-05T12:30:35Z",
+  "full_name": "gchq/CyberChef",
+  "readme_preview": "CyberChef is a simple, intuitive web app for carrying out all manner of \"cyber\" operations within a web browser. These operations include simple encoding like XOR and Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more.\n\nThe tool is designed to enable both technical and non-technical analysts to manipulate data in...",
+  "slug": "cyberchef"
+}

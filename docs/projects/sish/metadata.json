@@ -1,0 +1,28 @@
+{
+  "category": "Proxy",
+  "name": "sish",
+  "url": "https://github.com/antoniomika/sish",
+  "description_en": "HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 4665,
+  "forks_count": 331,
+  "open_issues_count": 23,
+  "topics": [
+    "http",
+    "https",
+    "ngrok",
+    "serveo",
+    "ssh",
+    "tcp",
+    "tunnel",
+    "websockets"
+  ],
+  "homepage": "https://ssi.sh",
+  "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
+  "updated_at": "2026-07-04T17:37:20Z",
+  "pushed_at": "2026-06-25T01:20:35Z",
+  "full_name": "antoniomika/sish",
+  "readme_preview": "Open source SSH tunneling for HTTP(S), WS(S), TCP, aliases, and SNI.\n\nIf you like the simplicity of serveo/ngrok-style sharing but want to use plain SSH and run your own infrastructure, `sish` is built for that.\n\n- No custom client required for end users - Public and private tunnel workflows - Docker and binary releases - Designed for production-grade self-hosting",
+  "slug": "sish"
+}

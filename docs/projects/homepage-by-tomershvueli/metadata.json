@@ -1,0 +1,24 @@
+{
+  "category": "Personal Dashboards",
+  "name": "Homepage by tomershvueli",
+  "url": "https://github.com/tomershvueli/homepage",
+  "description_en": "Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 322,
+  "forks_count": 29,
+  "open_issues_count": 3,
+  "topics": [
+    "homepage",
+    "minimal",
+    "php",
+    "self-hosted"
+  ],
+  "homepage": "",
+  "description": "A simple, standalone, self-hosted PHP page that is your window to your server and the web. ",
+  "updated_at": "2026-06-10T02:40:43Z",
+  "pushed_at": "2021-05-09T18:11:15Z",
+  "full_name": "tomershvueli/homepage",
+  "readme_preview": "This project is a simple, standalone, self-hosted PHP page that is meant to be your window to your server and the web.\n\nIt is your minimalist corner of the internet. The background will update with a gorgeous (and royalty free) image from [Unsplash](https://unsplash.com/), or a custom source every 20 seconds. With it, a simple menu is available to you with your most frequented links.\n\nAll the assets needed are part of the repo so it can run offline (though it won't fetch pretty background...",
+  "slug": "homepage-by-tomershvueli"
+}

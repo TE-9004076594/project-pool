@@ -1,0 +1,29 @@
+{
+  "category": "Communication - Custom Communication Systems",
+  "name": "SimpleX Chat",
+  "url": "https://github.com/simplex-chat/simplex-chat",
+  "description_en": "The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`",
+  "language": "Haskell",
+  "license": "AGPL-3.0",
+  "stargazers_count": 17903,
+  "forks_count": 1052,
+  "open_issues_count": 1177,
+  "topics": [
+    "chat",
+    "double-ratchet",
+    "e2ee",
+    "encryption",
+    "haskell",
+    "messaging",
+    "privacy",
+    "protocol",
+    "security"
+  ],
+  "homepage": "https://simplex.chat",
+  "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+  "updated_at": "2026-07-05T16:12:12Z",
+  "pushed_at": "2026-07-05T15:44:18Z",
+  "full_name": "simplex-chat/simplex-chat",
+  "readme_preview": "<a rel=\"me\" href=\"https://mastodon.social/@simplex\">![Follow on Mastodon](https://img.shields.io/mastodon/follow/108619463746856738?domain=https%3A%2F%2Fmastodon.social&style=social)</a>\n\n| 30/03/2023 | EN, [FR](/docs/lang/fr/README.md), [CZ](/docs/lang/cs/README.md), [PL](/docs/lang/pl/README.md) |\n\n<img src=\"images/github-banner.jpg\" alt=\"SimpleX logo\" width=\"100%\">",
+  "slug": "simplex-chat"
+}

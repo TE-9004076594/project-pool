@@ -1,0 +1,26 @@
+{
+  "category": "Photo Galleries",
+  "name": "SPIS",
+  "url": "https://github.com/gbbirkisson/spis",
+  "description_en": "A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`",
+  "language": "Rust",
+  "license": "GPL-3.0",
+  "stargazers_count": 206,
+  "forks_count": 12,
+  "open_issues_count": 10,
+  "topics": [
+    "gallery",
+    "images",
+    "pwa",
+    "raspberry-pi",
+    "self-hosted",
+    "video"
+  ],
+  "homepage": "",
+  "description": "Simple private image server 🖼️",
+  "updated_at": "2026-07-03T06:33:35Z",
+  "pushed_at": "2026-07-04T13:36:47Z",
+  "full_name": "gbbirkisson/spis",
+  "readme_preview": "<h1> <p align=\"center\"> <a href=\"https://github.com/gbbirkisson/spis\"> <img src=\"assets/favicon.png\" alt=\"Logo\" height=\"128\"> </a> <br>spis </p> </h1>\n\n<p align=\"center\"> <b>S</b>imple <b>P</b>rivate <b>I</b>mage <b>S</b>erver </p>\n\n<p align=\"center\"> <a href=\"https://github.com/gbbirkisson/spis/releases\"><img src=\"https://img.shields.io/github/v/release/gbbirkisson/spis\"></a> <a href=\"https://github.com/gbbirkisson/spis/commits/main\"><img...",
+  "slug": "spis"
+}

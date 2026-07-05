@@ -1,0 +1,26 @@
+{
+  "category": "File Transfer - Single-click & Drag-n-drop Upload",
+  "name": "Shifter",
+  "url": "https://github.com/TobySuch/Shifter",
+  "description_en": "A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 41,
+  "forks_count": 9,
+  "open_issues_count": 12,
+  "topics": [
+    "django",
+    "docker",
+    "file-sharing",
+    "python",
+    "self-hosted",
+    "tailwindcss"
+  ],
+  "homepage": "",
+  "description": "A simple, self-hosted file-sharing web app",
+  "updated_at": "2026-07-02T21:05:07Z",
+  "pushed_at": "2026-07-02T21:05:38Z",
+  "full_name": "TobySuch/Shifter",
+  "readme_preview": "<p align=\"center\"> <a href=\"https://github.com/TobySuch/Shifter\"> <img alt=\"Shifter Logo\" src=\"shifter/static/img/logo-large.svg\"/> </a> </p> <p align=\"center\"> <a href=\"https://github.com/TobySuch/Shifter/actions\"> <img alt=\"Test Status\" src=\"https://github.com/TobySuch/Shifter/actions/workflows/main.yml/badge.svg?branch=main\"/> </a>\n\n<a href=\"https://github.com/TobySuch/Shifter/blob/main/LICENSE\"> <img alt=\"MIT License\" src=\"https://img.shields.io/github/license/TobySuch/Shifter.svg\"/>...",
+  "slug": "shifter"
+}

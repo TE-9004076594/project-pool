@@ -1,0 +1,21 @@
+{
+  "category": "Polls and Events",
+  "name": "Christmas Community",
+  "url": "https://github.com/Wingysam/Christmas-Community",
+  "description_en": "Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "stargazers_count": 415,
+  "forks_count": 61,
+  "open_issues_count": 65,
+  "topics": [
+    "hacktoberfest"
+  ],
+  "homepage": "",
+  "description": "Christmas lists for families",
+  "updated_at": "2026-07-04T19:47:08Z",
+  "pushed_at": "2026-06-05T19:24:27Z",
+  "full_name": "Wingysam/Christmas-Community",
+  "readme_preview": "![Docker Pulls](https://img.shields.io/docker/pulls/wingysam/christmas-community?style=for-the-badge) ![Version](https://img.shields.io/badge/dynamic/json?color=orange&label=Version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FWingysam%2FChristmas-Community%2Fmaster%2Fpackage.json&style=for-the-badge) ![Language](https://img.shields.io/badge/Language-JavaScript-DDA000?style=for-the-badge) ![Runtime](https://img.shields.io/badge/Runtime-Node.JS-68A063?style=for-the-badge)\n\nWeb app...",
+  "slug": "christmas-community"
+}

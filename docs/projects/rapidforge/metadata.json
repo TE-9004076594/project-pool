@@ -1,0 +1,19 @@
+{
+  "category": "Software Development - IDE & Tools",
+  "name": "RapidForge",
+  "url": "https://rapidforge.io/",
+  "description_en": "Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "rapidforge"
+}

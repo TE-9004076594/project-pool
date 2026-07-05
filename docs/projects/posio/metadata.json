@@ -1,0 +1,19 @@
+{
+  "category": "Games",
+  "name": "Posio",
+  "url": "https://github.com/abrenaut/posio",
+  "description_en": "Geography multiplayer game. `MIT` `Python`",
+  "language": "Python",
+  "license": "MIT",
+  "stargazers_count": 688,
+  "forks_count": 71,
+  "open_issues_count": 5,
+  "topics": [],
+  "homepage": "https://posio.abrenaut.com/",
+  "description": "A multiplayer geography game using Websockets",
+  "updated_at": "2026-06-17T19:38:22Z",
+  "pushed_at": "2024-10-08T21:32:49Z",
+  "full_name": "abrenaut/posio",
+  "readme_preview": "A multiplayer geography game built using: - [Django](https://www.djangoproject.com/) ([GeoDjango](https://docs.djangoproject.com/en/5.0/ref/contrib/gis/)) and the [Django Channels](https://channels.readthedocs.io/en/latest/) library - [HTMX](https://htmx.org/) - [Leaflet](https://leafletjs.com/)\n\nVisit [https://posio.abrenaut.com/](https://posio.abrenaut.com/) for a live demo.\n\n![Cities game screenshot](screenshot.png)",
+  "slug": "posio"
+}

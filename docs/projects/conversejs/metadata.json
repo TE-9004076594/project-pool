@@ -1,0 +1,19 @@
+{
+  "category": "Communication - XMPP - Web Clients",
+  "name": "Converse.js",
+  "url": "https://conversejs.org/",
+  "description_en": "XMPP chat client in your browser. ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "conversejs"
+}

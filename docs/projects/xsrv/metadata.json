@@ -1,0 +1,19 @@
+{
+  "category": "Self-hosting Solutions",
+  "name": "xsrv",
+  "url": "https://xsrv.readthedocs.io/",
+  "description_en": "Install and manage self-hosted services/applications, on your own server(s). ([Source Code](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "xsrv"
+}

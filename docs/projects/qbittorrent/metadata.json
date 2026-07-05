@@ -1,0 +1,19 @@
+{
+  "category": "File Transfer - Peer-to-peer Filesharing",
+  "name": "qBittorrent",
+  "url": "https://www.qbittorrent.org/",
+  "description_en": "Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`",
+  "language": null,
+  "license": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "topics": [],
+  "homepage": null,
+  "description": "",
+  "updated_at": null,
+  "pushed_at": null,
+  "full_name": null,
+  "readme_preview": "",
+  "slug": "qbittorrent"
+}

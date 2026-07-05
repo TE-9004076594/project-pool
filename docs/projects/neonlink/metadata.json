@@ -1,0 +1,19 @@
+{
+  "category": "Bookmarks and Link Sharing",
+  "name": "NeonLink",
+  "url": "https://github.com/AlexSciFier/neonlink",
+  "description_en": "Bookmark service with unique design and simple installation with Docker. `MIT` `Docker`",
+  "language": "JavaScript",
+  "license": "MIT",
+  "stargazers_count": 401,
+  "forks_count": 24,
+  "open_issues_count": 20,
+  "topics": [],
+  "homepage": "",
+  "description": "Simple self-hosted bookmark service.",
+  "updated_at": "2026-07-02T15:58:56Z",
+  "pushed_at": "2026-06-22T13:50:56Z",
+  "full_name": "AlexSciFier/neonlink",
+  "readme_preview": "<p align=\"center\"> <img src=\"./docs/logo_doc.svg\" height=\"50\" /> </p>\n\n- [Introduction](#introduction) - [Features](#features) - [Screenshots](#screenshots) - [Installation](#installation) - [Development](#development)\n\nNeonLink is a simple and open-source self-hosted bookmark service. It is lightweight, uses minimal dependencies, and is easy to install via Docker. Due to the low system requirements, this application is ideal for deployment on the RaspberryPI.",
+  "slug": "neonlink"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Software Development - Testing",
+  "name": "WebHook Tester",
+  "url": "https://github.com/tarampampam/webhook-tester",
+  "description_en": "Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`",
+  "language": "Go",
+  "license": "MIT",
+  "stargazers_count": 509,
+  "forks_count": 54,
+  "open_issues_count": 12,
+  "topics": [
+    "go",
+    "golang",
+    "http",
+    "push-notifications",
+    "tester",
+    "testing",
+    "testing-tool",
+    "tests",
+    "webhook",
+    "websocket"
+  ],
+  "homepage": "https://wh.tarampamp.am#its-just-a-demo",
+  "description": "🔭 Powerful tool for testing WebHooks and more",
+  "updated_at": "2026-07-04T01:50:40Z",
+  "pushed_at": "2026-07-01T12:45:31Z",
+  "full_name": "tarampampam/webhook-tester",
+  "readme_preview": "<p align=\"center\"> <a href=\"https://github.com/tarampampam/webhook-tester#readme\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://socialify.git.ci/tarampampam/webhook-tester/image?description=1&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fe2e659dc-7fb1-4ac2-ad3c-883899f5fc38&owner=1&pulls=1&pattern=Solid&stargazers=1&theme=Dark\"> <img align=\"center\"...",
+  "slug": "webhook-tester"
+}

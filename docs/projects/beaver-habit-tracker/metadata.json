@@ -1,0 +1,26 @@
+{
+  "category": "Time Tracking",
+  "name": "Beaver Habit Tracker",
+  "url": "https://github.com/daya0576/beaverhabits",
+  "description_en": "Habit tracking app to save your precious moments in your fleeting life. ([Demo](https://beaverhabits.com/demo)) `BSD-3-Clause` `Docker`",
+  "language": "Python",
+  "license": "BSD-3-Clause",
+  "stargazers_count": 1787,
+  "forks_count": 72,
+  "open_issues_count": 20,
+  "topics": [
+    "habit-tracker",
+    "habit-tracking",
+    "habits",
+    "python",
+    "self-hosted",
+    "streaks"
+  ],
+  "homepage": "https://beaverhabits.com/demo",
+  "description": "A self-hosted habit tracking app without \"Goals\"",
+  "updated_at": "2026-07-04T19:44:34Z",
+  "pushed_at": "2026-06-21T08:35:09Z",
+  "full_name": "daya0576/beaverhabits",
+  "readme_preview": "![GitHub Release](https://img.shields.io/github/v/release/daya0576/beaverhabits) ![Docker Pulls](https://img.shields.io/docker/pulls/daya0576/beaverhabits) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/daya0576/beaverhabits/fly.yml) ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m796940918-864324d021343c6ace874b58)\n\nA self-hosted habit tracking app without \"Goals\"\n\n<img...",
+  "slug": "beaver-habit-tracker"
+}
