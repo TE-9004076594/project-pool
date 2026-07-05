@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block title %}Awesome Selfhosted - 自托管项目集合{% endblock %}
+
+{% block content %}
+<div class="hero">
+    <h1 class="hero-title">Awesome Selfhosted</h1>
+    <p class="hero-subtitle">自托管开源项目精选集合</p>
+    <div class="search-box hero-search">
+        <input type="text" id="hero-search-input" class="search-input" placeholder="搜索项目名称、描述、分类..." oninput="onSearchInput(this.value)">
+        <button class="mdc-button mdc-button--raised" onclick="onSearchInput(document.getElementById('hero-search-input').value)">
+            <span class="mdc-button__label">搜索</span>
+        </button>
+    </div>
+</div>
+
+<!-- 统计概览 -->
+<section class="stats-section">
+    <div class="stats-grid">
+        <div class="mdc-card stat-card">
+            <div class="stat-value">{{ total_count }}</div>
+            <div class="stat-label">项目总数</div>
+        </div>
+        <div class="mdc-card stat-card">
+            <div class="stat-value">{{ categories|length }}</div>
+            <div class="stat-label">分类数量</div>
+        </div>
+        <div class="mdc-card stat-card">
+            <div class="stat-value">{{ languages|length }}</div>
+            <div class="stat-label">开发语言</div>
+        </div>
+        <div class="mdc-card stat-card">
+            <div class="stat-value">{{ generation_time }}</div>
+            <div class="stat-label">更新时间</div>
+        </div>
+    </div>
+</section>
+
+<!-- 热门分类 -->
+<section class="section">
+    <h2 class="section-title">
+        <span class="material-icons">folder</span>
+        按分类浏览
+    </h2>
+    <div class="category-grid">
+        {% for cat in categories[:12] %}
+        <a href="categories.html#{{ cat.name | slugify }}" class="mdc-card category-card">
+            <div class="category-name">{{ cat.name_zh or cat.name }}</div>
+            <div class="category-count">{{ cat.count }} 个项目</div>
+        </a>
+        {% endfor %}
+    </div>
+    <div class="view-all">
+        <a href="categories.html" class="mdc-button mdc-button--outlined">查看所有分类</a>
+    </div>
+</section>
+
+<!-- 热门语言 -->
+<section class="section">
+    <h2 class="section-title">
+        <span class="material-icons">code</span>
+        按开发语言浏览
+    </h2>
+    <div class="language-chips">
+        {% for lang in languages[:15] %}
+        <a href="languages.html#{{ lang.name | slugify }}" class="language-chip">
+            {{ lang.name }}
+            <span class="chip-count">{{ lang.count }}</span>
+        </a>
+        {% endfor %}
+    </div>
+    <div class="view-all">
+        <a href="languages.html" class="mdc-button mdc-button--outlined">查看所有语言</a>
+    </div>
+</section>
+
+<!-- 高 Star 项目 -->
+<section class="section">
+    <h2 class="section-title">
+        <span class="material-icons">star</span>
+        热门项目 (Top {{ top_projects|length }})
+    </h2>
+    <div class="project-list" id="featured-projects">
+        {% for project in top_projects %}
+        <div class="mdc-card project-card" onclick="location.href='projects/{{ project.slug }}/index.html'">
+            <div class="card-header">
+                <h3 class="project-name">{{ project.name }}</h3>
+                <span class="badge badge-category">{{ project.category_zh or project.category }}</span>
+            </div>
+            <p class="project-description">{{ project.description_zh or project.description_en }}</p>
+            <div class="card-meta">
+                <span class="meta-item">⭐ {{ "{:,}".format(project.stargazers_count) }}</span>
+                <span class="meta-item">💻 {{ project.language or 'N/A' }}</span>
+                <span class="meta-item">📄 {{ project.license or 'N/A' }}</span>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

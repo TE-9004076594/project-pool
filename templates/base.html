@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Awesome Selfhosted{% endblock %}</title>
+
+    <!-- Material Design CSS -->
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+    <!-- App Bar -->
+    <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <button class="material-icons mdc-top-app-bar__navigation-icon" onclick="toggleNav()">menu</button>
+                <a href="index.html" class="mdc-top-app-bar__title" style="text-decoration:none;color:inherit;">Awesome Selfhosted</a>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="搜索项目..." class="search-input" oninput="onSearchInput(this.value)">
+                </div>
+            </section>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content mdc-top-app-bar--fixed-adjust">
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>从 <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank">awesome-selfhosted</a> 自动生成</p>
+            <p>生成时间: {{ generation_time }}</p>
+        </div>
+    </footer>
+
+    <!-- Material Design JS -->
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/virtual_scroller.js"></script>
+    {% block scripts %}{% endblock %}
+    <script>
+        // 初始化 Material 组件
+        mdc.autoInit();
+
+        // 全局搜索导航
+        function onSearchInput(value) {
+            if (window.searchInstance) {
+                window.searchInstance.search(value);
+            }
+        }
+
+        // 移动端导航切换
+        function toggleNav() {
+            var sidebar = document.getElementById('sidebar');
+            if (sidebar) sidebar.classList.toggle('open');
+        }
+    </script>
+</body>
+</html>

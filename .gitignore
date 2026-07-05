@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Cache files
+cache/
+*.cache
+
+# Output directory (generated)
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules (if using Vercel CLI)
+node_modules/
+.vercel

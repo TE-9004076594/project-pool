@@ -1,0 +1,16 @@
+# HTTP Requests
+requests>=2.31.0
+
+# HTML/Markdown Parsing
+beautifulsoup4>=4.12.0
+markdown>=3.5.0
+
+# Template Engine
+jinja2>=3.1.0
+
+# DeepL Translation
+deepl>=1.17.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
