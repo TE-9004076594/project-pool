@@ -32,10 +32,11 @@ class SiteGenerator:
     """静态网站生成器"""
 
     def __init__(self, output_dir: str = "output", templates_dir: str = "templates",
-                 assets_dir: str = "assets"):
+                 assets_dir: str = "assets", base_url: str = "/"):
         self.output_dir = Path(output_dir)
         self.templates_dir = Path(templates_dir)
         self.assets_dir = Path(assets_dir)
+        self.base_url = base_url
 
         # 创建输出目录
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -123,6 +124,7 @@ class SiteGenerator:
             languages=languages,
             top_projects=top_projects,
             generation_time=self.generation_time,
+            base_url=self.base_url,
         )
 
         output_path = self.output_dir / "index.html"
@@ -140,6 +142,7 @@ class SiteGenerator:
         html = template.render(
             project=project,
             generation_time=self.generation_time,
+            base_url=self.base_url,
         )
 
         html_path = project_dir / "index.html"
@@ -161,6 +164,7 @@ class SiteGenerator:
             '<!DOCTYPE html><html lang="zh-CN"><head>',
             '<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">',
             '<title>分类浏览 - Awesome Selfhosted</title>',
+            f'<base href="{self.base_url}">',
             '<link rel="stylesheet" href="assets/css/custom.css">',
             '<link rel="stylesheet" href="assets/css/responsive.css">',
             '<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">',
@@ -208,6 +212,7 @@ class SiteGenerator:
             '<!DOCTYPE html><html lang="zh-CN"><head>',
             '<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">',
             '<title>按语言浏览 - Awesome Selfhosted</title>',
+            f'<base href="{self.base_url}">',
             '<link rel="stylesheet" href="assets/css/custom.css">',
             '<link rel="stylesheet" href="assets/css/responsive.css">',
             '<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">',
@@ -261,12 +266,14 @@ class SiteGenerator:
 
     def generate_search_page(self, total_count: int = 0):
         """生成搜索页面"""
-        html = '''<!DOCTYPE html>
+        b = self.base_url
+        html = f'''<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>搜索项目 - Awesome Selfhosted</title>
+    <base href="{b}">
     <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/custom.css">
@@ -277,7 +284,7 @@ class SiteGenerator:
     <div class="search-page">
         <div class="search-header">
             <h1>搜索项目</h1>
-            <p>在 ''' + str(total_count) + ''' 个自托管项目中搜索</p>
+            <p>在 {total_count} 个自托管项目中搜索</p>
             <div style="display:flex;gap:8px;margin-bottom:16px;">
                 <input type="text" id="search-input" class="search-input"
                        placeholder="输入关键词搜索..." style="flex:1;padding:12px;border:1px solid #e0e0e0;border-radius:4px;font-size:16px;">
@@ -325,33 +332,30 @@ class SiteGenerator:
     <script src="assets/js/search.js"></script>
     <script src="assets/js/virtual_scroller.js"></script>
     <script>
-        const search = new ProjectSearch({
-            onFilterChange: function() {
+        const search = new ProjectSearch({{
+            onFilterChange: function() {{
                 const query = document.getElementById('search-input').value;
                 search.search(query);
-            }
-        });
+            }}
+        }});
 
         window.searchInstance = search;
 
-        // 初始化搜索
-        search.loadIndex('search-index.json').then(function(success) {
-            if (success) {
+        search.loadIndex('search-index.json').then(function(success) {{
+            if (success) {{
                 search.search('');
-
-                // 绑定搜索框
-                document.getElementById('search-input').addEventListener('input', function(e) {
+                document.getElementById('search-input').addEventListener('input', function(e) {{
                     search.search(e.target.value);
-                });
-                document.getElementById('search-input').addEventListener('keydown', function(e) {
-                    if (e.key === 'Escape') {
+                }});
+                document.getElementById('search-input').addEventListener('keydown', function(e) {{
+                    if (e.key === 'Escape') {{
                         this.value = '';
                         search.search('');
                         this.blur();
-                    }
-                });
-            }
-        });
+                    }}
+                }});
+            }}
+        }});
     </script>
 </body>
 </html>'''

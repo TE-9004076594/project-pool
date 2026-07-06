@@ -109,7 +109,8 @@ def step_generate_site(projects: list):
     from src.generator import SiteGenerator
 
     output_dir = os.getenv('OUTPUT_DIR', 'output')
-    generator = SiteGenerator(output_dir=output_dir)
+    base_url = os.getenv('SITE_BASE_URL', '/')
+    generator = SiteGenerator(output_dir=output_dir, base_url=base_url)
     result = generator.generate(projects)
 
     # 保存执行报告
